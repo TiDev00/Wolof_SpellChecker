@@ -325,7 +325,7 @@ def get_suggestions(word: str, probs: dict, vocab: set, nbr_edit: int = 2,
     )
 
     # Get the best words and return the top n_suggested words as n_best
-    n_best = [(str(s), float(probs[s])) for s in list(suggestions) if s in probs]
+    n_best = [(str(s), float(probs[s])) for s in list(suggestions)]
     n_best.sort(key=lambda item: item[1], reverse=True)
 
     if verbose:
@@ -334,3 +334,7 @@ def get_suggestions(word: str, probs: dict, vocab: set, nbr_edit: int = 2,
     return n_best
 
 
+my_word = 'modu'
+probs = get_probs(get_count(word_extraction('wol_corpus.txt')))
+vocab = set(word_extraction('wolof_glossary.txt'))
+tmp_corrections = get_suggestions(my_word, probs, vocab, nbr_edit=2, verbose=True)
