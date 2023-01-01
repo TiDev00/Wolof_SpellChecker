@@ -40,8 +40,8 @@ koppar O
 gi O
 . O
 
-Manchester B-ORG
-City I-ORG
+Manchester 
+City 
 waroon O
 naa O
 denc O
@@ -69,10 +69,10 @@ yeek O
 réew O
 yi O
 ci O
-Afirig B-LOC
-sowu I-LOC
-- I-LOC
-jant I-LOC
+Afirig 
+sowu 
+- 
+jant 
 . O
 
 Mën O
@@ -98,7 +98,7 @@ te O
 ba O
 léegi O
 jëwriñu O
-Farãas B-LOC
+Farãas 
 ji O
 ñu O
 dénk O
@@ -111,7 +111,7 @@ saytu O
 ak O
 njattug O
 réewi O
-Afirig B-LOC
+Afirig 
 yi O
 ci O
 ñuy O
@@ -127,11 +127,11 @@ bokk O
 koppar O
 bu O
 réewum O
-Farãas B-LOC
+Farãas 
 ak O
 teewaayu O
 ndawi O
-Farãas B-LOC
+Farãas 
 yi O
 ci O
 seen O
@@ -156,8 +156,8 @@ taxaw O
 naka O
 la O
 dayob O
-Maamur B-PER
-JÀLLO I-PER
+Maamur 
+JÀLLO 
 , O
 ci O
 lu O
@@ -211,13 +211,13 @@ ngir O
 dem O
 seeti O
 askanu O
-Ndakaaru B-LOC
+Ndakaaru 
 , O
-Cees B-LOC
+Cees 
 , O
-Luga B-LOC
+Luga 
 ak O
-Kebemeer B-LOC
+Kebemeer 
 . O
 
 Sasu O
@@ -247,9 +247,9 @@ ci O
 réew O
 mi O
 , O
-ca B-DATE
-ëllëgu I-DATE
-sa I-DATE
+ca 
+ëllëgu 
+sa 
 , O
 ñuy O
 siiwalee O
@@ -282,18 +282,18 @@ ramaas O
 guddi O
 . O
 
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 fés O
 na O
-Metz B-ORG
+Metz 
 te O
 firndeel O
 na O
 ko O
-Salzbourg B-ORG
+Salzbourg 
 ( O
-Autriche B-LOC
+Autriche 
 ) O
 njëkk O
 muy O
@@ -303,7 +303,7 @@ joŋŋante O
 bu O
 njëkk O
 ca O
-Southchampton B-ORG
+Southchampton 
 . O
 
 Mooy O
@@ -324,7 +324,7 @@ la O
 ci O
 benn O
 wàllu O
-Afirig B-LOC
+Afirig 
 ak O
 ci O
 àdduna O
@@ -336,18 +336,18 @@ nërmeeloom O
 ci O
 kanamu O
 waa O
-Burkinaa B-LOC
+Burkinaa 
 , O
 sampug O
 ndëndu O
 waa O
-Senegaal B-LOC
+Senegaal 
 ca O
-Mbooloom B-ORG
-Afirig I-ORG
+Mbooloom 
+Afirig 
 mi O
 ( O
-UA B-ORG
+UA 
 ) O
 , O
 mujjantalu O
@@ -355,16 +355,16 @@ yëngu O
 - O
 yënguy O
 réewum O
-Gàmbi B-LOC
+Gàmbi 
 ci O
 dox O
 tànki O
 jàmm O
 bu O
 waa O
-Ginne B-LOC
+Ginne 
 ak O
-Móoritani B-LOC
+Móoritani 
 rawatina O
 séddaliku O
 gu O
@@ -374,9 +374,9 @@ Seefaa O
 ci O
 njiit O
 yi O
-Watara B-PER
+Watara 
 ak O
-Macron B-PER
+Macron 
 ñooy O
 ay O
 màndargaay O
@@ -390,7 +390,7 @@ ak O
 gëdd O
 gu O
 réewu O
-Senegaal B-LOC
+Senegaal 
 am O
 ci O
 jamonoom O
@@ -402,17 +402,17 @@ xew O
 xewu O
 màggal O
 dekkig O
-Aifrig B-LOC
+Aifrig 
 dinañu O
 ko O
 amal O
 ci O
-gaawo B-DATE
+gaawo 
 beek O
-dibéer B-DATE
-ji I-DATE
+dibéer 
+ji 
 ca O
-Cees B-LOC
+Cees 
 . O
 
 MD O
@@ -424,7 +424,7 @@ lile O
 nammteef O
 ngir O
 faral O
-Pastef B-ORG
+Pastef 
 ? O
 
 Moo O
@@ -454,10 +454,10 @@ yiy O
 feelu O
 , O
 waa O
-Cynogroup B-ORG
+Cynogroup 
 ak O
 waa O
-GIGN B-ORG
+GIGN 
 , O
 kurélu O
 sowu O
@@ -518,9 +518,9 @@ nanu O
 neexalug O
 lëf O
 ci O
-tabaski B-DATE
+tabaski 
 , O
-korite B-DATE
+korite 
 , O
 ubbite O
 daara O
@@ -545,12 +545,12 @@ nekk O
 
 Ciy O
 xibaari O
-Seneweb B-ORG
+Seneweb 
 lanu O
 siiwale O
 ne O
-Booy B-PER
-Jinne I-PER
+Booy 
+Jinne 
 ak O
 ñett O
 ciy O
@@ -560,7 +560,7 @@ ngi O
 ci O
 yoon O
 jëm O
-Ndakaaru B-LOC
+Ndakaaru 
 , O
 fa O
 ñu O
@@ -573,7 +573,7 @@ saytu O
 tuuma O
 yi O
 ca O
-Kolobaan B-LOC
+Kolobaan 
 . O
 
 Joxeg O
@@ -629,28 +629,28 @@ ngi O
 doore O
 ci O
 bésu O
-ñetti B-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-suweŋ I-DATE
-bi I-DATE
+ñetti 
+fan 
+ci 
+weeru 
+suweŋ 
+bi 
 , O
 boori O
-juróom B-DATE
-- I-DATE
-ñeenti I-DATE
-waxtu I-DATE
-( I-DATE
-9h I-DATE
-) I-DATE
-bu I-DATE
-teg I-DATE
-fanweeri I-DATE
-simili I-DATE
-( I-DATE
-30min I-DATE
-) I-DATE
+juróom 
+- 
+ñeenti 
+waxtu 
+( 
+9h 
+) 
+bu 
+teg 
+fanweeri 
+simili 
+( 
+30min 
+) 
 , O
 bi O
 njiital O
@@ -662,8 +662,8 @@ sàndarma O
 yi O
 , O
 Kolonel O
-DawI B-PER
-Maane I-PER
+DawI 
+Maane 
 , O
 jot O
 na O
@@ -673,16 +673,16 @@ bu O
 koy O
 yégal O
 teewaayu O
-Baay B-PER
-Móodu I-PER
-Faal I-PER
+Baay 
+Móodu 
+Faal 
 mi O
 ñuy O
 dàkkantale O
-Booy B-PER
-Jinne I-PER
+Booy 
+Jinne 
 ca O
-Tàmbaakundaa B-LOC
+Tàmbaakundaa 
 . O
 
 Ndongo O
@@ -774,32 +774,32 @@ koom O
 gi O
 ci O
 bésu O
-ñaar B-DATE
-- I-DATE
-fukk I-DATE
-ak I-DATE
-juróom I-DATE
-- I-DATE
-ñeent I-DATE
-( I-DATE
-29 I-DATE
-) I-DATE
-ci I-DATE
-weeru I-DATE
-mee I-DATE
-ba I-DATE
-ca I-DATE
-benn I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-suwe I-DATE
-2021 I-DATE
+ñaar 
+- 
+fukk 
+ak 
+juróom 
+- 
+ñeent 
+( 
+29 
+) 
+ci 
+weeru 
+mee 
+ba 
+ca 
+benn 
+fan 
+ci 
+weeru 
+suwe 
+2021 
 , O
 ci O
 la O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 delloosi O
 loolu O
 . O
@@ -825,7 +825,7 @@ fukki O
 ) O
 milyaar O
 , O
-Senegaal B-LOC
+Senegaal 
 doon O
 na O
 ami O
@@ -906,7 +906,7 @@ këru O
 yéglekaay O
 gi O
 , O
-Soleil B-ORG
+Soleil 
 moo O
 ngi O
 ciy O
@@ -931,8 +931,8 @@ ak O
 dërëm O
 , O
 ci O
-atum B-DATE
-2012 I-DATE
+atum 
+2012 
 , O
 jàll O
 ci O
@@ -986,7 +986,7 @@ dina O
 tax O
 ba O
 waa O
-Senegaal B-LOC
+Senegaal 
 bàyyi O
 xel O
 juuwaloo O
@@ -1015,12 +1015,12 @@ ci O
 réew O
 mi O
 ( O
-ANSD B-ORG
+ANSD 
 ) O
 xamle O
 na O
 réewum O
-Farãas B-LOC
+Farãas 
 nekkul O
 di O
 njëkk O
@@ -1032,11 +1032,11 @@ yi O
 lu O
 génn O
 réewi O
-Afirig B-LOC
-sowu I-LOC
-jant I-LOC
+Afirig 
+sowu 
+jant 
 ( O
-CEDEAO B-ORG
+CEDEAO 
 ) O
 ci O
 teertul O
@@ -1044,7 +1044,7 @@ njaam O
 yi O
 ci O
 réewum O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Mel O
@@ -1128,7 +1128,7 @@ la O
 woowe O
 bépp O
 réewum O
-Afirig B-LOC
+Afirig 
 amul O
 xàjj O
 ak O
@@ -1137,9 +1137,9 @@ seen O
 waaye O
 rawatina O
 réewi O
-Afirig B-LOC
-sowu I-LOC
-jant I-LOC
+Afirig 
+sowu 
+jant 
 yi O
 . O
 
@@ -1153,7 +1153,7 @@ saytu O
 làmb O
 ji O
 ( O
-CNG B-ORG
+CNG 
 ) O
 tënk O
 na O
@@ -1251,13 +1251,13 @@ nguur O
 gi O
 ngir O
 moytu O
-njëlbéenu B-ORG
-mbooloom I-ORG
-réew I-ORG
-mi I-ORG
+njëlbéenu 
+mbooloom 
+réew 
+mi 
 ( O
-Front B-ORG
-National I-ORG
+Front 
+National 
 ) O
 . O
 
@@ -1314,8 +1314,8 @@ am O
 solo O
 . O
 
-Karim B-PER
-Benzema I-PER
+Karim 
+Benzema 
 wone O
 na O
 boppam O
@@ -1330,7 +1330,7 @@ penaati O
 Ndeysaan O
 , O
 niti O
-Gardiola B-PER
+Gardiola 
 yi O
 mujjee O
 nañoo O
@@ -1361,9 +1361,9 @@ féete O
 . O
 
 Dalalug O
-Bruno B-PER
-Le I-PER
-Maire I-PER
+Bruno 
+Le 
+Maire 
 mënul O
 nëbb O
 màggetug O
@@ -1376,7 +1376,7 @@ a O
 dékku O
 soxlaay O
 waa O
-farãas B-LOC
+farãas 
 yi O
 ci O
 jamonoy O
@@ -1409,7 +1409,7 @@ liggéey O
 bu O
 jëm O
 ci O
-Tiwaawan B-LOC
+Tiwaawan 
 , O
 maanaam O
 luy O
@@ -1501,8 +1501,8 @@ ci O
 kàddug O
 Njiit O
 li O
-Usmaan B-PER
-Sonko I-PER
+Usmaan 
+Sonko 
 ci O
 sa O
 gis O
@@ -1536,8 +1536,8 @@ ci O
 këru O
 seen O
 njiit O
-Lamin B-PER
-Géy I-PER
+Lamin 
+Géy 
 ngir O
 ñu O
 mànkoo O
@@ -1575,7 +1575,7 @@ yi O
 
 Bépp O
 doomu O
-Senegaal B-LOC
+Senegaal 
 ju O
 fees O
 ak O
@@ -1596,7 +1596,7 @@ Mu O
 doonoon O
 lu O
 Sëriñ O
-Muntaqaa B-PER
+Muntaqaa 
 nangu O
 woon O
 a O
@@ -1612,9 +1612,9 @@ bu O
 am O
 solo O
 ci O
-Soxna B-PER
-Ayda I-PER
-Jàllo I-PER
+Soxna 
+Ayda 
+Jàllo 
 ci O
 jile O
 wax O
@@ -1631,14 +1631,14 @@ bu O
 ndaw O
 ñi O
 fonk O
-Senegaal B-ORG
-- I-ORG
-JP I-ORG
+Senegaal 
+- 
+JP 
 . O
 
-J B-PER
-. I-PER
-Cole I-PER
+J 
+. 
+Cole 
 amoon O
 na O
 juróomi O
@@ -1664,7 +1664,7 @@ jokkoo O
 Mujjee O
 xaar O
 , O
-M2D B-ORG
+M2D 
 suul O
 na O
 yéene O
@@ -1706,9 +1706,9 @@ turam O
 
 Looloo O
 tax O
-S B-PER
-. I-PER
-Yakuba I-PER
+S 
+. 
+Yakuba 
 , O
 mi O
 nu O
@@ -1796,22 +1796,22 @@ kenn O
 këru O
 liggéeyukaay O
 gi O
-Akilee B-ORG
+Akilee 
 , O
 joxekatu O
 kurãŋu O
 nosal O
 bi O
 ci O
-Senelec B-ORG
+Senelec 
 , O
 la O
 mbëru O
-Farãas B-LOC
+Farãas 
 mi O
 ci O
 kurãŋ O
-EDF B-ORG
+EDF 
 sàkku O
 mu O
 bokk O
@@ -1873,7 +1873,7 @@ njëkk O
 a O
 dee O
 ci O
-Senegaal B-LOC
+Senegaal 
 te O
 mu O
 bawoo O
@@ -1883,8 +1883,8 @@ Covid O
 - O
 19 O
 ( O
-Paab B-PER
-Juuf I-PER
+Paab 
+Juuf 
 , O
 na O
 suuf O
@@ -1913,8 +1913,8 @@ bérébu O
 liggéeyukaay O
 bii O
 di O
-Financial B-ORG
-Times I-ORG
+Financial 
+Times 
 , O
 mi O
 doon O
@@ -1996,7 +1996,7 @@ ni O
 ko O
 sunu O
 naataago O
-Àngalteer B-LOC
+Àngalteer 
 yi O
 yéglee O
 . O
@@ -2004,7 +2004,7 @@ yéglee O
 Xibaar O
 bi O
 juge O
-Seneweb B-ORG
+Seneweb 
 wone O
 na O
 : O
@@ -2016,7 +2016,7 @@ du O
 mën O
 a O
 am O
-suba B-DATE
+suba 
 . O
 
 Nitu O
@@ -2072,13 +2072,13 @@ mën O
 a O
 bokkaat O
 ci O
-atum B-DATE
-2024 I-DATE
+atum 
+2024 
 , O
 déggul O
 tegtali O
 Sëriñ O
-Muntaqaa B-PER
+Muntaqaa 
 yi O
 ? O
 
@@ -2110,8 +2110,8 @@ réew O
 mi O
 , O
 ci O
-atum B-DATE
-2007 I-DATE
+atum 
+2007 
 , O
 ngir O
 gaawtu O
@@ -2119,10 +2119,10 @@ amug O
 beneen O
 xarala O
 , O
-ñetti B-DATE
-at I-DATE
-ci I-DATE
-kanam I-DATE
+ñetti 
+at 
+ci 
+kanam 
 . O
 
 Aaj O
@@ -2169,7 +2169,7 @@ gi O
 Joŋanteb O
 raaya O
 njukkal O
-Afirig B-LOC
+Afirig 
 dina O
 dox O
 ci O
@@ -2222,36 +2222,36 @@ rawatina O
 guddi O
 gi O
 , O
-gaawook B-DATE
-dibéer I-DATE
+gaawook 
+dibéer 
 yi O
 , O
-diggante B-DATE
-fukk I-DATE
-ak I-DATE
-juróom I-DATE
-- I-DATE
-ñeenti I-DATE
-waxtu I-DATE
-( I-DATE
-19h I-DATE
-) I-DATE
-ba I-DATE
-juróom I-DATE
-- I-DATE
-benni I-DATE
-waxtu I-DATE
-( I-DATE
-6h I-DATE
-) I-DATE
-ci I-DATE
-suba I-DATE
+diggante 
+fukk 
+ak 
+juróom 
+- 
+ñeenti 
+waxtu 
+( 
+19h 
+) 
+ba 
+juróom 
+- 
+benni 
+waxtu 
+( 
+6h 
+) 
+ci 
+suba 
 . O
 
 Àgg O
 finaal O
-atum B-DATE
-2002 I-DATE
+atum 
+2002 
 - O
 waxtu O
 mbégteem O
@@ -2263,15 +2263,15 @@ na O
 ñaari O
 at O
 , O
-Senegaal B-LOC
+Senegaal 
 mooy O
 réewum O
-Afirig B-LOC
+Afirig 
 mu O
 jiitu O
 ci O
 toftalu O
-Fifa B-ORG
+Fifa 
 ( O
 22eelu O
 ) O
@@ -2289,8 +2289,8 @@ Niki O
 li O
 weesu O
 , O
-Taxawu B-ORG
-Senegaal I-ORG
+Taxawu 
+Senegaal 
 ci O
 sottantal O
 ak O
@@ -2359,7 +2359,7 @@ wu O
 mënoon O
 a O
 jañ O
-Senegaal B-LOC
+Senegaal 
 ci O
 yoon O
 wu O
@@ -2409,7 +2409,7 @@ Yàlla O
 na O
 Yàlla O
 musal O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Sant O
@@ -2444,7 +2444,7 @@ yi O
 dinañu O
 dikke O
 nguuru O
-Senegaal B-LOC
+Senegaal 
 juróom O
 - O
 ñaar O
@@ -2462,7 +2462,7 @@ Ci O
 ab O
 fekki O
 réewum O
-Russie B-LOC
+Russie 
 bu O
 wóoradi O
 , O
@@ -2487,11 +2487,11 @@ bérébu O
 liggéeyukaay O
 bii O
 di O
-VAMED B-ORG
+VAMED 
 , O
 ngir O
 jàppale O
-CNSS B-ORG
+CNSS 
 ñoo O
 ngi O
 ci O
@@ -2502,7 +2502,7 @@ bérébu O
 liggéeyukaay O
 bii O
 di O
-Clément B-ORG
+Clément 
 , O
 te O
 mu O
@@ -2525,7 +2525,7 @@ xoolaat O
 ko O
 ci O
 jëmmi O
-FSD B-ORG
+FSD 
 , O
 la O
 sunu O
@@ -2549,8 +2549,8 @@ loxoy O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 kepp O
 , O
 ak O
@@ -2632,10 +2632,10 @@ dëkki O
 kaw O
 gi O
 ci O
-atum B-DATE
-2021 I-DATE
-- I-DATE
-2022 I-DATE
+atum 
+2021 
+- 
+2022 
 . O
 
 Ci O
@@ -2655,7 +2655,7 @@ gisuma O
 dara O
 . O
 
-BEAC B-ORG
+BEAC 
 fàttali O
 na O
 ba O
@@ -2665,11 +2665,11 @@ jamonoy O
 nattale O
 xaalis O
 bi O
-atum B-DATE
-1994 I-DATE
+atum 
+1994 
 , O
 réewi O
-CEMAC B-ORG
+CEMAC 
 yi O
 amoon O
 nañu O
@@ -2756,11 +2756,11 @@ taxawal O
 kurélu O
 pólotig O
 gi O
-Farãas B-LOC
+Farãas 
 ca O
-Il B-LOC
-dë I-LOC
-Farãas I-LOC
+Il 
+dë 
+Farãas 
 ba O
 . O
 
@@ -2777,12 +2777,12 @@ lenn O
 ci O
 tàggatoom O
 ca O
-Clairefontaine B-LOC
+Clairefontaine 
 , O
 dina O
 dimbali O
-Vincent B-PER
-Bordot I-PER
+Vincent 
+Bordot 
 ( O
 ñeen O
 - O
@@ -3151,17 +3151,17 @@ pólotig O
 gaa O
 ngi O
 tudd O
-Bëgg B-ORG
-sa I-ORG
-réewum I-ORG
-Senegaal I-ORG
-ngir I-ORG
-Liggéey I-ORG
-, I-ORG
-lu I-ORG
-Baax I-ORG
-ak I-ORG
-Mbokkoo I-ORG
+Bëgg 
+sa 
+réewum 
+Senegaal 
+ngir 
+Liggéey 
+, 
+lu 
+Baax 
+ak 
+Mbokkoo 
 . O
 
 Jot O
@@ -3183,9 +3183,9 @@ ngir O
 ñu O
 teewal O
 waa O
-Afirig B-LOC
-sowu I-LOC
-jant I-LOC
+Afirig 
+sowu 
+jant 
 . O
 
 Ci O
@@ -3229,12 +3229,12 @@ xaalisu O
 Seefaa O
 . O
 
-Mauricio B-PER
-Pochettino I-PER
+Mauricio 
+Pochettino 
 moo O
 fésal O
-Fernando B-PER
-Llorente I-PER
+Fernando 
+Llorente 
 , O
 mi O
 dugal O
@@ -3243,8 +3243,8 @@ ndam O
 li O
 seen O
 digganteek O
-Manchester B-ORG
-City I-ORG
+Manchester 
+City 
 ñeenti O
 bal O
 ci O
@@ -3259,14 +3259,14 @@ ci O
 Meññeefu O
 àndandoo O
 diggante O
-Senegaal B-LOC
+Senegaal 
 ak O
-mbooloom B-ORG
-réewi I-ORG
-Ërób I-ORG
+mbooloom 
+réewi 
+Ërób 
 yi O
 , O
-Garsi B-ORG
+Garsi 
 , O
 tontu O
 la O
@@ -3290,9 +3290,9 @@ yënguy O
 topp O
 yoon O
 ci O
-mbooleem B-ORG
-réewi I-ORG
-Sayel I-ORG
+mbooleem 
+réewi 
+Sayel 
 yeek O
 sos O
 ay O
@@ -3330,9 +3330,9 @@ ci O
 waajur O
 yu O
 waa O
-Turquie B-LOC
+Turquie 
 yeek O
-Farãas B-LOC
+Farãas 
 yi O
 dañu O
 doon O
@@ -3371,14 +3371,14 @@ ngi O
 juge O
 ci O
 njiital O
-Mbooloo B-ORG
-ngir I-ORG
-mbiri I-ORG
-réew I-ORG
-mi I-ORG
+Mbooloo 
+ngir 
+mbiri 
+réew 
+mi 
 ( O
-Synergie B-ORG
-républicaine I-ORG
+Synergie 
+républicaine 
 ) O
 , O
 doon O
@@ -3390,7 +3390,7 @@ jéem O
 a O
 gàkkal O
 njiital O
-Pastef B-ORG
+Pastef 
 li O
 , O
 waaye O
@@ -3410,7 +3410,7 @@ koom O
 - O
 koomu O
 kéewu O
-Senegaal B-LOC
+Senegaal 
 
 gi O
 . O
@@ -3419,7 +3419,7 @@ Ci O
 biir O
 xolu O
 waa O
-Afirig B-LOC
+Afirig 
 yi O
 ! O
 Doo O
@@ -3438,8 +3438,8 @@ di O
 bànneexu O
 . O
 
-Ismayla B-PER
-Saar I-PER
+Ismayla 
+Saar 
 dafa O
 war O
 a O
@@ -3647,9 +3647,9 @@ biir O
 réew O
 mi O
 , O
-Aali B-PER
-Nguy I-PER
-Njaay I-PER
+Aali 
+Nguy 
+Njaay 
 . O
 
 Te O
@@ -3665,11 +3665,11 @@ wote O
 yi O
 ci O
 turu O
-Bennoo B-ORG
-Bokk I-ORG
-Yaakaar I-ORG
+Bennoo 
+Bokk 
+Yaakaar 
 ( O
-BBY B-ORG
+BBY 
 ) O
 . O
 
@@ -3680,8 +3680,8 @@ tabax O
 gëm O
 - O
 gëmu O
-Umar B-PER
-Jara I-PER
+Umar 
+Jara 
 , O
 Kilifa O
 ci O
@@ -3691,8 +3691,8 @@ mën O
 mënu O
 nit O
 , O
-Abbaas B-ORG
-Ndaw I-ORG
+Abbaas 
+Ndaw 
 , O
 nekk O
 na O
@@ -3720,16 +3720,16 @@ nite O
 . O
 
 Réewum O
-Ginne B-LOC
+Ginne 
 dañu O
 ko O
 aj O
 ci O
 joŋantey O
 ati O
-2019 B-DATE
+2019 
 ak O
-2021 B-DATE
+2021 
 ci O
 CAN O
 bu O
@@ -3753,7 +3753,7 @@ su O
 sukkandikoo O
 ci O
 mindum O
-CAF B-ORG
+CAF 
 ak O
 kurélu O
 réew O
@@ -3787,14 +3787,14 @@ taskati O
 xibaar O
 yii O
 di O
-Yoro B-PER
-Jàllo I-PER
+Yoro 
+Jàllo 
 , O
-Usmaan B-PER
+Usmaan 
 ak O
-Abu B-PER
-Mamadu I-PER
-Si I-PER
+Abu 
+Mamadu 
+Si 
 , O
 maa O
 ngi O
@@ -3805,7 +3805,7 @@ këru O
 liggéeyukaay O
 gi O
 , O
-Leeral B-ORG
+Leeral 
 , O
 seen O
 njaboot O
@@ -3815,7 +3815,7 @@ taskatu O
 xibaar O
 bu O
 nekk O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Ci O
@@ -3857,9 +3857,9 @@ koy O
 amale O
 ci O
 diggante O
-Aibd B-LOC
+Aibd 
 - O
-Mbuur B-LOC
+Mbuur 
 . O
 
 Kiiraay O
@@ -3874,17 +3874,17 @@ Ligue O
 bi O
 jiitu O
 na O
-Alphonse B-PER
-Areola I-PER
+Alphonse 
+Areola 
 , O
-Edouard B-PER
-Mendy I-PER
+Edouard 
+Mendy 
 , O
-Benjamin B-PER
-Lecomte I-PER
+Benjamin 
+Lecomte 
 et O
-Anthony B-PER
-Lopes I-PER
+Anthony 
+Lopes 
 . O
 
 Lu O
@@ -3943,11 +3943,11 @@ saytu O
 alal O
 yile O
 di O
-IGE B-ORG
+IGE 
 wala O
-Cours B-ORG
-des I-ORG
-comptes I-ORG
+Cours 
+des 
+comptes 
 wala O
 yeneen O
 ak O
@@ -3955,16 +3955,16 @@ yeneen O
 ) O
 . O
 
-Senegaal B-LOC
+Senegaal 
 dina O
 daje O
-ëllëg B-DATE
+ëllëg 
 ak O
 réewum O
-Kolombi B-LOC
+Kolombi 
 , O
 te O
-Tahiti B-LOC
+Tahiti 
 war O
 na O
 siggil O
@@ -3996,17 +3996,17 @@ yellool O
 , O
 ci O
 jamonoy O
-ñaar B-DATE
-- I-DATE
-fukki I-DATE
-fan I-DATE
-ak I-DATE
-ñett I-DATE
-ci I-DATE
-weeru I-DATE
-mee I-DATE
-atum I-DATE
-2016 I-DATE
+ñaar 
+- 
+fukki 
+fan 
+ak 
+ñett 
+ci 
+weeru 
+mee 
+atum 
+2016 
 , O
 cib O
 xaalis O
@@ -4080,8 +4080,8 @@ lim O
 yi O
 . O
 
-Masayeer B-PER
-Siise I-PER
+Masayeer 
+Siise 
 tabb O
 nanu O
 ko O
@@ -4095,11 +4095,11 @@ li O
 ak O
 doon O
 njiital O
-British B-ORG
-Petroleum I-ORG
+British 
+Petroleum 
 ngir O
 réewu O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Pólotig O
@@ -4139,11 +4139,11 @@ mi O
 ci O
 seen O
 digganteek O
-Algérie B-LOC
-alxames B-DATE
+Algérie 
+alxames 
 , O
 futbalkati O
-Sénégal B-LOC
+Sénégal 
 yi O
 ñu O
 nga O
@@ -4151,11 +4151,11 @@ fa O
 , O
 di O
 toppandoo O
-Egypte B-LOC
+Egypte 
 , O
-Nigéria B-LOC
+Nigéria 
 ak O
-Maroc B-LOC
+Maroc 
 , O
 yenn O
 ci O
@@ -4183,7 +4183,7 @@ woo O
 taqook O
 ñiy O
 dund O
-Senegaal B-LOC
+Senegaal 
 seen O
 cofeelu O
 réew O
@@ -4399,19 +4399,19 @@ teew O
 . O
 
 Njiital O
-kurélu B-ORG
-basket I-ORG
-gu I-ORG
-Ndar I-ORG
-- I-ORG
-géej I-ORG
+kurélu 
+basket 
+gu 
+Ndar 
+- 
+géej 
 li O
 fi O
 nekk O
 nii O
 , O
-Baaba B-PER
-Tànjãa I-PER
+Baaba 
+Tànjãa 
 nee O
 na O
 moom O
@@ -4436,13 +4436,13 @@ bokkoon O
 na O
 ci O
 mbooloom O
-Leeral B-ORG
+Leeral 
 mi O
 ñëwoon O
 këram O
 te O
-Soxna B-PER
-Laaliya I-PER
+Soxna 
+Laaliya 
 jiite O
 woon O
 ko O
@@ -4492,7 +4492,7 @@ gi O
 Lefu O
 mindum O
 ( O
-CEP B-ORG
+CEP 
 ) O
 mooy O
 fi O
@@ -4521,16 +4521,16 @@ yoon O
 , O
 Sang O
 bi O
-Maysa B-PER
-Njaay I-PER
+Maysa 
+Njaay 
 , O
 njiital O
 daaraay O
 moomeel O
 yi O
 ci O
-Ngor B-LOC
-Almadi I-LOC
+Ngor 
+Almadi 
 , O
 taxaw O
 na O
@@ -4568,13 +4568,13 @@ n O
 - O
 563 O
 bu O
-ñetti B-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-Sulet I-DATE
-atum I-DATE
-1977 I-DATE
+ñetti 
+fan 
+ci 
+weeru 
+Sulet 
+atum 
+1977 
 wéddi O
 na O
 ko O
@@ -4590,8 +4590,8 @@ dalal O
 moomeel O
 yi O
 ci O
-Ngor B-LOC
-Almadi I-LOC
+Ngor 
+Almadi 
 doon O
 na O
 way O
@@ -4628,7 +4628,7 @@ xarala O
 yi O
 ci O
 nguuru O
-Gauteng B-PER
+Gauteng 
 gi O
 jaare O
 ko O
@@ -4719,8 +4719,8 @@ aju O
 ci O
 séddale O
 goxu O
-Kër B-LOC
-Masaar I-LOC
+Kër 
+Masaar 
 , O
 sos O
 yeneen O
@@ -4729,7 +4729,7 @@ yu O
 yees O
 ci O
 diwaanu O
-Ndakaaru B-LOC
+Ndakaaru 
 bi O
 ak O
 ñag O
@@ -4740,12 +4740,12 @@ yi O
 nekk O
 ci O
 diwaanu O
-Kër B-LOC
-Masaar I-LOC
+Kër 
+Masaar 
 , O
-Pikin B-LOC
+Pikin 
 ak O
-Tëngéej B-LOC
+Tëngéej 
 . O
 
 Waaye O
@@ -4807,7 +4807,7 @@ deewul O
 
 Sang O
 bi O
-Faal B-PER
+Faal 
 , O
 mi O
 mënul O
@@ -4826,7 +4826,7 @@ mooy O
 indil O
 dara O
 réewu O
-Tchad B-LOC
+Tchad 
 , O
 lu O
 dul O
@@ -4861,7 +4861,7 @@ fi O
 , O
 amoon O
 na O
-Zamalek B-ORG
+Zamalek 
 mi O
 kenn O
 mënul O
@@ -4874,13 +4874,13 @@ mbooloo O
 mi O
 , O
 waa O
-Angola B-LOC
+Angola 
 yi O
 bawoo O
 ci O
-Petro B-ORG
-bu I-ORG
-Luanda I-ORG
+Petro 
+bu 
+Luanda 
 ci O
 mujjantalu O
 joŋante O
@@ -4921,7 +4921,7 @@ mbooloom O
 ndawi O
 futbalkati O
 réewum O
-Portugal B-LOC
+Portugal 
 mi O
 yëkkëti O
 na O
@@ -4930,8 +4930,8 @@ joŋante O
 réew O
 yi O
 ci O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 te O
 ñoom O
 ñu O
@@ -4940,9 +4940,9 @@ ci O
 ndam O
 ci O
 kanamu O
-Pays B-LOC
-- I-LOC
-Bas I-LOC
+Pays 
+- 
+Bas 
 . O
 
 Jëwriñ O
@@ -4955,17 +4955,17 @@ beek O
 koppar O
 yi O
 , O
-Abdulaay B-PER
-Daawuda I-PER
-Jàllo I-PER
+Abdulaay 
+Daawuda 
+Jàllo 
 ak O
 njiitu O
-Bànkub B-ORG
-Àdduna I-ORG
+Bànkub 
+Àdduna 
 bi O
 ( O
-Bànk B-ORG
-Monjaal I-ORG
+Bànk 
+Monjaal 
 ) O
 te O
 mu O
@@ -4978,12 +4978,12 @@ yi O
 ci O
 aju O
 , O
-Nathan B-PER
-Belete I-PER
+Nathan 
+Belete 
 jàll O
 nañu O
 , O
-àjjuma B-DATE
+àjjuma 
 , O
 ci O
 xaatimu O
@@ -5076,18 +5076,18 @@ mii O
 
 Wala O
 ci O
-Senegaal B-LOC
+Senegaal 
 ! O
 Dale O
 ci O
-Seŋoor B-PER
+Seŋoor 
 , O
-A B-PER
-. I-PER
-Juuf I-PER
+A 
+. 
+Juuf 
 , O
-Laay B-PER
-Wàdd I-PER
+Laay 
+Wàdd 
 fekke O
 nanu O
 nun O
@@ -5113,11 +5113,11 @@ aar O
 ! O
 ! O
 
-Ci B-DATE
-at I-DATE
-mi I-DATE
+Ci 
+at 
+mi 
 , O
-Senegaal B-LOC
+Senegaal 
 dina O
 fay O
 lu O
@@ -5206,7 +5206,7 @@ njëkk O
 mi O
 ci O
 fajkatu O
-Caf B-ORG
+Caf 
 bi O
 , O
 laataa O
@@ -5234,25 +5234,25 @@ waroon O
 a O
 dooni O
 tàggatkatu O
-Paris B-ORG
-Saint I-ORG
-- I-ORG
-Germain I-ORG
+Paris 
+Saint 
+- 
+Germain 
 mujjee O
 naa O
 xaar O
 ba O
-Carlo B-PER
-Ancelotti I-PER
+Carlo 
+Ancelotti 
 àggaleel O
-Pep B-PER
-Guardiola I-PER
+Pep 
+Guardiola 
 , O
 ngir O
 mu O
 daan O
 ponkalum O
-Munich B-LOC
+Munich 
 bi O
 . O
 
@@ -5270,7 +5270,7 @@ sama O
 kër O
 yaay O
 ca O
-Sigicoor B-LOC
+Sigicoor 
 ngir O
 nangufay O
 kayiti O
@@ -5341,14 +5341,14 @@ mënul O
 ñàkk O
 . O
 
-US B-ORG
-Monastir I-ORG
+US 
+Monastir 
 moo O
 leen O
 daan O
 ci O
-alxames B-DATE
-ji I-DATE
+alxames 
+ji 
 ci O
 njuréefu O
 juróom O
@@ -5392,8 +5392,8 @@ Li O
 ko O
 waral O
 mooy O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 lekk O
 na O
 téeméeri O
@@ -5460,15 +5460,15 @@ ne O
 laykat O
 bii O
 di O
-Abdulaay B-PER
-Tin I-PER
+Abdulaay 
+Tin 
 nekk O
 njiitu O
-Union B-ORG
-Sociale I-ORG
-libéral I-ORG
+Union 
+Sociale 
+libéral 
 ( O
-USL B-ORG
+USL 
 ) O
 . O
 
@@ -5479,7 +5479,7 @@ yoon O
 tëddee O
 fii O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
 man O
 nañu O
@@ -5516,7 +5516,7 @@ tële O
 ci O
 won O
 askanu O
-Senegaal B-LOC
+Senegaal 
 ni O
 ñoo O
 bokk O
@@ -5529,7 +5529,7 @@ bérébu O
 bëre O
 bi O
 nekk O
-Mbuur B-LOC
+Mbuur 
 te O
 mu O
 joti O
@@ -5537,43 +5537,43 @@ koppar O
 ngir O
 bëre O
 ak O
-Bàlla B-PER
-Gay I-PER
-2 I-PER
+Bàlla 
+Gay 
+2 
 ci O
-bésu B-DATE
-ñaar I-DATE
-fukki I-DATE
-fan I-DATE
-ak I-DATE
-juróom I-DATE
-- I-DATE
-benn I-DATE
-ci I-DATE
-weeru I-DATE
-suweŋ I-DATE
-biy I-DATE
-ñëw I-DATE
+bésu 
+ñaar 
+fukki 
+fan 
+ak 
+juróom 
+- 
+benn 
+ci 
+weeru 
+suweŋ 
+biy 
+ñëw 
 , O
 bëgg O
 na O
 itam O
 dajeek O
-Ëmmë B-PER
-Seen I-PER
+Ëmmë 
+Seen 
 . O
 
 Su O
 ñu O
 sukkandikoo O
 ci O
-Vox B-ORG
-populi I-ORG
+Vox 
+populi 
 , O
 tay O
 la O
 liggéeykati O
-SDE B-ORG
+SDE 
 yi O
 gën O
 a O
@@ -5590,7 +5590,7 @@ ndox O
 mi O
 ci O
 diwaanu O
-Ndakaaru B-LOC
+Ndakaaru 
 . O
 Jootoon O
 na O
@@ -5605,14 +5605,14 @@ bu O
 ñuy O
 tàmbali O
 ci O
-bésu B-DATE
-fanweeri I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-nowàmbar I-DATE
-biy I-DATE
-ñow I-DATE
+bésu 
+fanweeri 
+fan 
+ci 
+weeru 
+nowàmbar 
+biy 
+ñow 
 . O
 
 Bi O
@@ -5659,11 +5659,11 @@ dund O
 . O
 
 Ci O
-atum B-DATE
-1928 I-DATE
+atum 
+1928 
 la O
 demoon O
-Farãas B-LOC
+Farãas 
 , O
 nekk O
 fanweer O
@@ -5677,13 +5677,13 @@ génnul O
 . O
 
 Waa O
-Russie B-LOC
+Russie 
 dañoo O
 lànk O
 a O
 topp O
 dogalub O
-OPEP B-ORG
+OPEP 
 biy O
 digle O
 ñu O
@@ -5693,8 +5693,8 @@ peterol O
 bi O
 . O
 Waa O
-Arabie B-LOC
-Saoudite I-LOC
+Arabie 
+Saoudite 
 ñoom O
 dañoo O
 wàññi O
@@ -5703,7 +5703,6 @@ njëgi O
 njuréef O
 , O
 waa O
-USA B-LOC
 ñëw O
 bokksi O
 ci O
@@ -5739,13 +5738,13 @@ kanam O
 jàppalante O
 gi O
 diggante O
-Senegaal B-LOC
+Senegaal 
 ak O
-Almaañ B-LOC
+Almaañ 
 . O
 
-Atum B-DATE
-ren I-DATE
+Atum 
+ren 
 mee O
 gën O
 a O
@@ -5754,7 +5753,7 @@ mu O
 daaw O
 ci O
 doomu O
-Senegaal B-LOC
+Senegaal 
 bi O
 ci O
 dugal O
@@ -5943,7 +5942,7 @@ xel O
 . O
 
 Njariñal O
-PASTEEF B-ORG
+PASTEEF 
 mooy O
 ñu O
 gën O
@@ -5967,11 +5966,11 @@ seen O
 taxawaay O
 . O
 
-Laata B-DATE
-nawetu I-DATE
-2020 I-DATE
-- I-DATE
-2021 I-DATE
+Laata 
+nawetu 
+2020 
+- 
+2021 
 , O
 ñi O
 ci O
@@ -5991,7 +5990,7 @@ yi O
 daañu O
 bari O
 ci O
-Senegaal B-LOC
+Senegaal 
 te O
 daañu O
 wasaroo O
@@ -6015,7 +6014,7 @@ moom O
 yóbbees O
 na O
 ca O
-Tiwaawon B-LOC
+Tiwaawon 
 luy O
 tollook O
 ñaari O
@@ -6074,7 +6073,7 @@ nekk O
 ci O
 diwaann O
 
-Cees B-LOC
+Cees 
 . O
 
 Ci O
@@ -6094,8 +6093,8 @@ ndawal O
 askan O
 wii O
 di O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 mi O
 nga O
 xam O
@@ -6136,13 +6135,13 @@ na O
 rekk O
 desee O
 , O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 dafa O
 jiital O
 
-Ismayla B-PER
-Ba I-PER
+Ismayla 
+Ba 
 mi O
 ngi O
 xam O
@@ -6159,14 +6158,14 @@ kuréeli O
 xelal O
 yii O
 di O
-ATLAS B-ORG
+ATLAS 
 ak O
-MERCALEX B-ORG
+MERCALEX 
 . O
 Kuréel O
 yooyu O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 moo O
 leen O
 moom O
@@ -6192,7 +6191,7 @@ nit O
 ñi O
 ci O
 biir O
-PASTEEF B-ORG
+PASTEEF 
 wala O
 sax O
 nekk O
@@ -6231,9 +6230,9 @@ yambar O
 la O
 . O
 
-Léonard B-PER
-de I-PER
-Vinci I-PER
+Léonard 
+de 
+Vinci 
 bind O
 na O
 ne O
@@ -6257,9 +6256,9 @@ bi O
 doon O
 dox O
 diggante O
-Senegaal B-LOC
+Senegaal 
 ak O
-Kótdiwaar B-LOC
+Kótdiwaar 
 , O
 dañu O
 ko O
@@ -6295,7 +6294,7 @@ sumb O
 waxtaan O
 . O
 
-MD B-PER
+MD 
 : O
 yaw O
 lañu O
@@ -6303,8 +6302,8 @@ fal O
 bees O
 njiitu O
 kuréelu O
-Seine B-ORG
-Marne I-ORG
+Seine 
+Marne 
 , O
 Lan O
 nga O
@@ -6335,7 +6334,7 @@ suuf O
 . O
 
 Bi O
-Xànju B-PER
+Xànju 
 mi O
 nga O
 xam O
@@ -6344,7 +6343,7 @@ tiyewul O
 boppam O
 njëkkee O
 am O
-Ndate B-PER
+Ndate 
 mu O
 sell O
 mi O
@@ -6378,7 +6377,7 @@ Su O
 ñu O
 sukkandikoo O
 ci O
-L'As B-ORG
+L'As 
 ñiy O
 saytul O
 nguur O
@@ -6401,17 +6400,17 @@ woto O
 bu O
 joge O
 woon O
-Binjoona B-LOC
+Binjoona 
 dafa O
 këppu O
 ci O
 yoonu O
-Gàmbul B-LOC
-Coog I-LOC
+Gàmbul 
+Coog 
 nekk O
 ci O
 diwaanu O
-Kawlax B-LOC
+Kawlax 
 . O
 
 Ñi O
@@ -6517,14 +6516,14 @@ njiit O
 lañu O
 yu O
 askanu O
-Senegaal B-LOC
+Senegaal 
 naw O
 , O
 bokk O
 na O
 ci O
-Ibraayima B-PER
-Faal I-PER
+Ibraayima 
+Faal 
 . O
 
 Ñoo O
@@ -6566,14 +6565,14 @@ Loolu O
 la O
 fësal O
 ca O
-RFI B-ORG
+RFI 
 . O
 
 Dawalkat O
 bii O
 di O
-Usmaan B-PER
-Njaay I-PER
+Usmaan 
+Njaay 
 am O
 na O
 jabar O
@@ -6582,7 +6581,7 @@ ak O
 doom O
 . O
 
-Abiib B-PER
+Abiib 
 nee O
 : O
 gën O
@@ -6603,7 +6602,7 @@ gën O
 a O
 jàppal O
 tànk O
-Senegaal B-LOC
+Senegaal 
 , O
 donte O
 sax O
@@ -6628,8 +6627,8 @@ bu O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 ci O
 njàmbaarte O
 gu O
@@ -6666,9 +6665,9 @@ bi O
 . O
 
 Ci O
-weeru B-DATE
-féewiriyee I-DATE
-2019 I-DATE
+weeru 
+féewiriyee 
+2019 
 , O
 ñi O
 nekk O
@@ -6692,7 +6691,7 @@ boroom O
 doole O
 yi O
 bokk O
-APR B-ORG
+APR 
 dañu O
 leen O
 doon O
@@ -6792,7 +6791,7 @@ ci O
 jëmmal O
 yoonu O
 yokkuteb O
-Senegaal B-LOC
+Senegaal 
 , O
 ci O
 fexe O
@@ -6825,8 +6824,8 @@ tubaab O
 yi O
 nootee O
 ci O
-atum B-DATE
-1957 I-DATE
+atum 
+1957 
 , O
 ak O
 ba O
@@ -6844,14 +6843,14 @@ def O
 leen O
 benn O
 ci O
-atum B-DATE
-1958 I-DATE
+atum 
+1958 
 , O
 ak O
 ba O
-Senegaal B-LOC
+Senegaal 
 ak O
-Mali B-LOC
+Mali 
 xaatimee O
 ab O
 déggoo O
@@ -6862,13 +6861,13 @@ réew O
 , O
 loolu O
 yépp O
-Mawdo B-PER
+Mawdo 
 moo O
 nekkoon O
 njiitu O
 jëwriñu O
 réewum O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Pàcc O
@@ -6938,7 +6937,7 @@ tar O
 - O
 tar O
 yi O
-BEAC B-ORG
+BEAC 
 indi O
 ci O
 seen O
@@ -7061,8 +7060,7 @@ Ci O
 benn O
 pàcc O
 ba O
-US B-ORG
-Monastir I-ORG
+Monastir 
 wone O
 nañu O
 njàmbarte O
@@ -7102,8 +7100,8 @@ Taskati O
 xibaar O
 yi O
 ak O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 kan O
 moo O
 ñu O
@@ -7112,8 +7110,8 @@ yab O
 . O
 
 Fi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 wonee O
 mën O
 - O
@@ -7137,17 +7135,17 @@ wàllu O
 pólótig O
 fii O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
 bokk O
 na O
 ci O
-PS B-ORG
+PS 
 , O
-AFP B-ORG
+AFP 
 , O
 ak O
-PDS B-ORG
+PDS 
 . O
 
 Samp O
@@ -7155,8 +7153,8 @@ naa O
 laaj O
 boobu O
 ci O
-atum B-DATE
-2016 I-DATE
+atum 
+2016 
 te O
 booba O
 nekkaguma O
@@ -7354,7 +7352,7 @@ fajuwuñu O
 Moom O
 moo O
 wuutu O
-Wàdd B-PER
+Wàdd 
 ci O
 njiiteefu O
 jëwriñ O
@@ -7384,8 +7382,8 @@ këru O
 yéglékaay O
 gii O
 di O
-Le B-ORG
-Soleil I-ORG
+Le 
+Soleil 
 . O
 
 Lenn O
@@ -7417,8 +7415,8 @@ mi O
 yépp O
 . O
 
-PASTEEF B-ORG
-suisse B-LOC
+PASTEEF 
+suisse 
 ñoo O
 ngi O
 ñaawlu O
@@ -7466,7 +7464,7 @@ Su O
 ñu O
 sukkandikoo O
 ci O
-L'As B-ORG
+L'As 
 mi O
 joxe O
 xibaar O
@@ -7495,7 +7493,7 @@ fay O
 di O
 fay O
 amagul O
-Senegaal B-LOC
+Senegaal 
 fi O
 mu O
 tollu O
@@ -7516,16 +7514,16 @@ wi O
 . O
 
 Ci O
-at B-DATE
-mi I-DATE
-weesu I-DATE
+at 
+mi 
+weesu 
 wone O
 na O
 njàmbaarte O
 gu O
 rëy O
 ca O
-Dortmund B-ORG
+Dortmund 
 . O
 
 Jot O
@@ -7555,7 +7553,7 @@ ay O
 dolaar O
 . O
 
-MD B-PER
+MD 
 : O
 dañu O
 la O
@@ -7564,31 +7562,31 @@ bees O
 njiitu O
 kuréel O
 gu O
-Mojib B-ORG
-Farãas B-LOC
+Mojib 
+Farãas 
 , O
 lan O
 nga O
 nas O
 ? O
 
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 ak O
 ay O
 naataangoom O
 yu O
-CDEAO B-ORG
+CDEAO 
 njàqare O
 lañu O
 am O
 ci O
 jàppale O
 gi O
-Watara B-PER
+Watara 
 di O
 jàppale O
-Keyta B-PER
+Keyta 
 ci O
 jafe O
 - O
@@ -7597,7 +7595,7 @@ yi O
 am O
 ci O
 réewum O
-Mali B-LOC
+Mali 
 . O
 
 Laay O
@@ -7611,13 +7609,13 @@ gis O
 ne O
 ki O
 teewal O
-Càdd B-LOC
-Ronaldóo B-PER
+Càdd 
+Ronaldóo 
 la O
 woteel O
 teg O
 ci O
-Mbape B-PER
+Mbape 
 . O
 
 Lépp O
@@ -7692,7 +7690,7 @@ nañoo O
 yokk O
 njàmbaarte O
 waa O
-PSG B-ORG
+PSG 
 ba O
 ñu O
 àgg O
@@ -7706,8 +7704,8 @@ jël O
 ndam O
 ci O
 njàmbaarteg O
-Tomas B-PER
-Koubek I-PER
+Tomas 
+Koubek 
 mi O
 doon O
 jàpp O
@@ -7715,15 +7713,15 @@ bal O
 yi O
 . O
 
-Basiiru B-PER
-Géy I-PER
+Basiiru 
+Géy 
 ñëwul O
 woon O
 sax O
 ci O
 robub O
-Sàmba B-PER
-Sàll I-PER
+Sàmba 
+Sàll 
 , O
 moom O
 ban O
@@ -7746,10 +7744,10 @@ nit O
 ki O
 fexe O
 ba O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 taalul O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Limal O
@@ -7782,7 +7780,7 @@ Koronaa O
 wiris O
 la O
 doomu O
-Amerig B-LOC
+Amerig 
 bii O
 di O
 yëngatu O
@@ -7790,8 +7788,8 @@ ci O
 wàllu O
 tennis O
 di O
-Christian B-PER
-Harrison I-PER
+Christian 
+Harrison 
 , O
 fay O
 na O
@@ -7893,13 +7891,13 @@ nar O
 la O
 . O
 
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 , O
 jot O
 ci O
 nguuru O
-Senegaal B-LOC
+Senegaal 
 , O
 dafa O
 ko O
@@ -7907,8 +7905,8 @@ bett O
 . O
 
 Kawasi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 yu O
 nëb O
 sax O
@@ -7918,7 +7916,7 @@ a O
 am O
 solo O
 waa O
-M2D B-ORG
+M2D 
 yépp O
 . O
 
@@ -7947,8 +7945,8 @@ mat O
 
 Lan O
 la O
-Mãasuur B-PER
-Fay I-PER
+Mãasuur 
+Fay 
 def O
 ba O
 mën O
@@ -8018,7 +8016,7 @@ réew O
 mi O
 . O
 
-Séville B-ORG
+Séville 
 def O
 na O
 li O
@@ -8027,7 +8025,7 @@ mënul O
 ci O
 digganteem O
 ak O
-Léganes B-ORG
+Léganes 
 . O
 
 Yooyu O
@@ -8038,7 +8036,7 @@ tax O
 ma O
 xalaat O
 ne O
-Sónko B-PER
+Sónko 
 mooy O
 tànneef O
 bu O
@@ -8067,11 +8065,11 @@ yoon O
 
 Yenn O
 njiiti O
-Afirig B-LOC
+Afirig 
 yi O
 te O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 gën O
 cee O
 fës O
@@ -8129,7 +8127,7 @@ la O
 bëgg O
 . O
 
-Barça B-ORG
+Barça 
 daanu O
 na O
 , O
@@ -8142,9 +8140,9 @@ ci O
 bopp O
 bi O
 ndax O
-Réal B-ORG
+Réal 
 ak O
-Atletico B-ORG
+Atletico 
 kenn O
 ku O
 ci O
@@ -8152,15 +8150,15 @@ nekk O
 dafa O
 témboo O
 . O
-Réal B-ORG
-Bétis I-ORG
+Réal 
+Bétis 
 la O
 témbool O
 , O
-Atlético B-ORG
+Atlético 
 témboo O
 ak O
-Séville B-ORG
+Séville 
 . O
 Kon O
 jariñoowuñu O
@@ -8169,13 +8167,13 @@ tolof O
 - O
 tolofu O
 waa O
-barça B-ORG
+barça 
 . O
 
-Péncum B-ORG
-ndawi I-ORG
-réew I-ORG
-mi I-ORG
+Péncum 
+ndawi 
+réew 
+mi 
 mën O
 na O
 koo O
@@ -8203,11 +8201,11 @@ daara O
 ji O
 ñu O
 duppee O
-Màbba B-PER
-Jaxu I-PER
-Ba I-PER
+Màbba 
+Jaxu 
+Ba 
 ca O
-Ñooro B-LOC
+Ñooro 
 moo O
 jam O
 paaka O
@@ -8232,7 +8230,7 @@ ay O
 digeem O
 . O
 
-Àngalteer B-LOC
+Àngalteer 
 mën O
 nañoo O
 sukkandiku O
@@ -8266,7 +8264,7 @@ kuréel O
 gi O
 ñu O
 naan O
-Ecolibri B-ORG
+Ecolibri 
 , O
 te O
 seen O
@@ -8307,9 +8305,9 @@ ndax O
 kuréeli O
 koom O
 yu O
-bànku B-ORG
-àdduna I-ORG
-bi I-ORG
+bànku 
+àdduna 
+bi 
 dañoo O
 wone O
 seenug O
@@ -8335,7 +8333,7 @@ ba O
 nga O
 xam O
 ne O
-Europe B-LOC
+Europe 
 a O
 ngi O
 xar O
@@ -8346,7 +8344,7 @@ jafe O
 yi O
 am O
 ci O
-OTAN B-ORG
+OTAN 
 bi O
 nga O
 xam O
@@ -8355,7 +8353,7 @@ lu O
 yàggul O
 dara O
 , O
-Macron B-PER
+Macron 
 dafa O
 koo O
 méngaleek O
@@ -8400,7 +8398,7 @@ Jàppleen O
 bu O
 baax O
 , O
-Ndakaaru B-LOC
+Ndakaaru 
 mooy O
 ñaareelu O
 dëkk O
@@ -8447,7 +8445,7 @@ laaj O
 salaamaalekum O
 , O
 ndax O
-Muhàmmat B-PER
+Muhàmmat 
 a O
 ngi O
 fi O
@@ -8460,12 +8458,12 @@ jigéen O
 la O
 , O
 njiital O
-FMI B-ORG
+FMI 
 di O
 wax O
 ci O
 njàmbaarteg O
-Senegaal B-LOC
+Senegaal 
 waaye O
 bu O
 dee O
@@ -8478,13 +8476,13 @@ waane O
 si O
 ci O
 kàdduy O
-ISPE B-ORG
+ISPE 
 gii O
 lay O
 waxee O
 . O
 
-MD B-PER
+MD 
 : O
 ban O
 gis O
@@ -8499,7 +8497,7 @@ xewi O
 pólótig O
 fii O
 ci O
-Senegaal B-LOC
+Senegaal 
 ? O
 
 Ñàkk O
@@ -8606,9 +8604,9 @@ bi O
 am O
 ci O
 diggante O
-Maki B-PER
+Maki 
 ak O
-Idi B-PER
+Idi 
 . O
 
 Ci O
@@ -8632,8 +8630,8 @@ ci O
 doxalinu O
 xaalisu O
 bu O
-atum B-DATE
-2020 I-DATE
+atum 
+2020 
 ci O
 ngomblaan O
 gi O
@@ -8707,11 +8705,11 @@ seetlu O
 ne O
 yeneen O
 njëgi O
-Orange B-ORG
+Orange 
 yi O
 dañuy O
 wujjeek O
-Tigo B-ORG
+Tigo 
 mi O
 nga O
 xam O
@@ -8755,15 +8753,15 @@ a O
 ruslu O
 , O
 waaye O
-Dibala B-PER
+Dibala 
 moo O
 leeral O
 yoon O
 wi O
 . O
 
-Taala B-PER
-Silla I-PER
+Taala 
+Silla 
 dañu O
 ko O
 génne O
@@ -8771,9 +8769,9 @@ fi O
 kuréelam O
 ki O
 tudd O
-Fal B-ORG
-Askan I-ORG
-wi I-ORG
+Fal 
+Askan 
+wi 
 nekkoon O
 . O
 
@@ -8790,25 +8788,25 @@ nga O
 xam O
 ne O
 njiitu O
-Réew B-ORG
-mi I-ORG
-Idiriisa B-PER
-Sekk I-PER
+Réew 
+mi 
+Idiriisa 
+Sekk 
 , O
-Aagibu B-PER
-Sumaare I-PER
+Aagibu 
+Sumaare 
 , O
-Paab B-PER
-Jóob I-PER
+Paab 
+Jóob 
 , O
-Isaa B-PER
-Sàll I-PER
+Isaa 
+Sàll 
 ak O
 laykat O
 bii O
 di O
-Madike B-PER
-Ñaŋ I-PER
+Madike 
+Ñaŋ 
 ñoo O
 ko O
 taxawal O
@@ -8940,7 +8938,7 @@ li O
 ñu O
 xaatim O
 ca O
-Maputo B-LOC
+Maputo 
 . O
 Loolu O
 yépp O
@@ -9040,10 +9038,10 @@ kaso O
 yi O
 fii O
 ci O
-Ndakaaru B-LOC
+Ndakaaru 
 , O
-Mbay B-PER
-Saar I-PER
+Mbay 
+Saar 
 moo O
 ci O
 jëkk O
@@ -9053,13 +9051,13 @@ kàddu O
 . O
 
 Ci O
-atum B-DATE
-1789 I-DATE
+atum 
+1789 
 , O
 ginnaaw O
 bi O
 askanu O
-Farãas B-LOC
+Farãas 
 amalee O
 ak O
 fippu O
@@ -9157,8 +9155,8 @@ noonu O
 . O
 
 Ci O
-atum B-DATE
-2017 I-DATE
+atum 
+2017 
 dafa O
 defar O
 ab O
@@ -9183,10 +9181,10 @@ biir O
 Maa O
 ngi O
 tudd O
-Soxna B-PER
-Jóob I-PER
+Soxna 
+Jóob 
 , O
-Ndakaaru B-LOC
+Ndakaaru 
 laa O
 juddoo O
 waaye O
@@ -9195,7 +9193,7 @@ ngi O
 fekk O
 baax O
 ca O
-Luga B-LOC
+Luga 
 fa O
 sama O
 baay O
@@ -9244,15 +9242,15 @@ wecc O
 fii O
 ci O
 diwaanu O
-Afirig B-LOC
+Afirig 
 . O
 
 Ci O
 gàmmug O
-Tiwaawan B-LOC
+Tiwaawan 
 gu O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 , O
 bérébu O
 fajukaay O
@@ -9260,9 +9258,9 @@ bi O
 ñu O
 duppe O
 Maam O
-Abdu B-PER
-Asiis I-PER
-Si I-PER
+Abdu 
+Asiis 
+Si 
 daloo O
 na O
 jumtukaay O
@@ -9340,8 +9338,8 @@ su O
 ñu O
 sukkandikoo O
 ci O
-Les B-ORG
-Echos I-ORG
+Les 
+Echos 
 ci O
 xibaar O
 yi O
@@ -9482,7 +9480,7 @@ ne O
 Fi O
 mu O
 tollu O
-Anàmbe B-LOC
+Anàmbe 
 , O
 di O
 gox O
@@ -9492,7 +9490,7 @@ ca O
 bokk O
 moomeel O
 bu O
-Koldaa B-LOC
+Koldaa 
 , O
 ci O
 mettit O
@@ -9504,8 +9502,8 @@ nekk O
 
 Kiy O
 layool O
-Móomoo B-PER
-Jàmme I-PER
+Móomoo 
+Jàmme 
 mi O
 ngi O
 laaj O
@@ -9540,8 +9538,8 @@ Su O
 sukkandikoo O
 ci O
 kàdduy O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 , O
 ngir O
 yolamal O
@@ -9598,7 +9596,7 @@ rekk O
 mbiru O
 njiiti O
 réewi O
-Afirig B-LOC
+Afirig 
 yi O
 kese O
 , O
@@ -9617,7 +9615,7 @@ dees O
 na O
 ko O
 yégal O
-FIFA B-ORG
+FIFA 
 itam O
 . O
 
@@ -9685,7 +9683,7 @@ booy O
 waaj O
 a O
 agsi O
-Ñokolokobaa B-LOC
+Ñokolokobaa 
 . O
 
 Jàpp O
@@ -9733,14 +9731,14 @@ Bala O
 nga O
 koy O
 xam O
-Gàmmu B-DATE
+Gàmmu 
 jot O
 , O
 wala O
-Màggal B-DATE
+Màggal 
 , O
 wala O
-Póppëngin B-DATE
+Póppëngin 
 . O
 
 Mën O
@@ -9761,7 +9759,7 @@ yooyu O
 bokk O
 ci O
 pàcci O
-MFDC B-ORG
+MFDC 
 . O
 
 Bu O
@@ -9803,21 +9801,21 @@ bokk O
 na O
 ci O
 : O
-Muhàmmadu B-PER
-Buhaari I-PER
+Muhàmmadu 
+Buhaari 
 bu O
-Niseriyaa B-LOC
+Niseriyaa 
 , O
-Nana B-PER
-Akufo I-PER
-Addo I-PER
+Nana 
+Akufo 
+Addo 
 bu O
-Ganna B-LOC
+Ganna 
 ak O
-Alfa B-PER
-Konde I-PER
+Alfa 
+Konde 
 bu O
-Ginne B-LOC
+Ginne 
 . O
 
 Ci O
@@ -9835,9 +9833,9 @@ fa O
 nekkoon O
 , O
 di O
-Alaaji B-PER
-Màggat I-PER
-SEKK I-PER
+Alaaji 
+Màggat 
+SEKK 
 , O
 yaramam O
 dafa O
@@ -9862,8 +9860,8 @@ mu O
 séq O
 ak O
 waa O
-Sen B-ORG
-Tv I-ORG
+Sen 
+Tv 
 , O
 deppite O
 bi O
@@ -9932,7 +9930,7 @@ jël O
 raaya O
 gi O
 ca O
-Angleterre B-LOC
+Angleterre 
 . O
 
 Ni O
@@ -9978,19 +9976,19 @@ arbiit O
 bi O
 ) O
 , O
-Bamlak B-PER
-Tessema I-PER
-Weyesa I-PER
+Bamlak 
+Tessema 
+Weyesa 
 , O
 te O
 mu O
 nekk O
 doomu O
-Ethiopie B-LOC
+Ethiopie 
 , O
 fësal O
 ne O
-Tunisie B-LOC
+Tunisie 
 am O
 nañu O
 ab O
@@ -10001,9 +9999,9 @@ dóor O
 penaati O
 ) O
 ndax O
-Idiriisa B-PER
-Gànna I-PER
-Géy I-PER
+Idiriisa 
+Gànna 
+Géy 
 looxoom O
 daa O
 laal O
@@ -10037,11 +10035,11 @@ jëmmal O
 Bu O
 ñu O
 gisee O
-Cebio B-PER
-Soukou I-PER
+Cebio 
+Soukou 
 duut O
-Kalidu B-PER
-Kulibali I-PER
+Kalidu 
+Kulibali 
 mi O
 nga O
 xam O
@@ -10051,14 +10049,14 @@ dëgër O
 këcc O
 , O
 wala O
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 mi O
 ngi O
 xam O
 ne O
-Olivier B-PER
-Verdon I-PER
+Olivier 
+Verdon 
 dafa O
 ko O
 tëj O
@@ -10070,8 +10068,8 @@ leen O
 di O
 tàggat O
 , O
-Aliw B-PER
-Siise I-PER
+Aliw 
+Siise 
 xelam O
 demoon O
 na O
@@ -10082,12 +10080,12 @@ doon O
 dox O
 ci O
 diggante O
-Maroc B-LOC
+Maroc 
 ak O
-Bénin B-LOC
+Bénin 
 te O
 waa O
-Bénin B-LOC
+Bénin 
 mujje O
 yóbbu O
 ndam O
@@ -10115,12 +10113,12 @@ xeltu O
 ak O
 caada O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
 moom O
 la O
 waa O
-IFAN B-ORG
+IFAN 
 di O
 sargal O
 ci O
@@ -10174,7 +10172,7 @@ leen O
 lu O
 tax O
 askanu O
-Senegaal B-LOC
+Senegaal 
 wéy O
 di O
 des O
@@ -10183,14 +10181,14 @@ ndóol O
 ? O
 
 Ca O
-atum B-DATE
-2013 I-DATE
+atum 
+2013 
 ba O
 léegi O
 njàmbaarte O
 la O
 doomu O
-Espaañ B-LOC
+Espaañ 
 ji O
 wone O
 . O
@@ -10200,7 +10198,7 @@ Su O
 sukkandikoo O
 ci O
 kilifay O
-Sonatel B-ORG
+Sonatel 
 yi O
 , O
 ci O
@@ -10212,9 +10210,9 @@ bi O
 ñu O
 naan O
 " O
-Sénégal B-LOC
+Sénégal 
 numérique O
-2025 B-DATE
+2025 
 " O
 ngir O
 fexe O
@@ -10236,7 +10234,7 @@ Këru O
 liggéeyukaay O
 gii O
 di O
-Orange B-ORG
+Orange 
 teg O
 na O
 juróomeelu O
@@ -10268,14 +10266,14 @@ gis O
 - O
 gis O
 , O
-Ahmat B-PER
-- I-PER
-Ahmat I-PER
+Ahmat 
+- 
+Ahmat 
 fomm O
 na O
 déggoo O
 beek O
-Puma B-ORG
+Puma 
 , O
 te O
 joxewul O
@@ -10288,7 +10286,7 @@ kilifaag O
 koom O
 - O
 koomu O
-CAF B-ORG
+CAF 
 bind O
 . O
 
@@ -10304,7 +10302,7 @@ teg O
 - O
 xel O
 yu O
-Senegaal B-LOC
+Senegaal 
 yi O
 bëgg O
 a O
@@ -10357,7 +10355,7 @@ lool O
 , O
 loolu O
 la O
-Seneweb B-ORG
+Seneweb 
 xamle O
 . O
 
@@ -10377,7 +10375,7 @@ bu O
 bokk O
 : O
 suuxat O
-Senegaal B-LOC
+Senegaal 
 ci O
 soppi O
 tëralinam O
@@ -10475,8 +10473,8 @@ boppu O
 réew O
 mi O
 , O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 a O
 ngi O
 seetaan O
@@ -10517,8 +10515,8 @@ yokkuteg O
 am O
 bakaloreyaa O
 ci O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 tollu O
 ci O
 fan O
@@ -10548,8 +10546,8 @@ Nguurug O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 dugal O
 na O
 ñetti O
@@ -10615,7 +10613,7 @@ moom O
 lay O
 jariñ O
 ! O
-Sónko B-PER
+Sónko 
 ñaajal O
 , O
 say O
@@ -10641,8 +10639,8 @@ ci O
 seeni O
 yelleef O
 ! O
-Abib B-PER
-Jóob I-PER
+Abib 
+Jóob 
 
 Noppalu O
 leen O
@@ -10680,29 +10678,29 @@ wurus O
 ñu O
 dénkaane O
 ca O
-Bànkub B-ORG
-Farãas I-ORG
+Bànkub 
+Farãas 
 ngir O
 matal O
 njënd O
 mi O
 réewi O
-Kurél B-ORG
-giy I-ORG
-saytu I-ORG
-koom I-ORG
-- I-ORG
-koom I-ORG
-bi I-ORG
-ak I-ORG
-koppar I-ORG
-yi I-ORG
-réewi I-ORG
-Afirig I-ORG
-sowu I-ORG
-jànt I-ORG
+Kurél 
+giy 
+saytu 
+koom 
+- 
+koom 
+bi 
+ak 
+koppar 
+yi 
+réewi 
+Afirig 
+sowu 
+jànt 
 ( O
-UEMOA B-ORG
+UEMOA 
 ) O
 di O
 jéggaani O
@@ -10717,8 +10715,8 @@ yàlla O
 àttekat O
 bi O
 di O
-Sàmba B-PER
-Sàll I-PER
+Sàmba 
+Sàll 
 mooy O
 ñaareelu O
 kómpoloo O
@@ -10766,10 +10764,10 @@ gis O
 li O
 am O
 ci O
-Péncum B-ORG
-Ndawi I-ORG
-réew I-ORG
-mi I-ORG
+Péncum 
+Ndawi 
+réew 
+mi 
 jamono O
 yii O
 . O
@@ -10777,10 +10775,10 @@ yii O
 Waaye O
 dañoo O
 làbbali O
-at B-DATE
-mi I-DATE
-ci I-DATE
-topp I-DATE
+at 
+mi 
+ci 
+topp 
 jël O
 Ligg O
 dee O
@@ -10793,9 +10791,9 @@ yi O
 ci O
 kanam O
 futbalkati O
-Pays B-LOC
-- I-LOC
-Bas I-LOC
+Pays 
+- 
+Bas 
 yi O
 . O
 
@@ -11097,7 +11095,7 @@ FCFA O
 . O
 
 Doomi O
-Bayern B-ORG
+Bayern 
 yi O
 dañoo O
 amoon O
@@ -11125,7 +11123,7 @@ yi O
 . O
 
 Waa O
-Pastef B-ORG
+Pastef 
 dañuy O
 yóbbu O
 raw O
@@ -11133,7 +11131,7 @@ raw O
 gàddu O
 gi O
 ca O
-Cees B-LOC
+Cees 
 bu O
 neexee O
 Yàlla O
@@ -11163,7 +11161,7 @@ gi O
 , O
 wax O
 ne O
-Senegaal B-LOC
+Senegaal 
 amul O
 yelleefu O
 siiwal O
@@ -11182,7 +11180,7 @@ digaale O
 bi O
 . O
 
-Aps B-ORG
+Aps 
 nee O
 na O
 daamaarug O
@@ -11198,17 +11196,17 @@ te O
 mu O
 jóge O
 woon O
-Conk B-LOC
-- I-LOC
-Esil I-LOC
+Conk 
+- 
+Esil 
 moo O
 xalangu O
 ca O
-Buluf B-LOC
+Buluf 
 , O
 ca O
 diiwaanu O
-Sigicoor B-LOC
+Sigicoor 
 , O
 ba O
 mu O
@@ -11234,20 +11232,20 @@ muy O
 màggal O
 kóoluteg O
 ( O
-Bànku B-ORG
-àddina I-ORG
-bi I-ORG
+Bànku 
+àddina 
+bi 
 yépp O
 ) O
-Bànk B-ORG
-Monjaal I-ORG
+Bànk 
+Monjaal 
 ci O
 Nguurug O
-Senegaal B-LOC
+Senegaal 
 , O
-Abulaay B-PER
-Daawuda I-PER
-Jàllo I-PER
+Abulaay 
+Daawuda 
+Jàllo 
 yégle O
 na O
 tamit O
@@ -11269,8 +11267,8 @@ Kurél O
 giy O
 saytu O
 tiyinu O
-Bànk B-ORG
-Monjaal I-ORG
+Bànk 
+Monjaal 
 , O
 dinañu O
 xaatim O
@@ -11347,8 +11345,8 @@ gox O
 bi O
 . O
 
-Ayda B-PER
-Jàllo I-PER
+Ayda 
+Jàllo 
 moom O
 , O
 dafa O
@@ -11364,17 +11362,17 @@ ba O
 . O
 
 Li O
-Guwarjolaa B-PER
+Guwarjolaa 
 wax O
-Tuxël B-PER
+Tuxël 
 : O
 ca O
-atum B-DATE
-2016 I-DATE
+atum 
+2016 
 , O
 ba O
-Peb B-PER
-Guwarjolaa I-PER
+Peb 
+Guwarjolaa 
 di O
 waaj O
 a O
@@ -11382,7 +11380,7 @@ jóge O
 ca O
 Bundesliga O
 : O
-Tomas B-PER
+Tomas 
 dinga O
 ma O
 wéetal O
@@ -11414,9 +11412,9 @@ réew O
 yi O
 mel O
 ni O
-Farãas B-LOC
+Farãas 
 ak O
-Amerig B-LOC
+Amerig 
 yi O
 nga O
 xam O
@@ -11444,7 +11442,7 @@ mi O
 
 Ndax O
 doomu O
-Alseeri B-LOC
+Alseeri 
 la O
 ni O
 yaw O
@@ -11453,14 +11451,14 @@ yaw O
 Génn O
 yu O
 mujji O
-Macron B-PER
+Macron 
 ak O
-Guterres B-PER
+Guterres 
 gën O
 na O
 leer O
 : O
-Afirig B-LOC
+Afirig 
 la O
 mbootaayi O
 àdduna O
@@ -11502,16 +11500,16 @@ ko O
 Ca O
 geneen O
 wàllu O
-Ërop B-LOC
+Ërop 
 ga O
 , O
 ca O
-estaat B-LOC
-bi I-LOC
-di I-LOC
-Groupama I-LOC
+estaat 
+bi 
+di 
+Groupama 
 , O
-OL B-ORG
+OL 
 waroon O
 na O
 fa O
@@ -11528,11 +11526,11 @@ am O
 ndam O
 . O
 
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 ak O
-Décce B-PER
-Faal I-PER
+Décce 
+Faal 
 , O
 ñoom O
 ñaar O
@@ -11567,16 +11565,16 @@ réew O
 et O
 nguur O
 yu O
-Mbootaayu B-ORG
-réewi I-ORG
-Afirig I-ORG
-sowu I-ORG
-jànt I-ORG
-ngir I-ORG
-koom I-ORG
-- I-ORG
-koom I-ORG
-bi I-ORG
+Mbootaayu 
+réewi 
+Afirig 
+sowu 
+jànt 
+ngir 
+koom 
+- 
+koom 
+bi 
 xaatim O
 bu O
 ñu O
@@ -11588,9 +11586,9 @@ tas O
 xibaar O
 gii O
 di O
-France B-ORG
-- I-ORG
-Presse I-ORG
+France 
+- 
+Presse 
 te O
 mu O
 jële O
@@ -11607,22 +11605,22 @@ wa O
 jeexee O
 gaawu O
 ca O
-Abutsaa B-LOC
+Abutsaa 
 , O
 ca O
 
-Niseriyaa B-LOC
+Niseriyaa 
 . O
 
 Bo O
 ci O
 génne O
 doomu O
-Esypt B-LOC
+Esypt 
 ji O
 di O
-Muhamet B-PER
-Sala I-PER
+Muhamet 
+Sala 
 te O
 mënul O
 a O
@@ -11643,23 +11641,23 @@ te O
 ñu O
 bokk O
 ci O
-Mansesteer B-ORG
-Siti I-ORG
+Mansesteer 
+Siti 
 ( O
-Esterliŋ B-PER
+Esterliŋ 
 , O
-Bernardóo B-PER
-Silwaa I-PER
+Bernardóo 
+Silwaa 
 ak O
-Sersio B-PER
-Aguwero I-PER
+Sersio 
+Aguwero 
 ) O
 ak O
 ku O
-Celsi B-ORG
+Celsi 
 ( O
-Eden B-PER
-Asaar I-PER
+Eden 
+Asaar 
 ) O
 
 Ñu O
@@ -11688,16 +11686,16 @@ wi O
 ñu O
 bëgg O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
 ca O
-Nuwel B-LOC
-- I-LOC
-Akiten I-LOC
+Nuwel 
+- 
+Akiten 
 ( O
-Nouvelle B-LOC
-- I-LOC
-Aquitaine I-LOC
+Nouvelle 
+- 
+Aquitaine 
 ) O
 ak O
 fépp O
@@ -11707,8 +11705,8 @@ te O
 muy O
 jur O
 ndamal O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 lu O
 yaatu O
 lool O
@@ -11722,9 +11720,9 @@ njiitu O
 réew O
 mi O
 yu O
-féewiriyee B-DATE
-atum I-DATE
-2019 I-DATE
+féewiriyee 
+atum 
+2019 
 . O
 
 Ñu O
@@ -11824,10 +11822,10 @@ ya O
 ñu O
 am O
 ca O
-Péncu B-ORG
-Ndawi I-ORG
-réew I-ORG
-ma I-ORG
+Péncu 
+Ndawi 
+réew 
+ma 
 . O
 
 Mu O
@@ -11838,7 +11836,7 @@ ni O
 mu O
 yége O
 mbaboorum O
-Free B-ORG
+Free 
 mi O
 . O
 
@@ -11885,14 +11883,14 @@ nekkal O
 Njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 jëmmal O
 na O
 naalub O
 def O
-Kër B-LOC
-Masaar I-LOC
+Kër 
+Masaar 
 diwaan O
 . O
 
@@ -11901,7 +11899,7 @@ ngi O
 fàttaliku O
 ne O
 njiitu O
-PASTEF B-ORG
+PASTEF 
 jógul O
 woon O
 ci O
@@ -11941,8 +11939,8 @@ xirtal O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 mu O
 dakkal O
 sëqëtoo O
@@ -11955,7 +11953,7 @@ pólótigam O
 
 Ay O
 doomi O
-Farãas B-LOC
+Farãas 
 yu O
 am O
 alal O
@@ -11970,8 +11968,8 @@ sàmba O
 yu O
 mel O
 ni O
-Jaaña B-PER
-Njaay I-PER
+Jaaña 
+Njaay 
 ñooy O
 jaay O
 ne O
@@ -11985,18 +11983,18 @@ génne O
 . O
 
 Njiitu O
-Mbootaayu B-ORG
-njiiti I-ORG
-gox I-ORG
-- I-ORG
-goxaat I-ORG
-yu I-ORG
-Senegaal I-ORG
+Mbootaayu 
+njiiti 
+gox 
+- 
+goxaat 
+yu 
+Senegaal 
 wax O
 na O
 ne O
-Xalifa B-PER
-Sàll I-PER
+Xalifa 
+Sàll 
 nit O
 ku O
 mucc O
@@ -12051,14 +12049,14 @@ doon O
 jël O
 widéwoo O
 yi O
-Julius B-PER
-Malema I-PER
+Julius 
+Malema 
 ( O
 deppiteb O
 réewum O
-Afrique B-LOC
-du I-LOC
-Sud I-LOC
+Afrique 
+du 
+Sud 
 ) O
 mi O
 di O
@@ -12067,7 +12065,7 @@ faat O
 bakkanu O
 deppiteb O
 réewu O
-Mali B-LOC
+Mali 
 mi O
 bëggoon O
 a O
@@ -12079,12 +12077,12 @@ réewam O
 Kiy O
 lëkkale O
 liggéeyub O
-PASTEF B-ORG
+PASTEF 
 ca O
 gox O
 - O
 goxaatu O
-SOMON B-LOC
+SOMON 
 . O
 
 Nde O
@@ -12095,19 +12093,19 @@ gàlloo O
 yoon O
 ci O
 réewi O
-Afirig B-LOC
-sowu I-LOC
-jànt I-LOC
+Afirig 
+sowu 
+jànt 
 yi O
 jox O
 nañu O
-Senegaal B-LOC
+Senegaal 
 àppub O
 juróom O
 - O
 benni O
 weer O
-Senegaal B-LOC
+Senegaal 
 ngir O
 mu O
 tàmbali O
@@ -12117,20 +12115,20 @@ bi O
 mu O
 jàllale O
 ci O
-Péncu B-ORG
-Ndawi I-ORG
-réew I-ORG
-mi I-ORG
-fukki B-DATE
-fan I-DATE
-ak I-DATE
-benn I-DATE
-ci I-DATE
-weeru I-DATE
-desàmbar I-DATE
-ci I-DATE
-atum I-DATE
-2018 I-DATE
+Péncu 
+Ndawi 
+réew 
+mi 
+fukki 
+fan 
+ak 
+benn 
+ci 
+weeru 
+desàmbar 
+ci 
+atum 
+2018 
 , O
 te O
 kenn O
@@ -12138,10 +12136,10 @@ waxtaanewu O
 ko O
 . O
 
-SENELEC B-ORG
+SENELEC 
 , O
 waa O
-Senegaal B-LOC
+Senegaal 
 a O
 ko O
 moom O
@@ -12172,13 +12170,13 @@ door O
 nañu O
 liggéey O
 yi O
-àjjuma B-DATE
-jii I-DATE
-ñeenti I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-suweŋ I-DATE
+àjjuma 
+jii 
+ñeenti 
+fan 
+ci 
+weeru 
+suweŋ 
 ca O
 daara O
 ju O
@@ -12214,11 +12212,11 @@ ak O
 ñaari O
 doom O
 , O
-M B-PER
-. I-PER
-D I-PER
-. I-PER
-W I-PER
+M 
+. 
+D 
+. 
+W 
 lañu O
 taxawaloon O
 ca O
@@ -12226,7 +12224,7 @@ këru O
 àtte O
 ga O
 ca O
-Njaaréem B-LOC
+Njaaréem 
 ndax O
 dañu O
 ko O
@@ -12283,10 +12281,10 @@ milyaar O
 ci O
 ay O
 ndàmpaay O
-SOFIKO B-ORG
+SOFIKO 
 ci O
-atum B-DATE
-2015 I-DATE
+atum 
+2015 
 te O
 waajaluleen O
 ko O
@@ -12298,13 +12296,13 @@ réew O
 miy O
 jëfandikoo O
 ci O
-at B-DATE
-mi I-DATE
+at 
+mi 
 . O
 
-M B-PER
-. I-PER
-D I-PER
+M 
+. 
+D 
 . O
 : O
 lan O
@@ -12312,7 +12310,7 @@ moo O
 tax O
 nga O
 dem O
-PASTEF B-ORG
+PASTEF 
 ? O
 
 Mbër O
@@ -12326,12 +12324,12 @@ baax O
 . O
 
 Guney O
-Ngaala B-PER
-Silla I-PER
+Ngaala 
+Silla 
 yi O
 ñoo O
 dóor O
-Tanzanie B-LOC
+Tanzanie 
 ñetti O
 bal O
 ci O
@@ -12365,7 +12363,7 @@ ne O
 koom O
 - O
 koomu O
-Farãas B-LOC
+Farãas 
 , O
 ca O
 jamonoy O
@@ -12379,7 +12377,7 @@ woon O
 ci O
 ja O
 yu O
-Senegaal B-LOC
+Senegaal 
 ndax O
 fi O
 lañu O
@@ -12417,7 +12415,7 @@ gii O
 . O
 
 Doomu O
-Farãas B-LOC
+Farãas 
 ji O
 xam O
 - O
@@ -12434,7 +12432,7 @@ bu O
 yéenekaay O
 bii O
 di O
-L'As B-ORG
+L'As 
 tasaare O
 . O
 
@@ -12448,7 +12446,7 @@ tey O
 bokk O
 ak O
 doomi O
-Senegaal B-LOC
+Senegaal 
 yi O
 nekk O
 bitim O
@@ -12507,11 +12505,11 @@ réew O
 mi O
 , O
 yoy O
-Loraŋ B-PER
-Bakbóo I-PER
+Loraŋ 
+Bakbóo 
 ak O
-Giyóm B-PER
-Sóro I-PER
+Giyóm 
+Sóro 
 sax O
 ci O
 lañu O
@@ -12519,21 +12517,21 @@ bokk O
 . O
 
 Diwaani O
-Ndar B-LOC
+Ndar 
 , O
-Maatam B-LOC
+Maatam 
 , O
-Luga B-LOC
+Luga 
 ak O
-Kaasamaas B-LOC
+Kaasamaas 
 ñoo O
 ëpple O
 ci O
 ndimbali O
 réewum O
-Espaañ B-LOC
+Espaañ 
 ci O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Naal O
@@ -12572,7 +12570,7 @@ kuraŋ O
 . O
 
 Doomu O
-Esipt B-LOC
+Esipt 
 bi O
 am O
 fan O
@@ -12583,7 +12581,7 @@ ak O
 ñeent O
 nëbbul O
 taamug O
-Puma B-ORG
+Puma 
 mi O
 boole O
 ci O
@@ -12637,10 +12635,10 @@ askan O
 wi O
 wala O
 sax O
-Péncum B-ORG
-Ndawi I-ORG
-réew I-ORG
-mi I-ORG
+Péncum 
+Ndawi 
+réew 
+mi 
 . O
 
 Kurélu O
@@ -12660,8 +12658,8 @@ jëf O
 yi O
 ñuy O
 tuumaal O
-Maamur B-PER
-Jàllo I-PER
+Maamur 
+Jàllo 
 , O
 tënk O
 na O
@@ -12670,8 +12668,8 @@ ne O
 lu O
 yéeme O
 , O
-Maamur B-PER
-Jàllo I-PER
+Maamur 
+Jàllo 
 sàccul O
 alali O
 réew O
@@ -12688,7 +12686,7 @@ tamit O
 . O
 
 Bu O
-Siin B-LOC
+Siin 
 demee O
 ba O
 teg O
@@ -12697,8 +12695,8 @@ ci O
 mbir O
 yi O
 ci O
-weeru B-DATE
-màrs I-DATE
+weeru 
+màrs 
 , O
 du O
 am O
@@ -12712,8 +12710,8 @@ doxal O
 liggéey O
 ba O
 ci O
-weeru B-DATE
-awiril I-DATE
+weeru 
+awiril 
 , O
 ni O
 mu O
@@ -12721,12 +12719,12 @@ koy O
 defe O
 ci O
 bëru O
-at B-DATE
-mu I-DATE
-yees I-DATE
-mi I-DATE
+at 
+mu 
+yees 
+mi 
 isini O
-Siin B-LOC
+Siin 
 yi O
 di O
 def O
@@ -12752,9 +12750,9 @@ fa O
 jële O
 di O
 Doktëer O
-Alaaji B-PER
-Màggat I-PER
-Sekk I-PER
+Alaaji 
+Màggat 
+Sekk 
 , O
 fàttewuñoo O
 ñaanal O
@@ -12765,8 +12763,8 @@ ko O
 wuutu O
 . O
 
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 def O
 na O
 lu O
@@ -12777,8 +12775,8 @@ diine O
 bii O
 . O
 
-Keyta B-PER
-Balde I-PER
+Keyta 
+Balde 
 , O
 dellusiwaat O
 na O
@@ -12792,8 +12790,8 @@ joŋante O
 bi O
 , O
 ak O
-Mbay B-PER
-Ñaŋ I-PER
+Mbay 
+Ñaŋ 
 , O
 ci O
 kaw O
@@ -12869,7 +12867,7 @@ tambalee O
 njàngam O
 leetaram O
 ca O
-Sorbon B-ORG
+Sorbon 
 , O
 te O
 doonoon O
@@ -12891,8 +12889,8 @@ garaameer O
 def O
 ko O
 ci O
-atum B-DATE
-2021 I-DATE
+atum 
+2021 
 , O
 njàngat O
 moomu O
@@ -12916,11 +12914,11 @@ juróomi O
 at O
 . O
 
-Maki B-PER
+Maki 
 dafaay O
 ñaawaal O
 waa O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Ma O
@@ -12968,13 +12966,13 @@ yu O
 ndaw O
 lañu O
 ( O
-Lewandowski B-PER
+Lewandowski 
 bokk O
 na O
 booba O
 ca O
 futbalkati O
-Bayern B-ORG
+Bayern 
 ) O
 
 Nettalib O
@@ -12989,8 +12987,8 @@ jëf O
 juy O
 wane O
 ne O
-Maamur B-PER
-Jàllo I-PER
+Maamur 
+Jàllo 
 nangu O
 naa O
 tontu O
@@ -13110,10 +13108,10 @@ joŋante O
 bu O
 njëkk O
 bu O
-Musaa B-PER
-Wage I-PER
+Musaa 
+Wage 
 ak O
-Bàrsaa B-ORG
+Bàrsaa 
 yombul O
 woon O
 waaye O
@@ -13128,7 +13126,7 @@ mbootaayug O
 futbal O
 gu O
 déndu O
-Afirig B-LOC
+Afirig 
 jël O
 na O
 ay O
@@ -13193,16 +13191,16 @@ wàll O
 gi O
 , O
 Kolonel O
-Suleymaan B-PER
-Kande I-PER
+Suleymaan 
+Kande 
 , O
 dànkaafu O
 woon O
 na O
 ca O
-tàmbalig B-DATE
-weeru I-DATE
-féewriye I-DATE
+tàmbalig 
+weeru 
+féewriye 
 , O
 ba O
 muy O
@@ -13210,13 +13208,13 @@ nangu O
 dëkk O
 ya O
 fippuy O
-Kasamaas B-LOC
+Kasamaas 
 ya O
 sancoon O
 - O
-Bajoŋ B-LOC
+Bajoŋ 
 ak O
-Sikun B-LOC
+Sikun 
 , O
 ne O
 bépp O
@@ -13276,7 +13274,7 @@ xibaar O
 bi O
 jóge O
 : O
-SIMAD B-ORG
+SIMAD 
 # O
 SamaKàdduKennMoomuko O
 . O
@@ -13286,7 +13284,7 @@ dul O
 fukki O
 junniy O
 doomi O
-Senegaal B-LOC
+Senegaal 
 yi O
 dul O
 fay O
@@ -13329,8 +13327,8 @@ xiir O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 mu O
 xalaataat O
 bu O
@@ -13349,7 +13347,7 @@ yore O
 kàddoom O
 , O
 Sëñ O
-Kase B-PER
+Kase 
 , O
 sax O
 dafa O
@@ -13411,13 +13409,13 @@ soccer O
 yi O
 . O
 
-Juróom B-DATE
-- I-DATE
-ñaari I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-sulet I-DATE
+Juróom 
+- 
+ñaari 
+fan 
+ci 
+weeru 
+sulet 
 , O
 dige O
 bi O
@@ -13428,8 +13426,8 @@ T1784 O
 ngir O
 jot O
 ci O
-Sea B-ORG
-Premium I-ORG
+Sea 
+Premium 
 xaatim O
 nañu O
 ko O
@@ -13443,15 +13441,15 @@ ak O
 tabaxkat O
 bi O
 , O
-Ocea B-ORG
-SA I-ORG
+Ocea 
+SA 
 . O
 
 Ci O
 pólótig O
 , O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 wax O
 nee O
 na O
@@ -13519,7 +13517,7 @@ mi O
 , O
 wànte O
 nguuri O
-Afirig B-LOC
+Afirig 
 yépp O
 a O
 war O
@@ -13546,13 +13544,13 @@ tëralin O
 la O
 ñuy O
 doxal O
-at B-DATE
-mii I-DATE
-di I-DATE
-ñëw I-DATE
+at 
+mii 
+di 
+ñëw 
 ngir O
-lopitaalu B-ORG
-Tiwaawon I-ORG
+lopitaalu 
+Tiwaawon 
 la O
 jëwriñu O
 biir O
@@ -13595,8 +13593,8 @@ mi O
 yebal O
 te O
 Meetar O
-Mustafaa B-PER
-Njaay I-PER
+Mustafaa 
+Njaay 
 jiite O
 ko O
 , O
@@ -13605,14 +13603,14 @@ na O
 pas O
 - O
 pasu O
-Maadiyu B-PER
-Ture I-PER
+Maadiyu 
+Ture 
 ci O
 kër O
 diine O
 yi O
 ci O
-Senegaal B-LOC
+Senegaal 
 ak O
 sàmm O
 aaday O
@@ -13627,7 +13625,7 @@ dogal O
 dekere O
 ) O
 bu O
-2005 B-DATE
+2005 
 , O
 wax O
 nañu O
@@ -13637,33 +13635,33 @@ baaxul O
 
 Mooy O
 futbalkatu O
-Afirig B-LOC
+Afirig 
 bi O
 njëkka O
 jot O
 Onze O
 d'Or O
 ginnaaw O
-Dijje B-PER
-Dorokbaa I-PER
+Dijje 
+Dorokbaa 
 ca O
-atum B-DATE
-2004 I-DATE
+atum 
+2004 
 . O
 
-EDF B-ORG
+EDF 
 , O
-Gazprom B-ORG
+Gazprom 
 , O
-Engie B-ORG
+Engie 
 wala O
-Eni B-ORG
+Eni 
 bawoo O
 ca O
-Itali B-LOC
+Itali 
 , O
 doomi O
-Siin B-LOC
+Siin 
 yi O
 , O
 ndax O
@@ -13788,7 +13786,7 @@ Seefaa O
 Njiitu O
 réew O
 mi O
-Sàll B-PER
+Sàll 
 yégle O
 na O
 ne O
@@ -13872,8 +13870,8 @@ wacc O
 yoon O
 . O
 
-Tay B-DATE
-jii I-DATE
+Tay 
+jii 
 , O
 yégg O
 - O
@@ -13887,24 +13885,24 @@ mënuñu O
 róññale O
 ñi O
 jóge O
-Ndar B-LOC
+Ndar 
 ak O
 waa O
-Ndakaaru B-LOC
+Ndakaaru 
 , O
-Tambaa B-LOC
+Tambaa 
 , O
 wala O
-Fatig B-LOC
+Fatig 
 ak O
 waa O
-Kaasamaas B-LOC
+Kaasamaas 
 ak O
 waa O
-Bawol B-LOC
+Bawol 
 ak O
 waa O
-Jolof B-LOC
+Jolof 
 . O
 
 Pay O
@@ -13931,9 +13929,9 @@ Ndax O
 dafa O
 def O
 xarit O
-Sëriñ B-PER
-Mbàkke I-PER
-Njaay I-PER
+Sëriñ 
+Mbàkke 
+Njaay 
 mi O
 koy O
 jañ O
@@ -14269,7 +14267,7 @@ def O
 na O
 ca O
 dëkkub O
-Degere B-LOC
+Degere 
 lopitaal O
 bu O
 bees O
@@ -14286,8 +14284,8 @@ jiite O
 . O
 
 Doktëer O
-Abduraxmaan B-PER
-Juuf I-PER
+Abduraxmaan 
+Juuf 
 dem O
 na O
 ca O
@@ -14302,7 +14300,7 @@ koom O
 - O
 koom O
 bu O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Waxtaan O
@@ -14406,26 +14404,26 @@ gi O
 
 Seefaa O
 : O
-Jules B-PER
-Pascal I-PER
-Coly I-PER
+Jules 
+Pascal 
+Coly 
 , O
 doomu O
-Senegaal B-LOC
+Senegaal 
 di O
 pereetar O
 , O
 wéddi O
 na O
 waxi O
-Alasaan B-PER
-Watara I-PER
+Alasaan 
+Watara 
 ji O
 . O
 
 Nee O
 na O
-Sónko B-PER
+Sónko 
 dafay O
 wër O
 fu O
@@ -14440,22 +14438,22 @@ jixaatkat O
 jox O
 . O
 
-Abu B-PER
-Si I-PER
+Abu 
+Si 
 ( O
 taskatu O
 xibaar O
 ) O
 , O
-Yoro B-PER
-Mamadu I-PER
-Jàllo I-PER
+Yoro 
+Mamadu 
+Jàllo 
 ( O
 kameraamaan O
 ) O
 ak O
-Usmaan B-PER
-Njaay I-PER
+Usmaan 
+Njaay 
 ( O
 dawalkat O
 ) O
@@ -14474,17 +14472,17 @@ Bu O
 ñu O
 sukkandikoo O
 ci O
-Apanews B-ORG
+Apanews 
 , O
 àttekati O
-Mbootaayu B-ORG
-Futbal I-ORG
-gi I-ORG
-ci I-ORG
-Afirig I-ORG
+Mbootaayu 
+Futbal 
+gi 
+ci 
+Afirig 
 génne O
 na O
-Ginne B-LOC
+Ginne 
 ci O
 joŋante O
 bi O
@@ -14492,7 +14490,7 @@ war O
 a O
 am O
 ca O
-Tanzanie B-LOC
+Tanzanie 
 , O
 te O
 neenal O
@@ -14525,15 +14523,15 @@ mbiru O
 lempo O
 ba O
 ca O
-Péncu B-ORG
-Ndawi I-ORG
-réew I-ORG
-mi I-ORG
+Péncu 
+Ndawi 
+réew 
+mi 
 . O
 
-Baay B-PER
-Móodu I-PER
-Faal I-PER
+Baay 
+Móodu 
+Faal 
 , O
 soo O
 moytuwul O
@@ -14570,7 +14568,7 @@ faatu O
 . O
 
 Ca O
-Kódiwaar B-LOC
+Kódiwaar 
 , O
 njëg O
 yi O
@@ -14598,7 +14596,7 @@ yu O
 rëy O
 la O
 nguuru O
-Senegaal B-LOC
+Senegaal 
 def O
 , O
 misaal O
@@ -14625,12 +14623,12 @@ Looy O
 wax O
 ci O
 réewi O
-Afirig B-LOC
+Afirig 
 yi O
 jox O
 seen O
 lépp O
-Farãas B-LOC
+Farãas 
 te O
 bàyyeeku O
 bañ O
@@ -14659,10 +14657,10 @@ këri O
 soldaar O
 yi O
 waa O
-Farãas B-LOC
+Farãas 
 am O
 ci O
-Afirig B-LOC
+Afirig 
 . O
 
 Am O
@@ -14702,7 +14700,7 @@ xeetu O
 toppinu O
 yoon O
 ca O
-Farãas B-LOC
+Farãas 
 , O
 ci O
 nga O
@@ -14736,7 +14734,7 @@ jàppale O
 sa O
 farandoo O
 ca O
-Sigicoor B-LOC
+Sigicoor 
 . O
 
 Dama O
@@ -14755,7 +14753,7 @@ njabootam O
 . O
 
 Këlëbu O
-almaañ B-LOC
+almaañ 
 bi O
 bàyyi O
 na O
@@ -14791,22 +14789,22 @@ yore O
 kàddu O
 gi O
 , O
-Masayeer B-PER
-Sàmb I-PER
+Masayeer 
+Sàmb 
 , O
-Pastefu B-ORG
-Kebemeer B-LOC
+Pastefu 
+Kebemeer 
 , O
 nee O
 na O
-àllarba B-DATE
-fukki I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-suweŋ I-DATE
-atum I-DATE
-2020 I-DATE
+àllarba 
+fukki 
+fan 
+ci 
+weeru 
+suweŋ 
+atum 
+2020 
 lañu O
 jàppoon O
 ba O
@@ -14817,7 +14815,7 @@ waa O
 mbalkam O
 deret O
 ca O
-Luga B-LOC
+Luga 
 . O
 
 Ropplaan O
@@ -14845,12 +14843,12 @@ Disoo O
 ak O
 Pexe O
 ca O
-SN B-ORG
-KOM I-ORG
-EKO I-ORG
+SN 
+KOM 
+EKO 
 , O
 xaalisu O
-Afrig B-LOC
+Afrig 
 wala O
 njublaŋ O
 bu O
@@ -14859,9 +14857,9 @@ ngir O
 yokk O
 nooteel O
 ak O
-Farãas B-LOC
+Farãas 
 - O
-Afirig B-LOC
+Afirig 
 ? O
 
 Dëgg O
@@ -14901,33 +14899,33 @@ ko O
 ! O
 Bul O
 soppeeku O
-Saajo B-PER
+Saajo 
 mukk O
 ! O
 Gaynde O
 nga O
 ! O
 Doomu O
-Afirig B-LOC
+Afirig 
 bu O
 raxul O
 dara O
 . O
 
 Ginnaw O
-Sala B-PER
+Sala 
 ak O
-Firmiñoo B-PER
+Firmiñoo 
 , O
 Red O
 yi O
 mënuñu O
 yëngal O
-Ter B-PER
-Stegen I-PER
+Ter 
+Stegen 
 , O
 te O
-Mesi B-PER
+Mesi 
 dafay O
 dóor O
 ak O
@@ -15056,9 +15054,9 @@ sosug O
 ndimalug O
 njaboot O
 yi O
-weer B-DATE
-wu I-DATE
-nekk I-DATE
+weer 
+wu 
+nekk 
 ëlëm O
 na O
 ma O
@@ -15127,14 +15125,14 @@ bi O
 ak O
 Cmc O
 bu O
-BMW B-ORG
+BMW 
 bi O
 wérul O
 . O
 
-Sidaan B-PER
+Sidaan 
 ak O
-Reyaal B-ORG
+Reyaal 
 dañoo O
 nekk O
 ci O
@@ -15152,7 +15150,7 @@ njëkk O
 ci O
 LD O
 ak O
-Galatasaraay B-ORG
+Galatasaraay 
 mi O
 aw O
 yoonu O
@@ -15186,7 +15184,7 @@ na O
 Xam O
 nañu O
 ne O
-Senegaal B-LOC
+Senegaal 
 soriwul O
 diggante O
 boobu O
@@ -15228,7 +15226,7 @@ li O
 . O
 
 Doomi O
-Autriche B-LOC
+Autriche 
 bi O
 am O
 ñaar O
@@ -15350,7 +15348,7 @@ juróom O
 benni O
 yoon O
 li O
-Senegaal B-LOC
+Senegaal 
 doon O
 wër O
 , O
@@ -15412,7 +15410,7 @@ Ginnaaw O
 at O
 ca O
 boppu O
-Ewerton B-ORG
+Ewerton 
 , O
 te O
 mu O
@@ -15425,16 +15423,16 @@ ca O
 Premier O
 League O
 , O
-at B-DATE
-mii I-DATE
+at 
+mii 
 , O
-Karlo B-PER
-Ansoleti I-PER
+Karlo 
+Ansoleti 
 dellu O
 na O
 ca O
-Reyal B-ORG
-Madirit I-ORG
+Reyal 
+Madirit 
 . O
 
 Sunu O
@@ -15477,8 +15475,8 @@ ndawu O
 réew O
 mii O
 di O
-Usman B-PER
-Sónko I-PER
+Usman 
+Sónko 
 dàq O
 na O
 koppari O
@@ -15502,11 +15500,11 @@ jagleel O
 jaww O
 ji O
 , O
-juróomi B-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-suweŋ I-DATE
+juróomi 
+fan 
+ci 
+weeru 
+suweŋ 
 , O
 àll O
 bu O
@@ -15514,22 +15512,22 @@ ndaw O
 nekk O
 ci O
 viir O
-Ndakaaru B-LOC
+Ndakaaru 
 la O
 Ndawal O
-Mbootaayug B-ORG
-réewi I-ORG
-Tugal I-ORG
+Mbootaayug 
+réewi 
+Tugal 
 yi O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
-Irène B-PER
-Mingasson I-PER
+Irène 
+Mingasson 
 , O
 ubbi O
 ca O
-Wakaam B-LOC
+Wakaam 
 . O
 
 Ropplaan O
@@ -15611,17 +15609,17 @@ xaalis O
 bi O
 . O
 
-Soham B-PER
-El I-PER
-Wardini I-PER
+Soham 
+El 
+Wardini 
 , O
 njiitu O
 méeri O
 du O
-Ndakaaru B-LOC
+Ndakaaru 
 , O
-Ali B-PER
-Aydaar I-PER
+Ali 
+Aydaar 
 , O
 saa O
 - O
@@ -15642,9 +15640,9 @@ bès O
 boobu O
 . O
 
-Beresil B-LOC
+Beresil 
 ak O
-Senegaal B-LOC
+Senegaal 
 dañoo O
 témboo O
 ku O
@@ -15703,16 +15701,16 @@ lu O
 ëllëg O
 , O
 bu O
-Senegaal B-LOC
+Senegaal 
 awee O
 yoon O
 wu O
 bokkul O
 ak O
 wu O
-Móoritani B-LOC
+Móoritani 
 wala O
-Marog B-LOC
+Marog 
 , O
 wala O
 yeneen O
@@ -15723,16 +15721,16 @@ seetlu O
 boobu O
 , O
 kilifay O
-Mbootaayu B-ORG
-réewi I-ORG
-Afirig I-ORG
-sowu I-ORG
-jànt I-ORG
-ngir I-ORG
-koom I-ORG
-- I-ORG
-koom I-ORG
-bi I-ORG
+Mbootaayu 
+réewi 
+Afirig 
+sowu 
+jànt 
+ngir 
+koom 
+- 
+koom 
+bi 
 war O
 nañu O
 gën O
@@ -15756,7 +15754,7 @@ yi O
 Njàqare O
 ig O
 am O
-Niseriyaa B-LOC
+Niseriyaa 
 , O
 ci O
 misaal O
@@ -15808,11 +15806,11 @@ laata O
 ñuy O
 tambali O
 Kub O
-Afirig B-LOC
+Afirig 
 ba O
 am O
 ca O
-Esipt B-LOC
+Esipt 
 , O
 lañu O
 tuumaaloon O
@@ -15822,7 +15820,7 @@ ay O
 loxoom O
 set O
 ci O
-CAF B-ORG
+CAF 
 . O
 
 Bu O
@@ -15835,12 +15833,12 @@ doyoon O
 a O
 waar O
 ba O
-Origi B-PER
+Origi 
 njëkke O
 dugal O
 ginnaaw O
 njuumteg O
-Alba B-PER
+Alba 
 ( O
 benn O
 ci O
@@ -15879,24 +15877,24 @@ wi O
 bu O
 njëkk O
 bi O
-Léwópól B-PER
-Sedaar I-PER
-Seŋoor I-PER
+Léwópól 
+Sedaar 
+Seŋoor 
 defoon O
 bi O
 mu O
 faloo O
 , O
-juróom B-DATE
-- I-DATE
-benni I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-sàttumbar I-DATE
-ca I-DATE
-atum I-DATE
-1960 I-DATE
+juróom 
+- 
+benni 
+fan 
+ci 
+weeru 
+sàttumbar 
+ca 
+atum 
+1960 
 , O
 wala O
 nga O
@@ -15905,10 +15903,10 @@ bès O
 bi O
 ñu O
 falee O
-Wàdd B-PER
+Wàdd 
 ca O
-atum B-DATE
-2007 I-DATE
+atum 
+2007 
 . O
 
 Ñiy O
@@ -15998,7 +15996,7 @@ ne O
 xaalisu O
 Seefaa O
 doomu O
-Afirig B-LOC
+Afirig 
 moomuñu O
 ko O
 . O
@@ -16053,16 +16051,16 @@ lu O
 jàmp O
 lañu O
 yebal O
-Le B-PER
-Drian I-PER
+Le 
+Drian 
 ca O
-Abijãa B-LOC
+Abijãa 
 ngir O
 mu O
 fàttali O
 njiitu O
 réewu O
-Kódiwaar B-LOC
+Kódiwaar 
 ne O
 dafa O
 war O
@@ -16109,7 +16107,7 @@ yokkuteg O
 dëkku O
 cosaanam O
 , O
-Bàmbaali B-LOC
+Bàmbaali 
 , O
 ca O
 diggante O
@@ -16125,9 +16123,9 @@ mi O
 Seetal O
 rekk O
 , O
-guddig B-DATE
-weeru I-DATE
-koor I-DATE
+guddig 
+weeru 
+koor 
 , O
 ci O
 ngelaw O
@@ -16154,8 +16152,8 @@ yu O
 defaree O
 kuraŋ O
 , O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 gisul O
 dara O
 lu O
@@ -16207,8 +16205,8 @@ xibaar O
 buy O
 wax O
 ci O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 , O
 mu O
 di O
@@ -16223,7 +16221,7 @@ Kurélug O
 pólótig O
 gii O
 di O
-APR B-ORG
+APR 
 ci O
 xàll O
 woowu O
@@ -16235,8 +16233,8 @@ mujje O
 sax O
 yàqu O
 ci O
-atum B-DATE
-2024 I-DATE
+atum 
+2024 
 
 Jafe O
 - O
@@ -16280,7 +16278,7 @@ juddu O
 ànd O
 ak O
 ñëwug O
-Maki B-PER
+Maki 
 . O
 
 Teniskat O
@@ -16288,8 +16286,8 @@ bu O
 jigéen O
 bii O
 di O
-Nawomi B-PER
-Osaka I-PER
+Nawomi 
+Osaka 
 , O
 ci O
 tàggatam O
@@ -16301,21 +16299,21 @@ Garos O
 ci O
 digganteem O
 ak O
-Aseigh B-PER
-Barti I-PER
+Aseigh 
+Barti 
 , O
 bésu O
-juróom B-DATE
-- I-DATE
-benni I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-mee I-DATE
-atum I-DATE
-2021 I-DATE
+juróom 
+- 
+benni 
+fan 
+ci 
+weeru 
+mee 
+atum 
+2021 
 ca O
-Pari B-LOC
+Pari 
 . O
 
 Dinañu O
@@ -16370,7 +16368,7 @@ xeex O
 Ci O
 joŋante O
 bi O
-Liverpool B-ORG
+Liverpool 
 jël O
 ndam O
 li O
@@ -16393,8 +16391,8 @@ ay O
 bal O
 bi O
 , O
-Moxamet B-PER
-Sala I-PER
+Moxamet 
+Sala 
 njëkk O
 a O
 dugal O
@@ -16439,15 +16437,15 @@ xarnu O
 , O
 ginnaaw O
 demug O
-Ibraayima B-PER
+Ibraayima 
 ak O
 ndonoom O
 . O
 ( O
 Majaalis O
 , O
-atum B-DATE
-2010 I-DATE
+atum 
+2010 
 , O
 xëtu O
 ñeenti O
@@ -16465,7 +16463,7 @@ juróom O
 Aada O
 ak O
 cosaanu O
-Senegaal B-LOC
+Senegaal 
 doonatul O
 ba O
 woon O
@@ -16549,21 +16547,21 @@ n° O
 12914 O
 MEF O
 / O
-DGID B-ORG
+DGID 
 ) O
 bu O
-fan B-DATE
-- I-DATE
-weeri I-DATE
-fan I-DATE
-ak I-DATE
-benn I-DATE
-ci I-DATE
-weeru I-DATE
-sulet I-DATE
-ci I-DATE
-atum I-DATE
-2013 I-DATE
+fan 
+- 
+weeri 
+fan 
+ak 
+benn 
+ci 
+weeru 
+sulet 
+ci 
+atum 
+2013 
 te O
 mu O
 soxal O
@@ -16601,7 +16599,7 @@ Ligg O
 dee O
 Sàmpiyoŋ O
 : O
-Bayern B-ORG
+Bayern 
 laa O
 don O
 liggéeye O
@@ -16612,13 +16610,13 @@ nañu O
 ab O
 reer O
 ca O
-Munig B-LOC
+Munig 
 . O
 
 Xawma O
 fu O
 doomu O
-Senegaal B-LOC
+Senegaal 
 bu O
 mel O
 nii O
@@ -16633,7 +16631,7 @@ yépp O
 Ci O
 loolu O
 , O
-Ndakaaru B-LOC
+Ndakaaru 
 , O
 ak O
 dëkkuwaayam O
@@ -16725,7 +16723,7 @@ la O
 koy O
 defe O
 ci O
-Afirig B-LOC
+Afirig 
 , O
 dañu O
 soxla O
@@ -16753,10 +16751,10 @@ gis O
 diggante O
 nañu O
 daje O
-weeru B-DATE
-desàmbar I-DATE
+weeru 
+desàmbar 
 wala O
-sãawiyée B-DATE
+sãawiyée 
 wii O
 di O
 ñëw O
@@ -16777,7 +16775,7 @@ réew O
 mi O
 des O
 na O
-Tàmbaakunda B-LOC
+Tàmbaakunda 
 , O
 dafa O
 mbëkkante O
@@ -16808,20 +16806,20 @@ këyit O
 dugg O
 ci O
 dëkku O
-Espaañ B-LOC
+Espaañ 
 gii O
 di O
-Sewuta B-LOC
+Sewuta 
 ci O
-fukki B-DATE
-fan I-DATE
-ak I-DATE
-juróom I-DATE
-- I-DATE
-ñaar I-DATE
-ci I-DATE
-weeru I-DATE
-mee I-DATE
+fukki 
+fan 
+ak 
+juróom 
+- 
+ñaar 
+ci 
+weeru 
+mee 
 . O
 
 Wàllikati O
@@ -16831,21 +16829,21 @@ ngi O
 waajal O
 xaat O
 bëreb O
-Bàlla B-PER
-Gay I-PER
-2 I-PER
+Bàlla 
+Gay 
+2 
 ak O
-Bombaarjée B-PER
+Bombaarjée 
 , O
-fan B-DATE
-- I-DATE
-eeri I-DATE
-fan I-DATE
-ak I-DATE
-benn I-DATE
-ci I-DATE
-weeru I-DATE
-sulet I-DATE
+fan 
+- 
+eeri 
+fan 
+ak 
+benn 
+ci 
+weeru 
+sulet 
 . O
 
 Amal O
@@ -16855,8 +16853,8 @@ waay O
 . O
 
 Jàppee O
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 ni O
 ñaari O
 mbir O
@@ -16864,8 +16862,8 @@ yi O
 ko O
 fësal O
 ca O
-Premier B-ORG
-League I-ORG
+Premier 
+League 
 , O
 nakk O
 na O
@@ -16885,12 +16883,12 @@ bi O
 ci O
 pul O
 D O
-Suwentis B-ORG
+Suwentis 
 moo O
 doon O
 daje O
 ak O
-Lokomotiw B-ORG
+Lokomotiw 
 . O
 
 Njëkk O
@@ -16944,19 +16942,19 @@ koppar O
 yi O
 ci O
 réewi O
-Afirig B-LOC
-sowu I-LOC
-jànt I-LOC
+Afirig 
+sowu 
+jànt 
 
-Baaba B-PER
-Raasin I-PER
+Baaba 
+Raasin 
 yittey O
 askan O
 wi O
 la O
 ngir O
 yokkuteg O
-Podoor B-LOC
+Podoor 
 . O
 
 Ginnaaw O
@@ -16965,7 +16963,7 @@ ndam O
 ci O
 digganteem O
 ak O
-Tanzanie B-LOC
+Tanzanie 
 ( O
 ñaari O
 bal O
@@ -16973,7 +16971,7 @@ ci O
 dara O
 ) O
 ak O
-Keeñaa B-LOC
+Keeñaa 
 ( O
 ñetti O
 bal O
@@ -16985,7 +16983,7 @@ benn O
 làjj O
 ci O
 kanam O
-Alseri B-LOC
+Alseri 
 ( O
 benn O
 bal O
@@ -16997,19 +16995,19 @@ Gayndey O
 Teraanga O
 yi O
 futbalkatu O
-PSG B-ORG
+PSG 
 ba O
 woon O
 , O
-Aliy B-PER
-Siise I-PER
+Aliy 
+Siise 
 , O
 di O
 tàggat O
 , O
 ñoo O
 génne O
-Ugàndaa B-LOC
+Ugàndaa 
 ci O
 joŋante O
 bi O
@@ -17021,8 +17019,8 @@ dara O
 . O
 
 Xibaaru O
-Jeynaba B-PER
-Saar I-PER
+Jeynaba 
+Saar 
 mi O
 ñu O
 fal O
@@ -17031,13 +17029,13 @@ lëkkale O
 liggéey O
 bi O
 ca O
-Bórdoo B-LOC
+Bórdoo 
 , O
-Farãas B-LOC
+Farãas 
 . O
 
 Nganug O
-Watara B-PER
+Watara 
 ga O
 neexul O
 , O
@@ -17046,17 +17044,17 @@ gu O
 ñàng O
 la O
 génne O
-Elise B-LOC
+Elise 
 . O
 
 Sàmpiyonaa O
-Afirig B-LOC
+Afirig 
 yooyu O
 ca O
-suweŋ B-DATE
-ci I-DATE
-atum I-DATE
-2020 I-DATE
+suweŋ 
+ci 
+atum 
+2020 
 lañu O
 ko O
 njëkkoon O
@@ -17110,7 +17108,7 @@ mi O
 Téeméeri O
 taraktëer O
 ngir O
-Senegaal B-LOC
+Senegaal 
 gépp O
 , O
 Njiitu O
@@ -17177,7 +17175,7 @@ fàttali O
 na O
 njiitu O
 réewu O
-Senegaal B-LOC
+Senegaal 
 mu O
 xoolaat O
 béréb O
@@ -17264,7 +17262,7 @@ benn O
 bu O
 Ndey O
 àtte O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Loolu O
@@ -17284,7 +17282,7 @@ ca O
 ba O
 . O
 
-Mojip B-ORG
+Mojip 
 mbootaay O
 la O
 gu O
@@ -17309,9 +17307,9 @@ te O
 dugal O
 ci O
 jigéeni O
-Pastef B-ORG
+Pastef 
 yu O
-Farãas B-LOC
+Farãas 
 . O
 
 Xël O
@@ -17356,24 +17354,24 @@ ko O
 ( O
 dëkk O
 yu O
-Luba B-LOC
+Luba 
 , O
-Weynaan B-LOC
+Weynaan 
 , O
-Kelimaan B-LOC
+Kelimaan 
 , O
-Nguy B-LOC
-1 I-LOC
-ak I-LOC
-2 I-LOC
+Nguy 
+1 
+ak 
+2 
 , O
-Ñaaxeen B-LOC
+Ñaaxeen 
 ) O
 . O
 
 Waa O
-Atletikoo B-ORG
-Madirit I-ORG
+Atletikoo 
+Madirit 
 ñoo O
 daan O
 benn O
@@ -17391,22 +17389,22 @@ ba O
 . O
 
 Joŋateb O
-Farãas B-LOC
+Farãas 
 biy O
 ñëw O
-talaata B-DATE
-la I-DATE
-juróom I-DATE
-- I-DATE
-ñetti I-DATE
-fan I-DATE
-ci I-DATE
-weru I-DATE
-suweŋ I-DATE
+talaata 
+la 
+juróom 
+- 
+ñetti 
+fan 
+ci 
+weru 
+suweŋ 
 ci O
 digganteem O
 ak O
-Ekos B-LOC
+Ekos 
 . O
 
 Bu O
@@ -17414,7 +17412,7 @@ Bu O
 jëlee O
 misaal O
 , O
-Jogomaay B-PER
+Jogomaay 
 waxu O
 fi O
 dara O
@@ -17452,7 +17450,7 @@ wa O
 gën O
 a O
 jege O
-Safaa B-LOC
+Safaa 
 , O
 ginnaaw O
 gi O
@@ -17468,7 +17466,7 @@ dëkkul O
 mujje O
 dëpp O
 jëm O
-Marwa B-LOC
+Marwa 
 . O
 
 Mbootaay O
@@ -17541,8 +17539,8 @@ liggéey O
 bi O
 ci O
 kurélu O
-Val B-ORG
-d'Oise I-ORG
+Val 
+d'Oise 
 , O
 yan O
 ñooy O
@@ -17583,8 +17581,8 @@ waxe O
 woon O
 njàqareem O
 ca O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 bi O
 ñu O
 ko O
@@ -17599,8 +17597,8 @@ ci O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 mu O
 tàggale O
 ñu O
@@ -17616,36 +17614,36 @@ amuñu O
 benn O
 njariñ O
 ( O
-Ngomblaanu B-ORG
-koom I-ORG
-- I-ORG
-koom I-ORG
-beek I-ORG
-Aalam I-ORG
-bi I-ORG
+Ngomblaanu 
+koom 
+- 
+koom 
+beek 
+Aalam 
+bi 
 ( O
-CESE B-ORG
+CESE 
 ) O
 , O
-Ngomblaanu B-ORG
-Gox I-ORG
-- I-ORG
-goxaat I-ORG
-yi I-ORG
+Ngomblaanu 
+Gox 
+- 
+goxaat 
+yi 
 ( O
-HCCT B-ORG
+HCCT 
 ) O
 , O
-Ngomblaanu B-ORG
-diisook I-ORG
-askan I-ORG
-wi I-ORG
+Ngomblaanu 
+diisook 
+askan 
+wi 
 ( O
-Haut B-ORG
-Conseil I-ORG
-du I-ORG
-Dialogue I-ORG
-social I-ORG
+Haut 
+Conseil 
+du 
+Dialogue 
+social 
 ) O
 , O
 ak O
@@ -17653,7 +17651,7 @@ ak O
 seen O
 
 Bi O
-Sónko B-PER
+Sónko 
 waxee O
 téeméeri O
 ( O
@@ -17672,8 +17670,8 @@ ci O
 at O
 mi O
 , O
-Abdulaay B-PER
-Sekk I-PER
+Abdulaay 
+Sekk 
 mi O
 xam O
 - O
@@ -17715,13 +17713,13 @@ njiitu O
 réew O
 mi O
 
-Franz B-PER
-Fanon I-PER
+Franz 
+Fanon 
 mu O
 jamonoom O
 , O
-Ali B-PER
-Sariyati I-PER
+Ali 
+Sariyati 
 , O
 xam O
 - O
@@ -17827,11 +17825,11 @@ wax O
 
 Ni O
 ko O
-L'As B-ORG
+L'As 
 waxee O
 , O
 kilifag O
-Pastef B-ORG
+Pastef 
 gi O
 daje O
 na O
@@ -17872,11 +17870,11 @@ raŋ O
 raŋ O
 bi O
 dox O
-Kéedugu B-LOC
+Kéedugu 
 ak O
-lopitaal B-ORG
-Amat I-ORG
-Dãasoxo I-ORG
+lopitaal 
+Amat 
+Dãasoxo 
 . O
 
 Rëcc O
@@ -17922,7 +17920,7 @@ kanamu O
 woyu O
 . O
 
-Senegael B-LOC
+Senegael 
 moo O
 féete O
 ci O
@@ -17931,10 +17929,10 @@ palaas O
 bi O
 ci O
 diwaanu O
-Afirig B-LOC
+Afirig 
 , O
 njiitu O
-RDC B-LOC
+RDC 
 mi O
 nekk O
 ci O
@@ -17946,7 +17944,7 @@ itam O
 dëkkandoom O
 bii O
 di O
-Mali B-LOC
+Mali 
 te O
 mu O
 féete O
@@ -17962,7 +17960,7 @@ Su O
 sukkandikoo O
 ci O
 Meetar O
-Kan B-PER
+Kan 
 , O
 liy O
 sababu O
@@ -17992,7 +17990,7 @@ nimero O
 fukk O
 ) O
 bu O
-Farãas B-LOC
+Farãas 
 , O
 te O
 muy O
@@ -18014,7 +18012,7 @@ daa O
 gaañu O
 . O
 
-MD B-PER
+MD 
 : O
 Yaw O
 lan O
@@ -18028,7 +18026,7 @@ def O
 ngir O
 xëcc O
 jigéeni O
-Senegaal B-LOC
+Senegaal 
 yi O
 ci O
 pólótig O
@@ -18036,7 +18034,7 @@ bi O
 ? O
 
 Na O
-2024 B-DATE
+2024 
 gaaw O
 agsi O
 ngir O
@@ -18144,7 +18142,7 @@ nekkoon O
 ab O
 wottukat O
 ca O
-OM B-ORG
+OM 
 te O
 mu O
 war O
@@ -18153,9 +18151,9 @@ def O
 ab O
 BEPF O
 ci O
-atum B-DATE
-ren I-DATE
-mi I-DATE
+atum 
+ren 
+mi 
 , O
 dafa O
 taamu O
@@ -18204,14 +18202,14 @@ Këru O
 liggéeykaay O
 gii O
 di O
-La B-ORG
-Sénégaalaise I-ORG
-de I-ORG
-Réassurance I-ORG
+La 
+Sénégaalaise 
+de 
+Réassurance 
 ( O
-Sen B-ORG
-- I-ORG
-Ré I-ORG
+Sen 
+- 
+Ré 
 ) O
 am O
 na O
@@ -18220,8 +18218,8 @@ njiit O
 lu O
 bees O
 . O
-Aadama B-PER
-Njaay I-PER
+Aadama 
+Njaay 
 la O
 tudd O
 , O
@@ -18349,16 +18347,16 @@ jël O
 US O
 Open O
 ci O
-atum B-DATE
-2020 I-DATE
+atum 
+2020 
 ak O
 Open O
 bu O
 Australie O
 ci O
-atum B-DATE
-ren I-DATE
-mii I-DATE
+atum 
+ren 
+mii 
 , O
 yaakaar O
 na O
@@ -18439,8 +18437,8 @@ Su O
 ñu O
 sukkandikoo O
 ci O
-Libération B-ORG
-Online I-ORG
+Libération 
+Online 
 , O
 boroom O
 rëcc O
@@ -18451,7 +18449,7 @@ jàppees O
 na O
 ko O
 ca O
-Misira B-LOC
+Misira 
 , O
 moo O
 ngi O
@@ -18468,8 +18466,8 @@ Ginnaaw O
 yëngu O
 - O
 yënguy O
-Aamadu B-PER
-Saaña I-PER
+Aamadu 
+Saaña 
 ci O
 ndoorte O
 li O
@@ -18482,7 +18480,7 @@ dara O
 ci O
 seen O
 digganteek O
-Tahiti B-LOC
+Tahiti 
 , O
 ñoo O
 ngi O
@@ -18497,11 +18495,11 @@ seen O
 digganteek O
 Cafeteros O
 yu O
-Colombie B-LOC
+Colombie 
 . O
 
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 moo O
 ngi O
 nas O
@@ -18542,7 +18540,7 @@ njiitu O
 réew O
 mi O
 ca O
-Kungél B-LOC
+Kungél 
 démb O
 war O
 naa O
@@ -18561,13 +18559,13 @@ waxtuw O
 ndékki O
 li O
 ci O
-talaata B-DATE
-jii I-DATE
+talaata 
+jii 
 ca O
-otel B-ORG
-bu I-ORG
-Rhino I-ORG
-Resort I-ORG
+otel 
+bu 
+Rhino 
+Resort 
 , O
 nekk O
 fa O
@@ -18586,18 +18584,18 @@ ngir O
 waaj O
 seen O
 dajeek O
-Madacascar B-LOC
-gaawu B-DATE
+Madacascar 
+gaawu 
 ak O
-Mali B-LOC
-talaata B-DATE
-ja I-DATE
-ca I-DATE
-topp I-DATE
+Mali 
+talaata 
+ja 
+ca 
+topp 
 . O
 
 Daray O
-Ljunberg B-PER
+Ljunberg 
 feeñu O
 fi O
 wala O
@@ -18666,13 +18664,13 @@ wàllu O
 tàggatu O
 gi O
 ca O
-Dakaar B-ORG
-Sakere I-ORG
-Këer I-ORG
+Dakaar 
+Sakere 
+Këer 
 , O
-Olivier B-PER
-Brice I-PER
-Sylvain I-PER
+Olivier 
+Brice 
+Sylvain 
 te O
 ñu O
 tuumaal O
@@ -18683,7 +18681,7 @@ xale O
 yu O
 ndaw O
 ba O
-police B-ORG
+police 
 teg O
 ko O
 loxo O
@@ -18760,15 +18758,15 @@ Hacking O
 Covid O
 - O
 19 O
-Africa B-LOC
+Africa 
 bu O
-HEC B-ORG
-bu I-ORG
-Paris I-ORG
+HEC 
+bu 
+Paris 
 dafay O
 dajale O
 ndawi O
-Afirig B-LOC
+Afirig 
 yépp O
 . O
 
@@ -18785,13 +18783,13 @@ ci O
 gis O
 - O
 gisu O
-PASTEEF B-ORG
+PASTEEF 
 bi O
 nga O
 xam O
 ne O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 moo O
 ko O
 jëmmal O
@@ -18802,7 +18800,7 @@ yiy O
 xew O
 ci O
 diwaanu O
-Afirig B-LOC
+Afirig 
 yépp O
 yu O
 mel O
@@ -18836,14 +18834,14 @@ naa O
 xam O
 . O
 
-M2D B-ORG
+M2D 
 bi O
-Seex B-PER
-Tijaan I-PER
-Jéey I-PER
+Seex 
+Tijaan 
+Jéey 
 jiite O
 ak O
-Usmaan B-PER
+Usmaan 
 mu O
 doyadi O
 mii O
@@ -18863,7 +18861,7 @@ tënku O
 , O
 te O
 nguurug O
-Maki B-PER
+Maki 
 gi O
 bëgg O
 ko O
@@ -18882,7 +18880,7 @@ yi O
 nekk O
 ci O
 biir O
-Ndakaaru B-LOC
+Ndakaaru 
 ak O
 li O
 ko O
@@ -18891,7 +18889,7 @@ wër O
 
 Doxali O
 nu O
-VAP B-ORG
+VAP 
 yi O
 nga O
 xam O
@@ -18921,18 +18919,18 @@ koy O
 amal O
 . O
 
-Aljuma B-DATE
-jii I-DATE
-yemook I-DATE
-bésu I-DATE
-ñaar I-DATE
-- I-DATE
-fukki I-DATE
-fan I-DATE
-ak I-DATE
-juróom I-DATE
-- I-DATE
-ñett I-DATE
+Aljuma 
+jii 
+yemook 
+bésu 
+ñaar 
+- 
+fukki 
+fan 
+ak 
+juróom 
+- 
+ñett 
 , O
 njiital O
 xëy O
@@ -18940,8 +18938,8 @@ mi O
 , O
 Sëñ O
 . O
-Móodu B-PER
-Faal I-PER
+Móodu 
+Faal 
 def O
 na O
 ay O
@@ -19020,9 +19018,9 @@ ci O
 benn O
 , O
 ci O
-ndoortel B-DATE
-weeru I-DATE
-mee I-DATE
+ndoortel 
+weeru 
+mee 
 , O
 ñetti O
 ayu O
@@ -19073,10 +19071,10 @@ tënk O
 njeexitalu O
 liggéeyu O
 kuréelu O
-péncum B-ORG
-ndawi I-ORG
-réew I-ORG
-mi I-ORG
+péncum 
+ndawi 
+réew 
+mi 
 doon O
 gëstu O
 ci O
@@ -19098,17 +19096,17 @@ xaatim O
 bu O
 jëkk O
 ci O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 bu O
-fukki B-DATE
-fan I-DATE
-ak I-DATE
-juróom I-DATE
-ci I-DATE
-weeru I-DATE
-féewiriyee I-DATE
-2019 I-DATE
+fukki 
+fan 
+ak 
+juróom 
+ci 
+weeru 
+féewiriyee 
+2019 
 moo O
 ko O
 jëmmal O
@@ -19314,11 +19312,11 @@ turu O
 njool O
 mii O
 di O
-Tàkko B-PER
-Faal I-PER
+Tàkko 
+Faal 
 ak O
-Yusufa B-PER
-Faal I-PER
+Yusufa 
+Faal 
 mi O
 nga O
 xam O
@@ -19329,7 +19327,7 @@ bëggam O
 moo O
 nekkoon O
 réewum O
-Farãas B-LOC
+Farãas 
 woo O
 ko O
 . O
@@ -19341,7 +19339,7 @@ booloo O
 ak O
 jàmm O
 ci O
-Senegaal B-LOC
+Senegaal 
 boo O
 xam O
 ne O
@@ -19376,7 +19374,7 @@ a O
 sàkku O
 ñu O
 woo O
-Karaa B-PER
+Karaa 
 bala O
 ñoo O
 diig O
@@ -19390,7 +19388,7 @@ siiw O
 bi O
 ñu O
 tudde O
-Fatig B-LOC
+Fatig 
 , O
 nekkul O
 ag O
@@ -19413,7 +19411,7 @@ signare O
 dafay O
 yóbbu O
 njiiti O
-Senegaal B-LOC
+Senegaal 
 yi O
 ak O
 gan O
@@ -19422,9 +19420,9 @@ am O
 solo O
 yi O
 diggante O
-Dakaar B-LOC
+Dakaar 
 ak O
-Gore B-LOC
+Gore 
 , O
 ci O
 anam O
@@ -19501,7 +19499,7 @@ bokk O
 - O
 moomeel O
 bu O
-Cees B-LOC
+Cees 
 mu O
 ngi O
 ci O
@@ -19544,11 +19542,11 @@ njariñal O
 . O
 
 Ca O
-Guinée B-LOC
-Bissau I-LOC
+Guinée 
+Bissau 
 ak O
 ca O
-Niger B-LOC
+Niger 
 daanaka O
 yeksi O
 nañu O
@@ -19564,10 +19562,10 @@ coppitee O
 yooyu O
 dina O
 eksi O
-Senegaal B-LOC
+Senegaal 
 ci O
-atum B-DATE
-2024 I-DATE
+atum 
+2024 
 . O
 
 Sa O
@@ -19607,7 +19605,7 @@ jàmm O
 senegaalug O
 naataange O
 , O
-Senegaal B-LOC
+Senegaal 
 gu O
 moom O
 boppam O
@@ -19664,15 +19662,15 @@ natt O
 ci O
 koom O
 ci O
-atum B-DATE
-2020 I-DATE
+atum 
+2020 
 ak O
 céddale O
 gi O
 ñeel O
-at B-DATE
-miiy I-DATE
-ñëw I-DATE
+at 
+miiy 
+ñëw 
 
 Ginnaaw O
 gi O
@@ -19700,14 +19698,14 @@ xarala O
 Ci O
 xelu O
 waa O
-APR B-ORG
+APR 
 , O
 ndam O
 li O
 ca O
 gox O
 bu O
-Sigicoor B-LOC
+Sigicoor 
 lay O
 gën O
 a O
@@ -19751,7 +19749,7 @@ bi O
 . O
 
 Waa O
-Liverpool B-ORG
+Liverpool 
 jël O
 nañu O
 seen O
@@ -19819,7 +19817,7 @@ teg O
 - O
 dóor O
 bu O
-Senegaal B-LOC
+Senegaal 
 . O
 . O
 . O
@@ -19863,9 +19861,9 @@ say O
 xarit O
 . O
 
-Aamadu B-PER
-Tiijaan I-PER
-WON I-PER
+Aamadu 
+Tiijaan 
+WON 
 nee O
 : O
 muus O
@@ -19892,7 +19890,7 @@ réew O
 moomu O
 ak O
 mu O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Bataaxal O
@@ -19907,7 +19905,7 @@ a O
 woote O
 fépp O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
 " O
 " O
@@ -19941,7 +19939,7 @@ a O
 konektewu O
 fépp O
 ci O
-Senegaal B-LOC
+Senegaal 
 ak O
 4G O
 + O
@@ -19957,7 +19955,7 @@ wér O
 yéeney O
 yàq O
 deru O
-Free B-ORG
+Free 
 , O
 rawatina O
 nag O
@@ -19981,7 +19979,7 @@ xam O
 ne O
 dafay O
 gaaruwaale O
-Free B-ORG
+Free 
 . O
 
 Ñàkk O
@@ -20028,10 +20026,10 @@ askan O
 
 Ci O
 li O
-Joseh B-PER
-Ki I-PER
-- I-PER
-Zerbo I-PER
+Joseh 
+Ki 
+- 
+Zerbo 
 wax O
 , O
 neenal O
@@ -20053,8 +20051,8 @@ jógu O
 fi O
 . O
 
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 moom O
 bi O
 ñu O
@@ -20082,8 +20080,8 @@ bi O
 Njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 wane O
 na O
 bëgg O
@@ -20249,7 +20247,7 @@ xel O
 ma O
 . O
 
-Siise B-PER
+Siise 
 amul O
 lenn O
 lu O
@@ -20276,9 +20274,9 @@ yi O
 fuuf O
 . O
 
-F B-PER
-. I-PER
-Bojãa I-PER
+F 
+. 
+Bojãa 
 nekk O
 ki O
 jiite O
@@ -20350,7 +20348,7 @@ jafe O
 bi O
 , O
 kuréelug O
-Amerig B-LOC
+Amerig 
 giy O
 yëngu O
 ci O
@@ -20378,7 +20376,7 @@ vedette O
 bu O
 ñuy O
 dem O
-gore B-LOC
+gore 
 . O
 
 Dañoo O
@@ -20439,8 +20437,8 @@ a O
 egsi O
 ci O
 lolu O
-Maam B-PER
-Mbay I-PER
+Maam 
+Mbay 
 yaakaar O
 na O
 ne O
@@ -20459,8 +20457,8 @@ yu O
 mel O
 ni O
 yu O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 , O
 te O
 mu O
@@ -20534,7 +20532,7 @@ bi O
 ak O
 juróom O
 waa O
-Russie B-LOC
+Russie 
 yi O
 lakk O
 caax O
@@ -20548,7 +20546,7 @@ ba O
 ñëwaat O
 , O
 waa O
-Almaañ B-LOC
+Almaañ 
 yi O
 wane O
 nañu O
@@ -20562,7 +20560,7 @@ Waaw O
 , O
 këru O
 liggéeyukaayu O
-Farãas B-LOC
+Farãas 
 gu O
 mag O
 bi O
@@ -20580,25 +20578,25 @@ xaalis O
 gi O
 . O
 
-Baay B-PER
-Móodu I-PER
-Faal I-PER
+Baay 
+Móodu 
+Faal 
 ñu O
 gën O
 koo O
 xam O
 ci O
 turu O
-Booy B-PER
-Jinne I-PER
+Booy 
+Jinne 
 dafa O
 rëcc O
-dibéer B-DATE
-fanweeri I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-mee I-DATE
+dibéer 
+fanweeri 
+fan 
+ci 
+weeru 
+mee 
 ci O
 kasog O
 Camp O
@@ -20622,7 +20620,7 @@ Su O
 ñu O
 sukkandikoo O
 ci O
-Libération B-ORG
+Libération 
 , O
 ki O
 doon O
@@ -20630,8 +20628,8 @@ dawal O
 BMW O
 bi O
 , O
-Mamadu B-PER
-Jóob I-PER
+Mamadu 
+Jóob 
 te O
 mu O
 am O
@@ -20712,8 +20710,8 @@ jalloore O
 ju O
 rëy O
 te O
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 wone O
 na O
 ci O
@@ -20833,8 +20831,8 @@ lañu O
 am O
 , O
 moone O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 laaj O
 na O
 leen O
@@ -20942,17 +20940,17 @@ lëkkale O
 gox O
 yi O
 , O
-Abdu B-PER
-Ndeene I-PER
-Sàll I-PER
+Abdu 
+Ndeene 
+Sàll 
 , O
 moo O
 nekkoon O
 ganu O
-RFM B-ORG
-ci B-DATE
-aljuma I-DATE
-ji I-DATE
+RFM 
+ci 
+aljuma 
+ji 
 . O
 
 Njàppale O
@@ -21113,8 +21111,8 @@ yoon O
 
 Soo O
 taseek O
-Booy B-PER
-Jinne I-PER
+Booy 
+Jinne 
 du O
 la O
 mës O
@@ -21126,10 +21124,10 @@ bët O
 
 Dara O
 wuutalewul O
-Aysata B-PER
+Aysata 
 ak O
-Raasin B-PER
-Si I-PER
+Raasin 
+Si 
 . O
 
 Dafa O
@@ -21186,7 +21184,7 @@ ekib O
 yiy O
 futbal O
 ca O
-Angalteer B-LOC
+Angalteer 
 , O
 waaye O
 yaa O
@@ -21196,7 +21194,7 @@ raw O
 gàddu O
 gi O
 ci O
-Ërob B-LOC
+Ërob 
 ak O
 joŋante O
 yu O
@@ -21212,7 +21210,7 @@ bal O
 . O
 
 Sëñ O
-Saar B-PER
+Saar 
 mi O
 nga O
 xam O
@@ -21235,14 +21233,14 @@ sàcc O
 ab O
 gaas O
 ca O
-Grand B-LOC
-- I-LOC
-Yoff I-LOC
+Grand 
+- 
+Yoff 
 ci O
 wetu O
-Zone B-LOC
-de I-LOC
-captage I-LOC
+Zone 
+de 
+captage 
 . O
 Mu O
 ngi O
@@ -21284,13 +21282,13 @@ xaarul O
 woon O
 yënguteg O
 ñoñi O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 yi O
 . O
 
 Réewi O
-CEMAC B-ORG
+CEMAC 
 yi O
 dañu O
 lànk O
@@ -21301,7 +21299,7 @@ gi O
 dox O
 seen O
 digganteek O
-Farãas B-LOC
+Farãas 
 te O
 mu O
 def O
@@ -21371,14 +21369,14 @@ nekk O
 Fajkat O
 bii O
 di O
-Róos B-PER
-WARDINI I-PER
+Róos 
+WARDINI 
 , O
 nekk O
 njiital O
-ONG B-ORG
-Médicol I-ORG
-International I-ORG
+ONG 
+Médicol 
+International 
 nee O
 na O
 bokk O
@@ -21390,7 +21388,7 @@ fiy O
 ñëw O
 te O
 jóge O
-Corée B-LOC
+Corée 
 , O
 ñoo O
 xam O
@@ -21492,15 +21490,15 @@ mi O
 
 . O
 . O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 , O
 mi O
 nga O
 xam O
 ne O
-Mamadu B-PER
-Ja I-PER
+Mamadu 
+Ja 
 mooy O
 royukaayam O
 ci O
@@ -21698,9 +21696,9 @@ a O
 senn O
 . O
 
-Madagaskaar B-LOC
+Madagaskaar 
 ak O
-Móoritani B-LOC
+Móoritani 
 ñoo O
 jël O
 ndam O
@@ -21799,7 +21797,7 @@ boobu O
 , O
 la O
 soppeey O
-Liverpool B-ORG
+Liverpool 
 yu O
 am O
 gannaaw O
@@ -21813,7 +21811,7 @@ seen O
 yeewute O
 , O
 waa O
-Barcelone B-ORG
+Barcelone 
 mujjee O
 nañoo O
 bàyyiku O
@@ -21868,7 +21866,7 @@ askan O
 wi O
 ci O
 déndu O
-Afirig B-LOC
+Afirig 
 , O
 doyul O
 dara O
@@ -21883,18 +21881,18 @@ Sumbkatu O
 làmb O
 bi O
 , O
-Paab B-PER
-Caalis I-PER
-Fay I-PER
+Paab 
+Caalis 
+Fay 
 taxawal O
 na O
 làmbi O
-Tafaa B-PER
-Tin I-PER
+Tafaa 
+Tin 
 ak O
-Booy B-PER
-Ñaŋ I-PER
-2 I-PER
+Booy 
+Ñaŋ 
+2 
 , O
 jàpp O
 nanu O
@@ -21913,12 +21911,12 @@ ba O
 Kañ O
 la O
 waa O
-Senegaal B-LOC
+Senegaal 
 di O
 yeewu O
 ? O
 
-Pep B-PER
+Pep 
 dellusi O
 na O
 ci O
@@ -21951,8 +21949,8 @@ benn O
 ) O
 . O
 
-Pólisu B-ORG
-Farãas I-ORG
+Pólisu 
+Farãas 
 taxaw O
 na O
 ci O
@@ -21964,11 +21962,11 @@ xaalis O
 ak O
 bérébu O
 liggéeyukaayu O
-Farãas B-LOC
+Farãas 
 bi O
 , O
-Tactical B-ORG
-Steel I-ORG
+Tactical 
+Steel 
 , O
 bu O
 sampu O
@@ -21977,27 +21975,27 @@ Var O
 bi O
 , O
 jàpp O
-Seyne B-LOC
-- I-LOC
-sur I-LOC
-- I-LOC
-Mer I-LOC
+Seyne 
+- 
+sur 
+- 
+Mer 
 . O
 
 Tënkub O
 ay O
 jukki O
 yu O
-Lazare B-PER
-Ki I-PER
-- I-PER
-Zerbo I-PER
+Lazare 
+Ki 
+- 
+Zerbo 
 a O
 door O
 , O
-CETIM B-ORG
+CETIM 
 , O
-2015 B-DATE
+2015 
 . O
 
 Noppi O
@@ -22029,7 +22027,7 @@ yóbbu O
 ko O
 ca O
 kasog O
-Mbàkke B-LOC
+Mbàkke 
 ga O
 , O
 ngir O
@@ -22049,12 +22047,12 @@ mu O
 demee O
 seeti O
 réewum O
-Farãas B-LOC
+Farãas 
 , O
 sunu O
 njiitu O
 réewum O
-Senegaal B-LOC
+Senegaal 
 lu O
 nu O
 fonk O
@@ -22069,7 +22067,7 @@ doxalin O
 wu O
 jagul O
 wi O
-ADO B-PER
+ADO 
 nekke O
 . O
 Nekk O
@@ -22081,10 +22079,10 @@ nii O
 fitna O
 ci O
 déndu O
-Afirig B-LOC
-sowu I-LOC
-- I-LOC
-jant I-LOC
+Afirig 
+sowu 
+- 
+jant 
 gi O
 . O
 
@@ -22164,8 +22162,8 @@ di O
 xaar O
 àttekat O
 bi O
-altine B-DATE
-jii I-DATE
+altine 
+jii 
 . O
 
 Wile O
@@ -22176,7 +22174,7 @@ naa O
 diis O
 ci O
 doomu O
-Senegaal B-LOC
+Senegaal 
 ji O
 ma O
 doon O
@@ -22207,8 +22205,8 @@ te O
 mu O
 dimbali O
 Sëriñ O
-Saaliw B-PER
-Cuun I-PER
+Saaliw 
+Cuun 
 ci O
 yenam O
 biy O
@@ -22318,8 +22316,8 @@ tuuti O
 ) O
 . O
 
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 a O
 ngi O
 liggéey O
@@ -22338,7 +22336,7 @@ ci O
 tele O
 yeek O
 rajoy O
-Ndakaaru B-LOC
+Ndakaaru 
 yi O
 di O
 nu O
@@ -22367,15 +22365,15 @@ kersa O
 yi O
 tax O
 ba O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 bañ O
 a O
 jañ O
 yombalug O
 njabootu O
-Njaga B-PER
-Ndóoy I-PER
+Njaga 
+Ndóoy 
 , O
 fi O
 ñeneen O
@@ -22393,11 +22391,11 @@ yoon O
 Futbalkatu O
 digg O
 bu O
-Bruges B-ORG
+Bruges 
 bi O
 , O
-Kerepee B-PER
-Jaata I-PER
+Kerepee 
+Jaata 
 dugal O
 na O
 balu O
@@ -22424,7 +22422,7 @@ benn O
 bal O
 bu O
 waa O
-Tanzanie B-LOC
+Tanzanie 
 mball O
 . O
 
@@ -22449,8 +22447,8 @@ faj O
 ADD O
 : O
 ca O
-MOJIP B-ORG
-FARÃAS B-LOC
+MOJIP 
+FARÃAS 
 , O
 am O
 nanu O
@@ -22463,7 +22461,7 @@ jëm O
 ci O
 jigéeni O
 waa O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Ci O
@@ -22592,15 +22590,15 @@ bi O
 fésal O
 na O
 ne O
-Zidane B-PER
+Zidane 
 mooy O
 kéemtaan O
 lu O
 mag O
 li O
 nekk O
-Real B-ORG
-Madrid I-ORG
+Real 
+Madrid 
 , O
 te O
 jaar O
@@ -22668,21 +22666,21 @@ kanam O
 . O
 " O
 
-Paab B-PER
-Maalig I-PER
-Si I-PER
+Paab 
+Maalig 
+Si 
 , O
 jàpp O
 na O
 ne O
-Aali B-PER
-Nguy I-PER
-Njaay I-PER
+Aali 
+Nguy 
+Njaay 
 a O
 waroon O
 a O
 waxtaane O
-Gàmmu B-DATE
+Gàmmu 
 gi O
 , O
 ndax O
@@ -22989,7 +22987,7 @@ dëkk O
 yi O
 bokkul O
 ak O
-Ndakaaru B-LOC
+Ndakaaru 
 . O
 
 Nekkul O
@@ -22997,7 +22995,7 @@ ne O
 dara O
 taxul O
 ba O
-PASTEF B-ORG
+PASTEF 
 mi O
 doon O
 génn O
@@ -23029,7 +23027,7 @@ ngi O
 ame O
 ci O
 goxu O
-Jaalo B-LOC
+Jaalo 
 , O
 ci O
 lu O
@@ -23055,7 +23053,7 @@ aji O
 feebar O
 ci O
 dëkkandoob O
-Almaañ B-LOC
+Almaañ 
 bi O
 , O
 ba O
@@ -23076,7 +23074,7 @@ yi O
 ci O
 booloog O
 réewi O
-Europe B-LOC
+Europe 
 yi O
 , O
 loolu O
@@ -23149,8 +23147,8 @@ xam O
 xam O
 , O
 la O
-Ibraayima B-PER
-Ñaan I-PER
+Ibraayima 
+Ñaan 
 dëggal O
 , O
 kenn O
@@ -23198,7 +23196,7 @@ dayo O
 . O
 
 Ca O
-Farãas B-LOC
+Farãas 
 , O
 aw O
 yoon O
@@ -23227,7 +23225,7 @@ gannaaw O
 fani O
 waxtaan O
 ca O
-Senat B-ORG
+Senat 
 ba O
 . O
 
@@ -23347,7 +23345,7 @@ Daf O
 maa O
 niru O
 ne O
-Sónko B-PER
+Sónko 
 xamatul O
 fi O
 muy O
@@ -23355,14 +23353,14 @@ teg O
 tànkam O
 . O
 
-ASCM B-ORG
+ASCM 
 , O
 moomeelu O
 kenn O
 ci O
-Silmani B-PER
+Silmani 
 ak O
-Fabregas B-PER
+Fabregas 
 , O
 mujjeewul O
 a O
@@ -23380,7 +23378,7 @@ Li O
 ci O
 topp O
 , O
-Comte B-PER
+Comte 
 jàpp O
 na O
 ne O
@@ -23435,7 +23433,7 @@ cig O
 màggataayam O
 . O
 
-Mawdo B-PER
+Mawdo 
 , O
 ni O
 ko O
@@ -23537,11 +23535,11 @@ leeral O
 ne O
 lëlu O
 waxtaanu O
-Sutsas B-ORG
+Sutsas 
 bi O
 ci O
 saytug O
-Unsas B-ORG
+Unsas 
 la O
 ame O
 , O
@@ -23551,17 +23549,17 @@ ci O
 yéglekaay O
 bi O
 , O
-L'As B-ORG
+L'As 
 . O
 
-Àllarba B-DATE
+Àllarba 
 ci O
 joŋante O
 dem O
 bi O
 , O
-Lionel B-PER
-Messi I-PER
+Lionel 
+Messi 
 génne O
 na O
 àndandoom O
@@ -23667,8 +23665,8 @@ la O
 kilifa O
 
 gi O
-Jéen B-PER
-Ngom I-PER
+Jéen 
+Ngom 
 xamle O
 , O
 moom O
@@ -23684,7 +23682,7 @@ yi O
 , O
 ci O
 rajo O
-Rfm B-ORG
+Rfm 
 . O
 
 Ndimbal O
@@ -23752,14 +23750,14 @@ mën O
 a O
 teewal O
 déndu O
-Afirig B-LOC
+Afirig 
 ci O
 joŋanteb O
 àdduna O
 bii O
 di O
 ñëw O
-FIFA B-ORG
+FIFA 
 ak O
 xale O
 yi O
@@ -23778,22 +23776,22 @@ a O
 ame O
 ca O
 réewum O
-Brésil B-LOC
+Brésil 
 jàpp O
-juróomi B-DATE
-fan I-DATE
-ba I-DATE
-ñaar I-DATE
-- I-DATE
-fukk I-DATE
-ak I-DATE
-juróom I-DATE
-- I-DATE
-ñaari I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-nowàmbar I-DATE
+juróomi 
+fan 
+ba 
+ñaar 
+- 
+fukk 
+ak 
+juróom 
+- 
+ñaari 
+fan 
+ci 
+weeru 
+nowàmbar 
 . O
 
 Dinañu O
@@ -23849,8 +23847,8 @@ mbënd O
 mi O
 ? O
 
-Aamadu B-PER
-Ba I-PER
+Aamadu 
+Ba 
 
 Ngir O
 yóbbu O
@@ -23928,7 +23926,7 @@ dañ O
 , O
 lu O
 dul O
-Sónko B-PER
+Sónko 
 dafa O
 doon O
 Njiit O
@@ -23949,7 +23947,7 @@ xaalis O
 ! O
 
 Ak O
-PASTEF B-ORG
+PASTEF 
 , O
 defee O
 neneen O
@@ -23971,16 +23969,16 @@ këru O
 liggéeyukaay O
 bi O
 , O
-AGETIP B-ORG
+AGETIP 
 , O
 Sëñ O
-Alaaji B-PER
-Maalig I-PER
-Gay I-PER
+Alaaji 
+Maalig 
+Gay 
 , O
 meeru O
 goxu O
-Ñàndaan B-LOC
+Ñàndaan 
 , O
 waaf O
 na O
@@ -24003,7 +24001,7 @@ taskatu O
 xibaar O
 bii O
 di O
-Leeral B-ORG
+Leeral 
 . O
 
 Woote O
@@ -24166,7 +24164,7 @@ njiitu O
 réew O
 ci O
 déndu O
-Afirig B-LOC
+Afirig 
 bi O
 , O
 mooy O
@@ -24189,7 +24187,7 @@ ci O
 benn O
 , O
 te O
-Messi B-PER
+Messi 
 moo O
 doon O
 , O
@@ -24272,7 +24270,7 @@ nañu O
 ko O
 ci O
 kasog O
-Rëbës B-LOC
+Rëbës 
 bi O
 . O
 
@@ -24432,7 +24430,7 @@ rafet O
 njiit O
 li O
 , O
-Sàll B-PER
+Sàll 
 xaarul O
 ngir O
 jox O
@@ -24524,7 +24522,7 @@ teguwul O
 ci O
 yoon O
 yi O
-Maki B-PER
+Maki 
 ame O
 . O
 
@@ -24532,7 +24530,7 @@ Ban O
 tànneef O
 , O
 ngir O
-Maki B-PER
+Maki 
 mu O
 jànnaxe O
 mi O
@@ -24586,17 +24584,17 @@ mu O
 amaloon O
 ak O
 tele O
-Itv B-ORG
+Itv 
 bi O
 . O
 
 Ci O
-atum B-DATE
-2015 I-DATE
+atum 
+2015 
 , O
 ci O
 wetu O
-Bild B-ORG
+Bild 
 : O
 donte O
 neex O
@@ -24611,7 +24609,7 @@ wala O
 ma O
 nekk O
 ndonol O
-Pep B-PER
+Pep 
 . O
 
 Lépp O
@@ -24642,7 +24640,7 @@ léegi O
 ci O
 xeli O
 waa O
-Senegaal B-LOC
+Senegaal 
 yi O
 . O
 
@@ -24664,11 +24662,11 @@ doxalinu O
 yoon O
 . O
 
-Macron B-PER
+Macron 
 bañ O
 na O
 nangul O
-Watara B-PER
+Watara 
 dëgër O
 boppam O
 gi O
@@ -24698,13 +24696,13 @@ wote O
 yi O
 ci O
 diggante O
-Beje B-PER
+Beje 
 ak O
-Sóróo B-PER
+Sóróo 
 . O
 
 Ak O
-Pastef B-ORG
+Pastef 
 , O
 mbind O
 yi O
@@ -24771,8 +24769,8 @@ Fàttalikuleen O
 téereb O
 nettali O
 bu O
-Rëne B-PER
-Marãa I-PER
+Rëne 
+Marãa 
 , O
 téereb O
 nettali O
@@ -24796,14 +24794,14 @@ ba O
 tay O
 , O
 bu O
-Albeer B-PER
-Kami I-PER
+Albeer 
+Kami 
 bi O
 , O
 ak O
 nit O
 ka O
-Meursault B-PER
+Meursault 
 ( O
 dee O
 moom O
@@ -24851,7 +24849,7 @@ teg O
 Ŋàññ O
 yi O
 askanu O
-Senegaal B-LOC
+Senegaal 
 di O
 def O
 gannaaw O
@@ -24942,23 +24940,23 @@ benneelu O
 simili O
 ba O
 , O
-waxtu B-DATE
-juróom I-DATE
-- I-DATE
-ñeent I-DATE
-- I-DATE
-fukk I-DATE
-yu I-DATE
-teg I-DATE
-ñaari I-DATE
-simili I-DATE
+waxtu 
+juróom 
+- 
+ñeent 
+- 
+fukk 
+yu 
+teg 
+ñaari 
+simili 
 ci O
 la O
 seen O
 waa O
 ji O
 , O
-Jaata B-PER
+Jaata 
 andeewaat O
 mbooloom O
 , O
@@ -24977,8 +24975,8 @@ mel O
 ne O
 mbër O
 mu O
-Yaawu B-PER
-jaal I-PER
+Yaawu 
+jaal 
 dóor O
 mu O
 daanu O
@@ -24992,12 +24990,12 @@ jànnaxe O
 , O
 di O
 sóoru O
-Bàlla B-PER
-Gay I-PER
-2 I-PER
+Bàlla 
+Gay 
+2 
 . O
 
-Pastef B-ORG
+Pastef 
 , O
 moo O
 ëpp O
@@ -25018,9 +25016,9 @@ yu O
 booloo O
 yi O
 ( O
-Etats B-LOC
-- I-LOC
-Unis I-LOC
+Etats 
+- 
+Unis 
 ) O
 , O
 kon O
@@ -25038,9 +25036,9 @@ juróom O
 - O
 ñeent O
 bu O
-12 B-DATE
-nowàmbar I-DATE
-1997 I-DATE
+12 
+nowàmbar 
+1997 
 ak O
 ñaari O
 junneek O
@@ -25055,8 +25053,8 @@ fukk O
 ak O
 ñett O
 bu O
-10 B-DATE
-sulet I-DATE
+10 
+sulet 
 ( O
 ba O
 tay O
@@ -25067,7 +25065,7 @@ ci O
 këru O
 liggéeyukaay O
 gi O
-SAIM B-ORG
+SAIM 
 , O
 Moom O
 - O
@@ -25085,13 +25083,13 @@ way O
 donn O
 yi O
 , O
-Ndóoy B-PER
+Ndóoy 
 ci O
-atum B-DATE
-1978 I-DATE
+atum 
+1978 
 ak O
-atum B-DATE
-1979 I-DATE
+atum 
+1979 
 ( O
 xoolal O
 toftal O
@@ -25102,7 +25100,7 @@ muy O
 dàkk O
 ) O
 
-Naples B-ORG
+Naples 
 a O
 ngi O
 wéyal O
@@ -25125,7 +25123,7 @@ mu O
 nekk O
 nii O
 , O
-Sónkoo B-PER
+Sónkoo 
 ngi O
 gën O
 di O
@@ -25133,7 +25131,7 @@ siiw O
 , O
 ba O
 ca O
-Asie B-LOC
+Asie 
 . O
 
 Bàyyileen O
@@ -25193,11 +25191,11 @@ mi O
 bokk O
 ko O
 ak O
-Cameroun B-LOC
+Cameroun 
 , O
-Sud B-LOC
-du I-LOC
-Soudan I-LOC
+Sud 
+du 
+Soudan 
 ak O
 ñaareel O
 bi O
@@ -25237,7 +25235,7 @@ jamono O
 jooju O
 , O
 waa O
-Senegaal B-LOC
+Senegaal 
 a O
 ngi O
 desoon O
@@ -25272,7 +25270,7 @@ bu O
 sell O
 bi O
 , O
-Tiwaawan B-LOC
+Tiwaawan 
 , O
 moo O
 mbëkkante O
@@ -25287,14 +25285,14 @@ bi O
 . O
 
 Soxna O
-Aana B-PER
-Dãafaa I-PER
+Aana 
+Dãafaa 
 la O
 nu O
 fal O
 doxalkatu O
-Mojip B-ORG
-Farãas B-LOC
+Mojip 
+Farãas 
 ci O
 penc O
 mi O
@@ -25327,7 +25325,7 @@ tey O
 woo O
 bépp O
 doomu O
-Senegaal B-LOC
+Senegaal 
 mu O
 jàppale O
 way O
@@ -25347,9 +25345,9 @@ mën O
 mënam O
 . O
 
-B B-PER
-. I-PER
-Juuf I-PER
+B 
+. 
+Juuf 
 wone O
 na O
 ne O
@@ -25377,14 +25375,14 @@ ndem O
 si O
 - O
 Yàlla O
-Mamadu B-PER
+Mamadu 
 , O
 doonoon O
 na O
 xaritu O
 Seex O
-Beeco B-PER
-Cuun I-PER
+Beeco 
+Cuun 
 mi O
 mu O
 bokkaloon O
@@ -25392,8 +25390,8 @@ dëkk O
 ak O
 liggéey O
 ci O
-jamonoy B-DATE
-60 I-DATE
+jamonoy 
+60 
 , O
 niki O
 ay O
@@ -25404,9 +25402,9 @@ dëkku O
 kaw O
 gi O
 , O
-Añag B-LOC
+Añag 
 ca O
-Kaasamaas B-LOC
+Kaasamaas 
 . O
 
 Naka O
@@ -25445,10 +25443,10 @@ yi O
 , O
 wala O
 mu O
-péncum B-ORG
-ndawi I-ORG
-réew I-ORG
-mi I-ORG
+péncum 
+ndawi 
+réew 
+mi 
 aar O
 , O
 ñoo O
@@ -25574,10 +25572,10 @@ Ford O
 Santafe O
 Sport O
 ( O
-2016 B-DATE
+2016 
 ) O
 laata O
-tabaski B-DATE
+tabaski 
 bi O
 , O
 moom O
@@ -25586,12 +25584,12 @@ na O
 , O
 ci O
 li O
-Le B-ORG
-Témoin I-ORG
+Le 
+Témoin 
 wax O
 , O
-Aminata B-PER
-Balde I-PER
+Aminata 
+Balde 
 mi O
 teewoon O
 ci O
@@ -25606,15 +25604,15 @@ këru O
 liggéeyukaay O
 gi O
 , O
-Unit B-ORG
-Transit I-ORG
+Unit 
+Transit 
 sise O
-Mole B-LOC
-II I-LOC
+Mole 
+II 
 bi O
 ci O
 pooru O
-Ndakaaru B-LOC
+Ndakaaru 
 bi O
 , O
 ngir O
@@ -25667,8 +25665,8 @@ moom O
 ndaw O
 si O
 : O
-Maymuna B-PER
-Dem I-PER
+Maymuna 
+Dem 
 : O
 wax O
 nu O
@@ -25739,10 +25737,10 @@ yére O
 
 Tàggatkatu O
 mbooloom O
-Liverpool B-ORG
+Liverpool 
 , O
-Jorgen B-PER
-Klopp I-PER
+Jorgen 
+Klopp 
 , O
 mën O
 naa O
@@ -25750,7 +25748,7 @@ bañ O
 a O
 sukkandiku O
 ci O
-Salah B-PER
+Salah 
 . O
 
 Waxtoom O
@@ -25783,7 +25781,7 @@ dëggal O
 
 Li O
 réewi O
-Afirig B-LOC
+Afirig 
 yi O
 noppeegul O
 a O
@@ -25814,7 +25812,7 @@ mës O
 nañoo O
 dund O
 ci O
-Senegaal B-LOC
+Senegaal 
 , O
 benn O
 yoon O
@@ -25960,8 +25958,8 @@ Sud O
 Africaine O
 bi O
 , O
-Elmarie B-PER
-Gerryts I-PER
+Elmarie 
+Gerryts 
 ci O
 àlluwa O
 ji O
@@ -26000,7 +25998,7 @@ dina O
 nekk O
 musiba O
 ci O
-Maki B-PER
+Maki 
 ak O
 nguuram O
 gi O
@@ -26063,25 +26061,25 @@ mucc O
 - O
 ayib O
 ! O
-Dakaar B-LOC
+Dakaar 
 , O
-fukki B-DATE
-fan I-DATE
-ak I-DATE
-ñett I-DATE
-ci I-DATE
-weeru I-DATE
-nowàmbar I-DATE
-2019 I-DATE
+fukki 
+fan 
+ak 
+ñett 
+ci 
+weeru 
+nowàmbar 
+2019 
 . O
 
 Xew O
 - O
 xewi O
-weeru B-DATE
-màrs I-DATE
-yi I-DATE
-weesu I-DATE
+weeru 
+màrs 
+yi 
+weesu 
 yóbbaale O
 nañu O
 turam O
@@ -26108,8 +26106,8 @@ ak O
 njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 . O
 
 Gëm O
@@ -26241,7 +26239,7 @@ fay O
 Saapoloñ O
 bile O
 di O
-Lewandowski B-PER
+Lewandowski 
 , O
 ci O
 juróom O
@@ -26286,17 +26284,17 @@ fippu O
 bi O
 amoon O
 ca O
-ñaar B-DATE
-- I-DATE
-fukki I-DATE
-fan I-DATE
-ak I-DATE
-ñett I-DATE
-ci I-DATE
-weeru I-DATE
-suyee I-DATE
-atum I-DATE
-2011 I-DATE
+ñaar 
+- 
+fukki 
+fan 
+ak 
+ñett 
+ci 
+weeru 
+suyee 
+atum 
+2011 
 . O
 
 Nguur O
@@ -26347,8 +26345,8 @@ Ndawu O
 réew O
 mile O
 di O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 , O
 dóor O
 na O
@@ -26449,9 +26447,9 @@ wa O
 way O
 - O
 bokk O
-SAID B-ORG
+SAID 
 ak O
-SUTT B-ORG
+SUTT 
 dañu O
 jël O
 dogal O
@@ -26585,7 +26583,7 @@ IDH O
 wi O
 mujj O
 te O
-PNUD B-ORG
+PNUD 
 xalaat O
 ko O
 ; O
@@ -26650,7 +26648,7 @@ réew O
 yi O
 di O
 dugal O
-Afirig B-LOC
+Afirig 
 ci O
 xaalis O
 ) O
@@ -26684,8 +26682,8 @@ mi O
 . O
 
 Ngir O
-SOFICO B-ORG
-SA I-ORG
+SOFICO 
+SA 
 ; O
 ñaareelu O
 dogal O
@@ -26693,8 +26691,8 @@ bi O
 joxe O
 ndigalu O
 jox O
-CFU B-ORG
-Sarl I-ORG
+CFU 
+Sarl 
 ñeen O
 - O
 fukk O
@@ -26721,7 +26719,7 @@ war O
 a O
 gërëm O
 Baay O
-Wàdd B-PER
+Wàdd 
 mi O
 tax O
 nit O
@@ -26837,7 +26835,7 @@ yelloo O
 Nañu O
 fàtteli O
 ne O
-Senegaal B-LOC
+Senegaal 
 dina O
 fay O
 , O
@@ -26867,8 +26865,8 @@ au O
 juróom O
 ci O
 seefaa O
-atum B-DATE
-2020 I-DATE
+atum 
+2020 
 , O
 ni O
 ko O
@@ -26876,14 +26874,14 @@ naalu O
 yoonu O
 xaalis O
 bu O
-2020 B-DATE
+2020 
 fésalee O
 . O
 
-Rafinha B-PER
+Rafinha 
 ak O
-Manuel B-PER
-Neuer I-PER
+Manuel 
+Neuer 
 duñu O
 ko O
 wéddi O
@@ -26893,7 +26891,7 @@ wéddi O
 daw O
 ak O
 duuti O
-Maane B-PER
+Maane 
 yi O
 gëlëmal O
 , O
@@ -26912,15 +26910,15 @@ futbal O
 bi O
 , O
 diggante O
-Bayern B-ORG
-Munich I-ORG
+Bayern 
+Munich 
 ak O
-Liverpool B-ORG
+Liverpool 
 , O
-weeru B-DATE
-awiril I-DATE
-wi I-DATE
-weesu I-DATE
+weeru 
+awiril 
+wi 
+weesu 
 , O
 ( O
 benn O
@@ -26929,7 +26927,7 @@ benn O
 ) O
 . O
 
-Senegaal B-LOC
+Senegaal 
 mënul O
 woon O
 a O
@@ -26951,10 +26949,10 @@ U O
 20 O
 ) O
 bu O
-FIFA B-ORG
+FIFA 
 , O
-Poloñ B-LOC
-2019 B-DATE
+Poloñ 
+2019 
 , O
 nu O
 gën O
@@ -26989,9 +26987,9 @@ gaañu O
 gaañu O
 lañu O
 yóbbu O
-lopitaal B-ORG
-bu I-ORG
-Binjoona I-ORG
+lopitaal 
+bu 
+Binjoona 
 . O
 
 Ci O
@@ -27008,14 +27006,14 @@ koy O
 ñaan O
 mu O
 sargal O
-Sëybatu B-PER
-Juuf I-PER
+Sëybatu 
+Juuf 
 , O
 jigéenu O
 alkaati O
 ju O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 ndax O
 yónnentam O
 yépp O
@@ -27023,13 +27021,13 @@ ya O
 mu O
 doxi O
 ca O
-Mbootaayu B-ORG
-xeet I-ORG
-ya I-ORG
+Mbootaayu 
+xeet 
+ya 
 . O
 
 Bi O
-Demburu B-PER
+Demburu 
 di O
 woo O
 pël O
@@ -27037,10 +27035,10 @@ pël O
 , O
 fekkoon O
 na O
-Sónko B-PER
+Sónko 
 woo O
 waa O
-Kaasamaas B-LOC
+Kaasamaas 
 ba O
 pare O
 . O
@@ -27079,23 +27077,23 @@ li O
 am O
 . O
 
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 moo O
 dugalaat O
 waaye O
 bitu O
 temboo O
 bu O
-Wilfried B-PER
-Zaha I-PER
+Wilfried 
+Zaha 
 moo O
 naroon O
 na O
 yàq O
 lépp O
 bu O
-Firmiñoo B-PER
+Firmiñoo 
 dugalul O
 woon O
 ñaareelu O
@@ -27121,8 +27119,8 @@ ak O
 jumtukaay O
 xarala O
 , O
-Emaniyel B-PER
-Joox I-PER
+Emaniyel 
+Joox 
 jàpp O
 na O
 ne O
@@ -27221,11 +27219,11 @@ ci O
 
 natti O
 ati O
-2019 B-DATE
+2019 
 , O
-2020 B-DATE
+2020 
 ak O
-2021 B-DATE
+2021 
 , O
 loolu O
 la O
@@ -27236,13 +27234,13 @@ gafag O
 réew O
 mi O
 , O
-Abdulaay B-PER
-Daawuda I-PER
-Jàllo I-PER
+Abdulaay 
+Daawuda 
+Jàllo 
 , O
 wax O
-àjjuma B-DATE
-bi I-DATE
+àjjuma 
+bi 
 muy O
 layal O
 naalu O
@@ -27250,7 +27248,7 @@ yoon O
 n° O
 07 O
 / O
-2021 B-DATE
+2021 
 bi O
 soppi O
 yoon O
@@ -27259,9 +27257,9 @@ n° O
 - O
 52 O
 bu O
-10 B-DATE
-sulet I-DATE
-1981 I-DATE
+10 
+sulet 
+1981 
 te O
 aju O
 ci O
@@ -27292,18 +27290,18 @@ mi O
 ak O
 tàrde O
 ca O
-Oran B-LOC
+Oran 
 , O
 kilifay O
-Alseri B-LOC
+Alseri 
 , O
 ak O
-Kurélu B-ORG
-Afirig I-ORG
-gi I-ORG
-yore I-ORG
-mbirum I-ORG
-daw I-ORG
+Kurélu 
+Afirig 
+gi 
+yore 
+mbirum 
+daw 
 ( O
 tàggat O
 - O
@@ -27314,12 +27312,12 @@ fasoon O
 yéene O
 toxal O
 ca O
-Alsee B-LOC
+Alsee 
 , O
-ci B-DATE
-njeexitalu I-DATE
-weeru I-DATE
-suweŋ I-DATE
+ci 
+njeexitalu 
+weeru 
+suweŋ 
 . O
 
 Ndaxte O
@@ -27330,7 +27328,7 @@ muuraake O
 ngir O
 waa O
 kër O
-Sónko B-PER
+Sónko 
 yi O
 te O
 war O
@@ -27440,7 +27438,7 @@ mbas O
 dikkal O
 na O
 réewum O
-Siin B-LOC
+Siin 
 , O
 keroog O
 laa O
@@ -27465,7 +27463,7 @@ yi O
 , O
 ci O
 ndigalu O
-Ja B-PER
+Ja 
 , O
 ga O
 deppite O
@@ -27484,7 +27482,7 @@ bañoon O
 jàpp O
 leen O
 , O
-Seŋoor B-PER
+Seŋoor 
 mujj O
 joxe O
 ndigal O
@@ -27511,13 +27509,13 @@ baax O
 , O
 dinañu O
 samp O
-PASTEF B-ORG
+PASTEF 
 , O
 ci O
 dëkki O
-Seine B-LOC
-ak I-LOC
-Marne I-LOC
+Seine 
+ak 
+Marne 
 gi O
 nga O
 xam O
@@ -27530,21 +27528,21 @@ gën O
 a O
 yaatu O
 ci O
-Île B-LOC
-de I-LOC
-France I-LOC
+Île 
+de 
+France 
 . O
 
 Ci O
 yéenekaayu O
-Kritik B-ORG
+Kritik 
 bu O
-gaawu B-DATE
-25 I-DATE
-sulet I-DATE
+gaawu 
+25 
+sulet 
 , O
 Doktoor O
-Buso B-PER
+Buso 
 mu O
 ngi O
 ñuy O
@@ -27637,8 +27635,8 @@ Bu O
 jëlee O
 misaal O
 ci O
-Mbay B-PER
-Ñãa I-PER
+Mbay 
+Ñãa 
 mi O
 nga O
 xam O
@@ -27752,7 +27750,7 @@ la O
 ba O
 mu O
 des O
-Afirig B-LOC
+Afirig 
 . O
 
 Ci O
@@ -27760,23 +27758,23 @@ li O
 Njiitu O
 réew O
 mi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 wax O
 , O
 ropplaan O
 bi O
 dina O
 jóge O
-Tàmbaakundaa B-LOC
+Tàmbaakundaa 
 ci O
 ay O
-ñaar B-DATE
-- I-DATE
-fukki I-DATE
-waxtu I-DATE
-ak I-DATE
-ñaar I-DATE
+ñaar 
+- 
+fukki 
+waxtu 
+ak 
+ñaar 
 yooyu O
 . O
 
@@ -27813,10 +27811,10 @@ bi O
 
 Ni O
 ko O
-Libération B-ORG
+Libération 
 bindee O
 , O
-Interpol B-ORG
+Interpol 
 xam O
 na O
 ko O
@@ -27878,7 +27876,7 @@ tas O
 gi O
 ñu O
 tas O
-SENELEC B-ORG
+SENELEC 
 jamono O
 yii O
 . O
@@ -27892,9 +27890,9 @@ SOLDAAR O
 BI O
 , O
 TAXAWU O
-ABDU B-PER
-KARIIM I-PER
-GÉEY I-PER
+ABDU 
+KARIIM 
+GÉEY 
 MOOY O
 JÀPP O
 CI O
@@ -28030,7 +28028,7 @@ seen O
 . O
 
 Réewum O
-Farãas B-LOC
+Farãas 
 dafa O
 yég O
 ne O
@@ -28044,7 +28042,7 @@ ji O
 mu O
 amoon O
 ci O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Mëneesul O
@@ -28053,7 +28051,7 @@ a O
 a O
 tudd O
 réewum O
-Ërob B-LOC
+Ërob 
 mi O
 mujj O
 a O
@@ -28093,7 +28091,7 @@ peresidaŋ O
 su O
 mel O
 ni O
-Sónko B-PER
+Sónko 
 miy O
 mbokku O
 joolaam O
@@ -28120,7 +28118,7 @@ xalaatam O
 
 Soxna O
 si O
-Kan B-PER
+Kan 
 la O
 , O
 moom O
@@ -28230,7 +28228,7 @@ xarala O
 yi O
 , O
 njiitu O
-Pastef B-ORG
+Pastef 
 teewe O
 na O
 ndaje O
@@ -28242,7 +28240,7 @@ te O
 nekk O
 fii O
 ci O
-Dakaar B-LOC
+Dakaar 
 . O
 
 Doomu O
@@ -28266,7 +28264,7 @@ ay O
 jéyya O
 , O
 Réewum O
-Siin B-LOC
+Siin 
 ci O
 boppam O
 , O
@@ -28288,7 +28286,7 @@ koronaa O
 bi O
 . O
 
-Stv B-ORG
+Stv 
 , O
 ki O
 ñuy O
@@ -28364,17 +28362,17 @@ mu O
 dem O
 . O
 
-Gaawu B-DATE
-bile I-DATE
+Gaawu 
+bile 
 la O
 ñaari O
 ekibu O
-Àngalteer B-LOC
+Àngalteer 
 , O
-Chelsea B-ORG
+Chelsea 
 ak O
-Manchester B-ORG
-City I-ORG
+Manchester 
+City 
 di O
 laale O
 ngir O
@@ -28387,12 +28385,12 @@ sàmpiyoŋ O
 bi O
 . O
 
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 , O
 ( O
 ataakãa O
-Liverpool B-ORG
+Liverpool 
 bi O
 ) O
 : O
@@ -28410,9 +28408,9 @@ nit O
 ñu O
 beddi O
 ca O
-Palestin B-LOC
+Palestin 
 ak O
-Móritani B-LOC
+Móritani 
 . O
 
 Loolu O
@@ -28449,12 +28447,12 @@ def O
 Ci O
 noonu O
 , O
-Mbaalo B-PER
-Ja I-PER
-Caam I-PER
+Mbaalo 
+Ja 
+Caam 
 dina O
 jiite O
-SUTSAS B-ORG
+SUTSAS 
 ci O
 diiru O
 ñetti O
@@ -28463,7 +28461,7 @@ at O
 
 Naka O
 la O
-SONES B-ORG
+SONES 
 mi O
 nga O
 xam O
@@ -28506,7 +28504,7 @@ dee O
 sàmpiyoŋ O
 bi O
 , O
-Liverpool B-ORG
+Liverpool 
 moo O
 doon O
 dalal O
@@ -28514,9 +28512,9 @@ ci O
 màkkaanam O
 bile O
 di O
-Anfield B-LOC
+Anfield 
 ekibu O
-Barcelone B-ORG
+Barcelone 
 mi O
 jëloon O
 ndam O
@@ -28553,8 +28551,8 @@ loxol O
 saasenegaal O
 bile O
 di O
-Mamadu B-PER
-Mbay I-PER
+Mamadu 
+Mbay 
 , O
 jur O
 na O
@@ -28572,8 +28570,8 @@ tiitaroo O
 Ku O
 xool O
 Meetar O
-Elaas B-PER
-Juuf I-PER
+Elaas 
+Juuf 
 rekk O
 , O
 dinga O
@@ -28591,7 +28589,7 @@ mu O
 defoon O
 te O
 yoonu O
-Farãas B-LOC
+Farãas 
 tegoon O
 ko O
 ci O
@@ -28691,11 +28689,11 @@ di O
 làkk O
 àngale O
 di O
-Niseriyaa B-LOC
+Niseriyaa 
 , O
-Ganaa B-LOC
+Ganaa 
 ak O
-Gàmbi B-LOC
+Gàmbi 
 dañuy O
 des O
 ak O
@@ -28720,13 +28718,13 @@ a O
 dugg O
 ci O
 xaalisu O
-Afirig B-LOC
+Afirig 
 bu O
 bees O
 bi O
 . O
 
-Ndate B-PER
+Ndate 
 mu O
 sell O
 mi O
@@ -28738,7 +28736,7 @@ bu O
 rëy O
 ne O
 na O
-Xànju B-PER
+Xànju 
 mi O
 ñàkk O
 kilifa O
@@ -28804,7 +28802,7 @@ jàmm O
 jeek O
 yoon O
 ci O
-Senegaal B-LOC
+Senegaal 
 dinañu O
 génne O
 ci O
@@ -28840,7 +28838,7 @@ te O
 ñu O
 jagleel O
 ko O
-SONACOS B-ORG
+SONACOS 
 . O
 
 Nee O
@@ -28866,9 +28864,9 @@ dugal O
 xaalis O
 gi O
 ci O
-Afirig B-LOC
-Sowu I-LOC
-Jant I-LOC
+Afirig 
+Sowu 
+Jant 
 , O
 ci O
 ni O
@@ -28904,9 +28902,9 @@ benn O
 teggin O
 . O
 
-Aana B-PER
-Dãfaa I-PER
-Jémme I-PER
+Aana 
+Dãfaa 
+Jémme 
 : O
 Maa O
 ngi O
@@ -28930,10 +28928,10 @@ paj O
 . O
 
 Xaaju O
-guddig B-DATE
-talaata I-DATE
-jàpp I-DATE
-àllarba I-DATE
+guddig 
+talaata 
+jàpp 
+àllarba 
 la O
 ñaari O
 saay O
@@ -28974,8 +28972,8 @@ wax O
 jëwriñ O
 jile O
 di O
-Sakariyaa B-PER
-Jaw I-PER
+Sakariyaa 
+Jaw 
 digoon O
 na O
 leen O
@@ -28990,9 +28988,9 @@ dàlli O
 xëddeen O
 . O
 
-Aali B-PER
-Nguy I-PER
-Njaay I-PER
+Aali 
+Nguy 
+Njaay 
 biral O
 na O
 ne O
@@ -29014,10 +29012,10 @@ amal O
 li O
 ko O
 dalee O
-at B-DATE
-mii I-DATE
-di I-DATE
-ñëw I-DATE
+at 
+mii 
+di 
+ñëw 
 , O
 dina O
 tax O
@@ -29035,11 +29033,11 @@ bi O
 arbiit O
 bi O
 bañal O
-Jaraaf B-ORG
+Jaraaf 
 , O
 bu O
 doon O
-Kamërun B-LOC
+Kamërun 
 dinañu O
 ko O
 nangu O
@@ -29078,11 +29076,11 @@ Teewalkati O
 àllaterete O
 yi O
 , O
-Jibi B-PER
-Sow I-PER
+Jibi 
+Sow 
 mi O
 teewal O
-SAMES B-ORG
+SAMES 
 , O
 ki O
 teewal O
@@ -29101,7 +29099,7 @@ nañu O
 saytuyin O
 wi O
 Doktoor O
-Sekk B-PER
+Sekk 
 tàmbali O
 te O
 mu O
@@ -29109,9 +29107,9 @@ bokk O
 ci O
 li O
 tax O
-Lopitaal B-ORG
-Abaas I-ORG
-Ndaw I-ORG
+Lopitaal 
+Abaas 
+Ndaw 
 nekk O
 tey O
 lopitaal O
@@ -29166,7 +29164,7 @@ mbiru O
 róboo O
 ) O
 ca O
-Dubaay B-LOC
+Dubaay 
 , O
 nga O
 xam O
@@ -29177,7 +29175,7 @@ bi O
 moo O
 fa O
 teewaloon O
-Senegaal B-LOC
+Senegaal 
 gépp O
 . O
 
@@ -29244,7 +29242,7 @@ wote O
 yi O
 . O
 
-Grenade B-ORG
+Grenade 
 jiituwaat O
 na O
 ci O
@@ -29259,7 +29257,7 @@ li O
 ci O
 joŋanteem O
 ak O
-Betis B-ORG
+Betis 
 . O
 
 Ab O
@@ -29287,10 +29285,10 @@ ci O
 joŋanteb O
 futbal O
 bu O
-Afirig B-LOC
+Afirig 
 , O
-atum B-DATE
-2019 I-DATE
+atum 
+2019 
 , O
 xam O
 nañu O
@@ -29318,11 +29316,11 @@ ko O
 ñun O
 ànduñu O
 ak O
-SUEZ B-ORG
+SUEZ 
 , O
 ànduñu O
 ak O
-SDE B-ORG
+SDE 
 , O
 ak O
 ku O
@@ -29330,11 +29328,11 @@ fiy O
 mën O
 a O
 nekk O
-benn B-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-sãawiyee I-DATE
+benn 
+fan 
+ci 
+weeru 
+sãawiyee 
 , O
 ñun O
 li O
@@ -29389,16 +29387,16 @@ simili O
 ak O
 juróom O
 la O
-J B-PER
-. I-PER
-Reine I-PER
-Adelaïde I-PER
+J 
+. 
+Reine 
+Adelaïde 
 dugal O
 bit O
 bi O
 yóbbu O
 waa O
-Lyon B-ORG
+Lyon 
 ci O
 kanam O
 . O
@@ -29417,15 +29415,15 @@ mën O
 mën O
 . O
 
-Cees B-LOC
+Cees 
 dina O
 wéy O
 di O
 des O
 ci O
 yoxoy O
-Idy B-ORG
-forever I-ORG
+Idy 
+forever 
 ! O
 
 Li O
@@ -29441,10 +29439,10 @@ ba O
 xam O
 njëgu O
 ropplaanu O
-Wàdd B-PER
+Wàdd 
 te O
 lu O
-Maki B-PER
+Maki 
 mënuñu O
 koo O
 xam O
@@ -29466,7 +29464,7 @@ rekk O
 a O
 tax O
 askanu O
-Senegaal B-LOC
+Senegaal 
 gisul O
 boppam O
 ci O
@@ -29561,11 +29559,11 @@ Ci O
 ay O
 xibaar O
 yu O
-Afrique B-ORG
-Confidentielle I-ORG
+Afrique 
+Confidentielle 
 yore O
 , O
-FSD B-ORG
+FSD 
 jot O
 naa O
 dugal O
@@ -29632,9 +29630,9 @@ génne O
 ci O
 ndóol O
 : O
-Corée B-LOC
-du I-LOC
-Sud I-LOC
+Corée 
+du 
+Sud 
 . O
 
 Léeg O
@@ -29766,14 +29764,14 @@ réew O
 wi O
 , O
 réewum O
-Farãas B-LOC
+Farãas 
 moo O
 jiitu O
 ci O
 réew O
 yiy O
 ñëw O
-Senegaal B-LOC
+Senegaal 
 di O
 fi O
 andi O
@@ -29839,16 +29837,16 @@ ni O
 ko O
 jàngu O
 bu O
-Congo B-LOC
+Congo 
 , O
 bu O
-Afrique B-LOC
-du I-LOC
-Sud I-LOC
+Afrique 
+du 
+Sud 
 ak O
 bu O
-Centre B-LOC
-Afrique I-LOC
+Centre 
+Afrique 
 di O
 defee O
 , O
@@ -29860,34 +29858,34 @@ tamit O
 ne O
 , O
 bu O
-Abdulaay B-PER
-Wàdd I-PER
+Abdulaay 
+Wàdd 
 di O
 jot O
 ci O
 nguur O
 gi O
-atum B-DATE
-2000 I-DATE
+atum 
+2000 
 , O
 dafa O
 fekk O
 ne O
-Mawdo B-PER
-Mamadu I-PER
-Ja I-PER
+Mawdo 
+Mamadu 
+Ja 
 , O
-Abdulaay B-PER
-Bàccili I-PER
+Abdulaay 
+Bàccili 
 , O
-Ammat B-PER
-Dãasoxo I-PER
+Ammat 
+Dãasoxo 
 , O
-Mustafaa B-PER
-Ñas I-PER
+Mustafaa 
+Ñas 
 , O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 ak O
 yeneeni O
 doomi O
@@ -29962,7 +29960,7 @@ mu O
 ci O
 digganteem O
 ak O
-Kamërun B-LOC
+Kamërun 
 . O
 
 Ñu O
@@ -30020,8 +30018,8 @@ Mu O
 ngi O
 jotale O
 njaalam O
-Gurub B-ORG
-Leeral I-ORG
+Gurub 
+Leeral 
 ci O
 tiis O
 bi O
@@ -30131,7 +30129,7 @@ poos O
 kese O
 . O
 
-Farãas B-LOC
+Farãas 
 dafa O
 yég O
 ne O
@@ -30145,12 +30143,12 @@ ji O
 mu O
 amoon O
 ci O
-Senegaal B-LOC
+Senegaal 
 . O
 
-Atum B-DATE
-mee I-DATE
-2018 I-DATE
+Atum 
+mee 
+2018 
 la O
 dem O
 ndaxte O
@@ -30216,8 +30214,8 @@ górnóor O
 bu O
 jëkk O
 ba O
-Léwópól B-PER
-Wàdd I-PER
+Léwópól 
+Wàdd 
 gisee O
 , O
 waxtaan O
@@ -30250,8 +30248,8 @@ a O
 ngi O
 nii O
 , O
-Alasaan B-PER
-Watara I-PER
+Alasaan 
+Watara 
 mu O
 ngi O
 wut O
@@ -30260,8 +30258,8 @@ gu O
 sax O
 dàkk O
 ci O
-Emmanuel B-PER
-Macron I-PER
+Emmanuel 
+Macron 
 , O
 ndax O
 moom O
@@ -30280,7 +30278,7 @@ sàmm O
 lépp O
 lu O
 fa O
-Farãas B-LOC
+Farãas 
 mën O
 a O
 jële O
@@ -30324,11 +30322,11 @@ yi O
 bi O
 ñuy O
 dugg O
-Misira B-LOC
+Misira 
 ( O
 diggante O
 mook O
-Tàmbaakundaa B-LOC
+Tàmbaakundaa 
 am O
 na O
 fanweeri O
@@ -30338,8 +30336,8 @@ RN7 O
 ) O
 lañu O
 gis O
-Daam B-PER
-Si I-PER
+Daam 
+Si 
 , O
 borom O
 móto O
@@ -30354,11 +30352,11 @@ mujjantal O
 ga O
 saatinisi O
 bu O
-Monastiir B-ORG
+Monastiir 
 , O
-Makrem B-PER
-Ben I-PER
-Romdhane I-PER
+Makrem 
+Ben 
+Romdhane 
 bile O
 jël O
 na O
@@ -30409,8 +30407,8 @@ anam O
 lañu O
 bind O
 tëralinu O
-JOT B-ORG
-NA I-ORG
+JOT 
+NA 
 . O
 
 Gëm O
@@ -30446,7 +30444,7 @@ xalaat O
 dañu O
 won O
 waa O
-Senegaal B-LOC
+Senegaal 
 yi O
 ne O
 pólótig O
@@ -30719,16 +30717,16 @@ diis O
 yi O
 . O
 
-Francfort B-ORG
+Francfort 
 moo O
 daan O
-Bayern B-ORG
+Bayern 
 . O
 
 Kurél O
 giy O
 xeexal O
-Bàmbiloor B-LOC
+Bàmbiloor 
 tey O
 mettitlu O
 naqaram O
@@ -30808,11 +30806,11 @@ wala O
 fitna O
 . O
 
-Sàll B-PER
+Sàll 
 miy O
 xoole O
 Meetar O
-Wàdd B-PER
+Wàdd 
 gëti O
 gu O
 ñu O
@@ -30823,7 +30821,7 @@ dëñul O
 ci O
 wax O
 ne O
-Wàdd B-PER
+Wàdd 
 moomu O
 , O
 warul O
@@ -30842,7 +30840,7 @@ màndaa O
 Dafa O
 mel O
 ni O
-Pastef B-ORG
+Pastef 
 dafa O
 ko O
 bàyyi O
@@ -30865,15 +30863,15 @@ Ci O
 jamono O
 yii O
 , O
-Mamadu B-PER
-Alfaa I-PER
-Jàllo I-PER
+Mamadu 
+Alfaa 
+Jàllo 
 , O
 njiitu O
-Nahju B-ORG
-Agro I-ORG
-- I-ORG
-industrie I-ORG
+Nahju 
+Agro 
+- 
+industrie 
 , O
 ŋàññi O
 na O
@@ -30930,7 +30928,7 @@ Së O
 olempig O
 ) O
 bu O
-Tókiyoo B-LOC
+Tókiyoo 
 , O
 koronaa O
 bi O
@@ -30940,7 +30938,7 @@ na O
 dàq O
 ko O
 ba O
-2021 B-DATE
+2021 
 . O
 
 Ci O
@@ -30948,7 +30946,7 @@ noonu O
 la O
 fàtteli O
 ne O
-Senegaal B-LOC
+Senegaal 
 , O
 ci O
 at O
@@ -30969,9 +30967,9 @@ diineey O
 lislaam O
 . O
 
-Mãasuur B-PER
-Samsdin I-PER
-Mbów I-PER
+Mãasuur 
+Samsdin 
+Mbów 
 , O
 Porofesëeru O
 Leetar O
@@ -31052,21 +31050,21 @@ yi O
 
 Ay O
 tiraayëeri O
-Senegaal B-LOC
+Senegaal 
 ci O
-Caaroy B-LOC
+Caaroy 
 , O
 ci O
 sëg O
 yi O
 ! O
-Tey B-DATE
-, I-DATE
-ñaari I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-desàmbar I-DATE
+Tey 
+, 
+ñaari 
+fan 
+ci 
+weeru 
+desàmbar 
 . O
 
 Xël O
@@ -31119,14 +31117,14 @@ léegi O
 ngi O
 xaar O
 kalaameb O
-Maamur B-PER
-Jàllo I-PER
+Maamur 
+Jàllo 
 ndax O
 loolu O
 dina O
 tax O
 waa O
-Senegaal B-LOC
+Senegaal 
 yi O
 xam O
 bu O
@@ -31136,13 +31134,13 @@ baax O
 jiite O
 . O
 
-Musaa B-PER
+Musaa 
 ak O
-Ibraayima B-PER
-Ba I-PER
+Ibraayima 
+Ba 
 , O
 cosaanoo O
-Welingara B-LOC
+Welingara 
 dañu O
 fàqee O
 woon O
@@ -31151,7 +31149,7 @@ seen O
 daara O
 ja O
 nekk O
-Kawlag B-LOC
+Kawlag 
 ngir O
 ñibbi O
 seen O
@@ -31159,15 +31157,15 @@ kër O
 . O
 
 Kilifag O
-Senegaal B-LOC
+Senegaal 
 bile O
 di O
-Amadu B-PER
-Galo I-PER
-Faal I-PER
+Amadu 
+Galo 
+Faal 
 , O
 njiitu O
-BAL B-ORG
+BAL 
 , O
 moo O
 jox O
@@ -31202,8 +31200,8 @@ mu O
 am O
 yépp O
 ci O
-at B-DATE
-mi I-DATE
+at 
+mi 
 , O
 moom O
 kese O
@@ -31246,7 +31244,7 @@ li O
 ñuy O
 jariñal O
 ci O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Ki O
@@ -31312,7 +31310,7 @@ bi O
 bokk O
 . O
 
-Senegaal B-LOC
+Senegaal 
 def O
 na O
 li O
@@ -31322,7 +31320,7 @@ mu O
 dajee O
 ak O
 ekibu O
-Keeñaa B-LOC
+Keeñaa 
 , O
 bu O
 àndoon O
@@ -31347,15 +31345,15 @@ gën O
 , O
 ginnaaw O
 bu O
-Marog B-LOC
+Marog 
 daane O
-Afirig B-LOC
-di I-LOC
-Sidd I-LOC
+Afirig 
+di 
+Sidd 
 ( O
-Afrique B-LOC
-du I-LOC
-Sud I-LOC
+Afrique 
+du 
+Sud 
 ) O
 benn O
 bit O
@@ -31367,8 +31365,8 @@ Luy O
 dakkal O
 mbirum O
 turu O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 / O
 Peresidãa O
 ci O
@@ -31384,8 +31382,8 @@ lañu O
 dégge O
 ci O
 rajo O
-Sud B-ORG
-Fm I-ORG
+Sud 
+Fm 
 . O
 
 Dañu O
@@ -31401,8 +31399,8 @@ simili O
 bi O
 , O
 waaye O
-Mbay B-PER
-Ñaŋ I-PER
+Mbay 
+Ñaŋ 
 ak O
 i O
 ñoñam O
@@ -31535,7 +31533,7 @@ Këru O
 xayma O
 gii O
 di O
-ANSD B-ORG
+ANSD 
 def O
 ci O
 weer O
@@ -31546,7 +31544,7 @@ na O
 ne O
 li O
 réewum O
-Siin B-LOC
+Siin 
 di O
 dugal O
 ci O
@@ -31559,7 +31557,7 @@ moo O
 fuuf O
 li O
 réewum O
-Farãas B-LOC
+Farãas 
 di O
 dugal O
 ndax O
@@ -31576,7 +31574,7 @@ fukk O
 ak O
 juróom O
 , O
-Siin B-LOC
+Siin 
 a O
 
 ngi O
@@ -31601,7 +31599,7 @@ jël O
 % O
 ) O
 te O
-Farãas B-LOC
+Farãas 
 moom O
 di O
 dugal O
@@ -31639,8 +31637,8 @@ dellu O
 ci O
 lekool O
 yi O
-weeru B-DATE
-septàmbar I-DATE
+weeru 
+septàmbar 
 , O
 mën O
 a O
@@ -31679,7 +31677,7 @@ bi O
 dafa O
 gëm O
 ni O
-Siin B-LOC
+Siin 
 moo O
 war O
 a O
@@ -31697,9 +31695,9 @@ ci O
 diggante O
 bi O
 , O
-Àngalteer B-LOC
+Àngalteer 
 ak O
-Sàppoŋ B-LOC
+Sàppoŋ 
 raw O
 ko O
 . O
@@ -31768,7 +31766,7 @@ dem O
 seeti O
 
 Doktoor O
-Nelson B-PER
+Nelson 
 . O
 
 Ñaari O
@@ -31794,10 +31792,10 @@ simili O
 ) O
 jaaxaluñu O
 góolu O
-Dijon B-ORG
+Dijon 
 bi O
-Alferet B-PER
-Gómis I-PER
+Alferet 
+Gómis 
 . O
 
 Wooteel O
@@ -31824,14 +31822,14 @@ nag O
 , O
 ñu O
 di O
-Daam B-PER
-Si I-PER
+Daam 
+Si 
 , O
-Seex B-PER
-Njaay I-PER
+Seex 
+Njaay 
 ak O
-Abdu B-PER
-Fay I-PER
+Abdu 
+Fay 
 , O
 ñu O
 nga O
@@ -31844,15 +31842,15 @@ takk O
 der O
 yi O
 , O
-Màkkaanu B-ORG
-takk I-ORG
-- I-ORG
-der I-ORG
-yi I-ORG
+Màkkaanu 
+takk 
+- 
+der 
+yi 
 ( O
-Section B-ORG
-de I-ORG
-Recherches I-ORG
+Section 
+de 
+Recherches 
 ) O
 , O
 ñu O
@@ -31931,12 +31929,12 @@ loolee O
 . O
 
 Mook O
-Sàngalkaam B-LOC
+Sàngalkaam 
 ñoo O
 bokk O
 benn O
 dekere O
-2011 B-DATE
+2011 
 bi O
 rëddaatoon O
 gox O
@@ -31965,13 +31963,13 @@ moo O
 am O
 ak O
 waa O
-Naples B-ORG
+Naples 
 yi O
 waa O
 yi O
 wékku O
 ci O
-Spal B-ORG
+Spal 
 . O
 
 Dinañu O
@@ -31979,13 +31977,13 @@ dem O
 ca O
 daloob O
 yoonu O
-Kafirin B-LOC
+Kafirin 
 - O
-Ngànda B-LOC
+Ngànda 
 ba O
 , O
 dem O
-Tàmbaa B-LOC
+Tàmbaa 
 , O
 bu O
 ñu O
@@ -31994,7 +31992,7 @@ paree O
 , O
 ñu O
 dem O
-Kéedugu B-LOC
+Kéedugu 
 , O
 foofee O
 , O
@@ -32004,9 +32002,9 @@ mi O
 dina O
 fa O
 daloo O
-lopitaal B-ORG
-Ammat I-ORG
-Dãasoxo I-ORG
+lopitaal 
+Ammat 
+Dãasoxo 
 . O
 
 Li O
@@ -32098,12 +32096,12 @@ etijaŋ O
 yi O
 , O
 Porofesëer O
-Baabakar B-PER
-Jóob I-PER
+Baabakar 
+Jóob 
 ak O
-Giy B-PER
-Maris I-PER
-Saaña I-PER
+Giy 
+Maris 
+Saaña 
 xeexu O
 ñépp O
 la O
@@ -32118,8 +32116,8 @@ laaj O
 Rom O
 - O
 poye O
-Liberte B-LOC
-Siis I-LOC
+Liberte 
+Siis 
 , O
 ci O
 wetu O
@@ -32141,11 +32139,11 @@ léegi O
 
 Fileek O
 digaaleb O
-Senac B-ORG
-SA I-ORG
+Senac 
+SA 
 ak O
 Nguuru O
-Senegaal B-LOC
+Senegaal 
 di O
 jeex O
 , O
@@ -32201,12 +32199,12 @@ ko O
 ca O
 morgu O
 bu O
-lopitaal B-ORG
-Maam I-ORG
-Abdu I-ORG
-Asiis I-ORG
-Si I-ORG
-Dabbax I-ORG
+lopitaal 
+Maam 
+Abdu 
+Asiis 
+Si 
+Dabbax 
 . O
 
 Daan O
@@ -32214,7 +32212,7 @@ bi O
 taxawaaluwul O
 sax O
 , O
-Kànte B-PER
+Kànte 
 dafa O
 warax O
 diggu O
@@ -32239,7 +32237,7 @@ génn O
 ginnaaw O
 bu O
 Meetar O
-Waar B-PER
+Waar 
 jéggaloo O
 . O
 
@@ -32252,7 +32250,7 @@ werante O
 looloo O
 tax O
 futbalkatu O
-Liverpool B-ORG
+Liverpool 
 bi O
 jël O
 dogalu O
@@ -32307,30 +32305,30 @@ baax O
 . O
 
 Ni O
-Giy B-PER
-Maris I-PER
-Saaña I-PER
+Giy 
+Maris 
+Saaña 
 waxee O
 la O
-Sónko B-PER
+Sónko 
 waxee O
 . O
 
-Paris B-ORG
+Paris 
 - O
-Manchester B-ORG
-United I-ORG
+Manchester 
+United 
 ( O
 benn O
 - O
 ñett O
 ) O
 , O
-Real B-ORG
-Madrid I-ORG
+Real 
+Madrid 
 - O
-Ajax B-ORG
-Amsterdam I-ORG
+Ajax 
+Amsterdam 
 ( O
 benn O
 - O
@@ -32339,10 +32337,10 @@ benn O
 , O
 mujjantalu O
 joŋanteb O
-Manchester B-ORG
-City I-ORG
+Manchester 
+City 
 - O
-Tottenham B-ORG
+Tottenham 
 ( O
 ñeent O
 - O
@@ -32353,7 +32351,7 @@ nañu O
 bitu O
 jàll O
 bu O
-City B-ORG
+City 
 bi O
 ñu O
 ko O
@@ -32377,9 +32375,9 @@ ak O
 bi O
 ) O
 , O
-Liverpool B-ORG
+Liverpool 
 - O
-Barcelone B-ORG
+Barcelone 
 ( O
 ñeent O
 - O
@@ -32389,9 +32387,9 @@ tus O
 léegi O
 nag O
 , O
-Ajax B-ORG
+Ajax 
 - O
-Tottenham B-ORG
+Tottenham 
 . O
 
 Dama O
@@ -32403,7 +32401,7 @@ ne O
 samag O
 ñëw O
 ci O
-Farãas B-LOC
+Farãas 
 dafa O
 biral O
 li O
@@ -32415,7 +32413,7 @@ nit O
 mën O
 na O
 dundu O
-Senegaal B-LOC
+Senegaal 
 ci O
 yeneen O
 anam O
@@ -32536,9 +32534,9 @@ ginnaaw O
 jàngat O
 jamono O
 ji O
-Aminata B-PER
-Asom I-PER
-Jaata I-PER
+Aminata 
+Asom 
+Jaata 
 faloo O
 , O
 ba O
@@ -32567,14 +32565,14 @@ pólotig O
 mi O
 . O
 
-Tinisi B-LOC
+Tinisi 
 mi O
 gënoon O
 a O
 xarañ O
 moo O
 mënoon O
-Madagaskaar B-LOC
+Madagaskaar 
 ( O
 ñett O
 - O
@@ -32582,7 +32580,7 @@ tus O
 ) O
 , O
 demug O
-Madagaskaar B-LOC
+Madagaskaar 
 moomu O
 ba O
 ci O
@@ -32617,15 +32615,15 @@ laata O
 xew O
 - O
 xewi O
-weeru B-DATE
-màrs I-DATE
-wi I-DATE
-weesu I-DATE
+weeru 
+màrs 
+wi 
+weesu 
 . O
 
 Laata O
-atum B-DATE
-2012 I-DATE
+atum 
+2012 
 , O
 ni O
 ko O
@@ -32638,7 +32636,7 @@ xamlee O
 ci O
 suuf O
 , O
-Senegaal B-LOC
+Senegaal 
 amoon O
 na O
 lu O
@@ -32671,14 +32669,14 @@ ba O
 tey O
 ci O
 li O
-Ndongo B-PER
-Sàmba I-PER
-Silla I-PER
+Ndongo 
+Sàmba 
+Silla 
 wax O
 , O
 su O
 réewi O
-Afirig B-LOC
+Afirig 
 yi O
 lajjee O
 ci O
@@ -32738,11 +32736,11 @@ bu O
 jëkk O
 bi O
 ( O
-Hongiri B-LOC
+Hongiri 
 , O
-Almaañ B-LOC
+Almaañ 
 , O
-Farãas B-LOC
+Farãas 
 ) O
 waruñu O
 ko O
@@ -32794,17 +32792,17 @@ gaañu O
 ci O
 lopitaal O
 bu O
-Tàmbaakundaa B-LOC
+Tàmbaakundaa 
 ak O
 seenug O
 andi O
 ci O
-Dakaar B-LOC
+Dakaar 
 . O
 
 Donte O
 sax O
-Fifa B-ORG
+Fifa 
 mu O
 ngi O
 ciy O
@@ -32816,11 +32814,11 @@ mën O
 naa O
 dikkaat O
 ci O
-Gianni B-PER
-Infantino I-PER
+Gianni 
+Infantino 
 , O
 njiitu O
-Fifa B-ORG
+Fifa 
 liy O
 soog O
 a O
@@ -32830,8 +32828,8 @@ falu O
 ci O
 ak O
 ndimbalu O
-Ahmat B-PER
-Ahmat I-PER
+Ahmat 
+Ahmat 
 dëgg O
 . O
 
@@ -32847,7 +32845,7 @@ juróom O
 at O
 , O
 futbalkatu O
-Metz B-ORG
+Metz 
 ba O
 woon O
 nekkatul O
@@ -32936,20 +32934,20 @@ ab O
 deppite O
 ca O
 ngomblaanu O
-Farãas B-LOC
+Farãas 
 ga O
 , O
 mujj O
 nekk O
-atum B-DATE
-1945 I-DATE
+atum 
+1945 
 , O
 sekerteer O
 detaa O
 ci O
 nguru O
-Edgar B-PER
-Faure I-PER
+Edgar 
+Faure 
 . O
 
 Li O
@@ -32969,13 +32967,13 @@ jege O
 . O
 
 Li O
-Pastef B-ORG
+Pastef 
 di O
 tekki O
 mooy O
 , O
 Doomi O
-Senegaal B-LOC
+Senegaal 
 ngir O
 Liggéey O
 , O
@@ -32995,8 +32993,8 @@ at O
 dootuñu O
 waxati O
 waxi O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 ak O
 ñi O
 mu O
@@ -33005,7 +33003,7 @@ andal O
 sàcc O
 milyaari O
 askanu O
-Senegaal B-LOC
+Senegaal 
 yi O
 rekk O
 . O
@@ -33051,7 +33049,7 @@ dafa O
 sax O
 ci O
 mbatiitu O
-Senegaal B-LOC
+Senegaal 
 . O
 . O
 . O
@@ -33073,14 +33071,14 @@ jokkoo O
 
 Anam O
 bu O
-Senegaal B-LOC
+Senegaal 
 gu O
 ñuy O
 xaar O
 dëgg O
 ca O
 joŋanteb O
-Afirig B-LOC
+Afirig 
 ba O
 war O
 a O
@@ -33094,15 +33092,15 @@ naal O
 yéen O
 ñi O
 nekkee O
-Nouvelle B-LOC
-- I-LOC
-Aquitaine I-LOC
+Nouvelle 
+- 
+Aquitaine 
 ak O
 kurélu O
-PASTEF B-ORG
+PASTEF 
 gi O
 nekk O
-Farãas B-LOC
+Farãas 
 . O
 
 Amoon O
@@ -33160,7 +33158,7 @@ lempo O
 yi O
 . O
 
-Guardiola B-PER
+Guardiola 
 moom O
 , O
 mu O
@@ -33189,9 +33187,9 @@ du O
 bare O
 njariñ O
 ! O
-Usmaan B-PER
-Abdulaay I-PER
-Baro I-PER
+Usmaan 
+Abdulaay 
+Baro 
 . O
 
 Fésal O
@@ -33245,9 +33243,9 @@ seen O
 kàddu O
 gi O
 , O
-Sãa B-PER
-Farãasuwaa I-PER
-Njaay I-PER
+Sãa 
+Farãasuwaa 
+Njaay 
 wax O
 ag O
 xol O
@@ -33322,8 +33320,8 @@ pataa O
 . O
 
 Ci O
-alxemes B-DATE
-bi I-DATE
+alxemes 
+bi 
 , O
 ay O
 kilifa O
@@ -33345,7 +33343,7 @@ tamit O
 njiitu O
 ngornmaŋ O
 bu O
-Senegaal B-LOC
+Senegaal 
 ci O
 ruq O
 . O
@@ -33448,7 +33446,7 @@ joŋanteb O
 futbal O
 bu O
 réewi O
-Afirig B-LOC
+Afirig 
 bi O
 weesu O
 , O
@@ -33456,7 +33454,7 @@ dellu O
 bokk O
 ci O
 ekibu O
-Liverpool B-ORG
+Liverpool 
 bi O
 jël O
 ndamal O
@@ -33480,7 +33478,7 @@ yàgg O
 ba O
 léegi O
 , O
-SENELEC B-ORG
+SENELEC 
 nekkatul O
 kiy O
 yore O
@@ -33494,22 +33492,22 @@ njoxeem O
 kuurãa O
 mi O
 ci O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Bi O
-Ndey B-PER
-Faatu I-PER
-Tunkara I-PER
+Ndey 
+Faatu 
+Tunkara 
 demee O
 ba O
 tey O
 , O
-Tekki B-ORG
+Tekki 
 bu O
-Mamadu B-PER
-Lamin I-PER
-Jàllo I-PER
+Mamadu 
+Lamin 
+Jàllo 
 amatul O
 benn O
 way O
@@ -33525,8 +33523,8 @@ te O
 moo O
 ci O
 tane O
-Abdul B-PER
-Mbay I-PER
+Abdul 
+Mbay 
 , O
 ku O
 ñeññi O
@@ -33554,18 +33552,18 @@ ci O
 amul O
 mbooloo O
 , O
-Mamadu B-PER
-Lamin I-PER
-Jàllo I-PER
+Mamadu 
+Lamin 
+Jàllo 
 amu O
 ko O
-Séeju B-LOC
+Séeju 
 , O
-Abdul B-PER
-Mbay I-PER
+Abdul 
+Mbay 
 amu O
 ko O
-Dakaar B-LOC
+Dakaar 
 , O
 demuñu O
 fenn O
@@ -33589,10 +33587,10 @@ yi O
 di O
 wax O
 - O
-Mamadu B-PER
-Jóob I-PER
-De I-PER
-Kurwaa I-PER
+Mamadu 
+Jóob 
+De 
+Kurwaa 
 , O
 mi O
 tekkiwul O
@@ -33628,8 +33626,8 @@ war O
 a O
 ray O
 - O
-Xalifa B-PER
-Sàll I-PER
+Xalifa 
+Sàll 
 moom O
 , O
 mooy O
@@ -33659,11 +33657,11 @@ def O
 na O
 ko O
 ak O
-Bàrtelemi B-PER
-Jaas I-PER
+Bàrtelemi 
+Jaas 
 - O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 , O
 doxkatu O
 guddi O
@@ -33722,7 +33720,7 @@ mu O
 nas O
 . O
 
-Iraŋ B-LOC
+Iraŋ 
 , O
 bu O
 àddina O
@@ -33792,7 +33790,7 @@ di O
 defee O
 . O
 
-SAPCO B-ORG
+SAPCO 
 lëndëm O
 . O
 
@@ -33822,7 +33820,7 @@ mu O
 lottee O
 lool O
 , O
-Bayern B-ORG
+Bayern 
 dafa O
 waroon O
 a O
@@ -33831,22 +33829,22 @@ defãas O
 bu O
 dëgër O
 ( O
-Pavard B-PER
+Pavard 
 ak O
-Hernandez B-PER
+Hernandez 
 ci O
 aks O
 bi O
 ) O
 
 Yéenekaayu O
-L'As B-ORG
+L'As 
 bi O
 rëccul O
 ci O
 merum O
 njiitu O
-Fsbb B-ORG
+Fsbb 
 li O
 ndaxte O
 dafa O
@@ -33862,14 +33860,14 @@ Bi O
 mu O
 séqee O
 ak O
-France B-ORG
-Football I-ORG
+France 
+Football 
 laaj O
 ak O
 tontu O
 , O
-Ahmat B-PER
-Ahmat I-PER
+Ahmat 
+Ahmat 
 nangu O
 na O
 ak O
@@ -33906,7 +33904,7 @@ yaa O
 ngi O
 xewe O
 ca O
-Anàmbe B-LOC
+Anàmbe 
 . O
 
 Ak O
@@ -33920,7 +33918,7 @@ kanam O
 ñépp O
 , O
 waa O
-Barcelone B-ORG
+Barcelone 
 ñoo O
 jiitoo O
 lu O
@@ -33982,10 +33980,10 @@ mettital O
 . O
 ) O
 
-Atum B-DATE
-1961 I-DATE
+Atum 
+1961 
 la O
-Ja B-PER
+Ja 
 tàmbali O
 woon O
 di O
@@ -34050,7 +34048,7 @@ matal O
 
 Yéen O
 mbokki O
-Afirig B-LOC
+Afirig 
 , O
 yéen O
 mbokki O
@@ -34068,7 +34066,7 @@ juróom O
 weer O
 tuuti O
 , O
-Senegaal B-LOC
+Senegaal 
 amaloon O
 na O
 ay O
@@ -34077,8 +34075,8 @@ yoo O
 xam O
 ne O
 , O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 moo O
 jëloon O
 ndam O
@@ -34091,14 +34089,14 @@ jële O
 ci O
 : O
 Yéenekaayu O
-Le B-ORG
-Monde I-ORG
+Le 
+Monde 
 " O
 Xaalis O
 bi O
-Afirig B-LOC
-sowu I-LOC
-jant I-LOC
+Afirig 
+sowu 
+jant 
 yépp O
 war O
 a O
@@ -34112,9 +34110,9 @@ gu O
 metti O
 " O
 ( O
-Ndongo B-PER
-Sàmba I-PER
-Silla I-PER
+Ndongo 
+Sàmba 
+Silla 
 moo O
 ko O
 wax O
@@ -34280,7 +34278,7 @@ gaaw O
 boobu O
 kilifay O
 yoonu O
-Senegaal B-LOC
+Senegaal 
 yi O
 def O
 , O
@@ -34298,7 +34296,7 @@ penaal O
 ) O
 , O
 gàntal O
-CNRA B-ORG
+CNRA 
 ak O
 téereb O
 yoon O
@@ -34357,7 +34355,7 @@ yu O
 ñu O
 taataanee O
 ci O
-L'As B-ORG
+L'As 
 , O
 waa O
 ji O
@@ -34441,8 +34439,8 @@ moroom O
 Loolu O
 moo O
 waral O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 ne O
 Farãa O
 Seefaa O
@@ -34462,10 +34460,10 @@ ne O
 , O
 ñun O
 waa O
-Afirig B-LOC
+Afirig 
 yi O
 réewum O
-Farãas B-LOC
+Farãas 
 nootoon O
 , O
 mënuñu O
@@ -34494,24 +34492,24 @@ mu O
 mu O
 amoon O
 ak O
-Alasaan B-PER
-Watara I-PER
+Alasaan 
+Watara 
 ca O
-Elysée B-LOC
+Elysée 
 , O
 pale O
 bu O
 réewu O
-Farãas B-LOC
-weeru B-DATE
-ut I-DATE
-, I-DATE
-atum I-DATE
-2017 I-DATE
+Farãas 
+weeru 
+ut 
+, 
+atum 
+2017 
 , O
 la O
 ko O
-Macron B-PER
+Macron 
 
 waxoon O
 mu O
@@ -34526,7 +34524,7 @@ jamono O
 . O
 
 Jageleel O
-Namibi B-LOC
+Namibi 
 juróom O
 - O
 benn O
@@ -34534,18 +34532,18 @@ ci O
 téeméer O
 boo O
 jël O
-atum B-DATE
-2004 I-DATE
+atum 
+2004 
 , O
 ci O
 li O
 xibaari O
-Bànku B-ORG
-àddina I-ORG
-si I-ORG
+Bànku 
+àddina 
+si 
 ( O
-Bànk B-ORG
-monjaal I-ORG
+Bànk 
+monjaal 
 ) O
 wone O
 . O
@@ -34558,16 +34556,16 @@ mu O
 dugal O
 ak O
 ekibu O
-Senegaal B-LOC
+Senegaal 
 ak O
 li O
 mu O
 dugal O
 ak O
-Liverpool B-ORG
+Liverpool 
 , O
 doomi O
-Bàmbaali B-LOC
+Bàmbaali 
 ji O
 am O
 fanweeri O
@@ -34587,8 +34585,8 @@ benn O
 . O
 
 Goney O
-El B-PER
-Cholo I-PER
+El 
+Cholo 
 yi O
 xaw O
 nañoo O
@@ -34614,7 +34612,7 @@ bu O
 ndeyu O
 àtte O
 réewu O
-Kótdiwaar B-LOC
+Kótdiwaar 
 biral O
 na O
 ne O
@@ -34717,7 +34715,7 @@ xamee O
 ne O
 làrme O
 bu O
-Farãas B-LOC
+Farãas 
 du O
 jëfandikoo O
 xeetu O
@@ -34742,8 +34740,8 @@ bi O
 yépp O
 . O
 
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 moo O
 mujj O
 nekk O
@@ -34753,7 +34751,7 @@ lu O
 metti O
 ci O
 defãasu O
-Beresil B-LOC
+Beresil 
 bi O
 . O
 
@@ -34772,7 +34770,7 @@ dee O
 , O
 tëj O
 buntu O
-Elysée B-LOC
+Elysée 
 ak O
 doole O
 , O
@@ -34780,7 +34778,7 @@ ci O
 ndimbalu O
 jabaram O
 , O
-Dominig B-PER
+Dominig 
 , O
 mi O
 nga O
@@ -34812,8 +34810,8 @@ réew O
 ma O
 woon O
 , O
-Wàdd B-PER
-Abdulaay I-PER
+Wàdd 
+Abdulaay 
 , O
 nga O
 xam O
@@ -34829,9 +34827,9 @@ dafa O
 dakkaloon O
 defarug O
 yoonu O
-Lingeer B-LOC
+Lingeer 
 - O
-Maatam B-LOC
+Maatam 
 wi O
 , O
 ànd O
@@ -34854,10 +34852,10 @@ loolu O
 Genn O
 ngoon O
 la O
-Muuma B-PER
+Muuma 
 dig O
 dajee O
-Paab B-PER
+Paab 
 ngir O
 delloo O
 ko O
@@ -34926,7 +34924,7 @@ fàtte O
 mukk O
 ci O
 taarixu O
-Zamaleg B-ORG
+Zamaleg 
 . O
 
 Neenal O
@@ -34996,14 +34994,14 @@ limat O
 - O
 40 O
 bu O
-juroom B-DATE
-- I-DATE
-ñeenti I-DATE
-fan I-DATE
-ci I-DATE
-weeru I-DATE
-sulet I-DATE
-1974 I-DATE
+juroom 
+- 
+ñeenti 
+fan 
+ci 
+weeru 
+sulet 
+1974 
 
 , O
 di O
@@ -35047,7 +35045,7 @@ bu O
 ( O
 monjaal O
 ) O
-2002 B-DATE
+2002 
 ba O
 , O
 dañu O
@@ -35055,9 +35053,9 @@ waroon O
 a O
 jàngi O
 bi O
-Senegaal B-LOC
+Senegaal 
 ak O
-Farãas B-LOC
+Farãas 
 di O
 futbal O
 . O
@@ -35085,7 +35083,7 @@ bi O
 Ci O
 li O
 Jaaykaatu O
-Amerig B-LOC
+Amerig 
 bi O
 wax O
 déy O
@@ -35101,7 +35099,7 @@ mënuñu O
 jënd O
 kérédi O
 telefonu O
-Orange B-ORG
+Orange 
 ci O
 jumtukaayu O
 xaralaam O
@@ -35181,7 +35179,7 @@ masin O
 yiy O
 jox O
 ndox O
-Kéedugu B-LOC
+Kéedugu 
 . O
 
 Ay O
@@ -35207,8 +35205,8 @@ naqar O
 ak O
 tiis O
 ca O
-lopitaalu B-ORG
-Tàmbaa I-ORG
+lopitaalu 
+Tàmbaa 
 ba O
 . O
 
@@ -35222,18 +35220,18 @@ xibaar O
 ci O
 li O
 réewum O
-Siin B-LOC
+Siin 
 bëgg O
 a O
 wuutu O
 mu O
-Farãas B-LOC
+Farãas 
 waaye O
 tamit O
 di O
 dëggal O
 li O
-Farãas B-LOC
+Farãas 
 bañ O
 a O
 def O
@@ -35248,8 +35246,8 @@ koom O
 koom O
 . O
 
-Noo B-ORG
-lànk I-ORG
+Noo 
+lànk 
 mu O
 ngi O
 dellu O
@@ -35295,19 +35293,19 @@ lim O
 ci O
 limi O
 nettalib O
-Les B-ORG
-Amis I-ORG
-de I-ORG
-la I-ORG
-Terre I-ORG
+Les 
+Amis 
+de 
+la 
+Terre 
 bi O
 : O
-diggante B-DATE
-1966 I-DATE
-ba I-DATE
-2007 I-DATE
+diggante 
+1966 
+ba 
+2007 
 , O
-Endonesi B-LOC
+Endonesi 
 ñàkk O
 na O
 juróom O
@@ -35368,12 +35366,12 @@ yu O
 yokku O
 , O
 ci O
-ñaar B-DATE
-- I-DATE
-fukki I-DATE
-at I-DATE
-yi I-DATE
-weesu I-DATE
+ñaar 
+- 
+fukki 
+at 
+yi 
+weesu 
 , O
 tolluwaayi O
 li O
@@ -35416,7 +35414,7 @@ jël O
 . O
 
 Léegi O
-Mesi B-PER
+Mesi 
 dugal O
 na O
 fanweeri O
@@ -35472,7 +35470,7 @@ lu O
 ñuy O
 topp O
 ci O
-Afirig B-LOC
+Afirig 
 . O
 
 Li O
@@ -35484,7 +35482,7 @@ mooy O
 bëgg O
 gu O
 njiitu O
-Soppi B-ORG
+Soppi 
 bëggoon O
 doomam O
 wuutu O
@@ -35517,7 +35515,7 @@ a O
 sooke O
 di O
 dóoranteek O
-Kariim B-PER
+Kariim 
 . O
 
 Ñetteel O
@@ -35530,8 +35528,8 @@ njiitu O
 réew O
 mi O
 , O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 di O
 wéyal O
 ci O
@@ -35542,26 +35540,26 @@ Ci O
 digg O
 bi O
 : O
-Idiriisa B-PER
-Ganna I-PER
-Géy I-PER
+Idiriisa 
+Ganna 
+Géy 
 , O
-Paab B-PER
-Aliwun I-PER
-Njaay I-PER
+Paab 
+Aliwun 
+Njaay 
 , O
-Seexu B-PER
-Kuyaate I-PER
+Seexu 
+Kuyaate 
 , O
-Mamadu B-PER
-Luum I-PER
-Njaay I-PER
+Mamadu 
+Luum 
+Njaay 
 , O
-Siidi B-PER
-Saar I-PER
+Siidi 
+Saar 
 , O
-Kerepeŋ B-PER
-Jaata I-PER
+Kerepeŋ 
+Jaata 
 . O
 
 Ginnaaw O
@@ -35581,12 +35579,12 @@ a O
 jël O
 Baloŋ O
 door O
-2019 B-DATE
+2019 
 bi O
 ci O
 loxoy O
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 , O
 loolu O
 lu O
@@ -35594,19 +35592,19 @@ wóor O
 la O
 ! O
 
-Mbuur B-LOC
+Mbuur 
 ba O
-Liverpool B-LOC
+Liverpool 
 , O
 jaar O
-Génération B-ORG
-Foot I-ORG
+Génération 
+Foot 
 , O
-Metz B-ORG
+Metz 
 , O
-Salzbourg B-ORG
+Salzbourg 
 et O
-Southampton B-ORG
+Southampton 
 ; O
 doxee O
 tànki O
@@ -35624,11 +35622,11 @@ Nike O
 Mercural O
 ba O
 ci O
-New B-ORG
-Balance I-ORG
+New 
+Balance 
 , O
 doomi O
-Bàmbaali B-LOC
+Bàmbaali 
 ji O
 , O
 kaar O
@@ -35649,7 +35647,7 @@ Borom O
 baloŋ O
 door O
 bi O
-Liverpool B-ORG
+Liverpool 
 la O
 waroon O
 a O
@@ -35737,8 +35735,8 @@ jaaxal O
 kenn O
 . O
 
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 tànnul O
 ay O
 àttekat O
@@ -35778,8 +35776,8 @@ mooy O
 li O
 ñuy O
 tabbe O
-Charles B-PER
-Médor I-PER
+Charles 
+Médor 
 , O
 jox O
 ko O
@@ -35793,7 +35791,7 @@ jiite O
 farãamasoŋ O
 yi O
 ci O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Sàppëer O
@@ -35840,14 +35838,14 @@ gaañu O
 yóbbu O
 nañu O
 leen O
-lopitaal B-ORG
-bu I-ORG
-Ndar I-ORG
+lopitaal 
+bu 
+Ndar 
 , O
 ni O
 ko O
 Liyëtnãa O
-Lóo B-PER
+Lóo 
 mi O
 bokk O
 ci O
@@ -35855,7 +35853,7 @@ mbooloom O
 sàppëer O
 mi O
 nekk O
-Ndar B-LOC
+Ndar 
 xamlee O
 . O
 
@@ -35874,7 +35872,7 @@ gën O
 di O
 wóolu O
 doomi O
-Senegaal B-LOC
+Senegaal 
 bu O
 gore O
 bile O
@@ -35889,12 +35887,12 @@ ci O
 wotey O
 deppite O
 yu O
-sulet B-DATE
-2017 I-DATE
+sulet 
+2017 
 . O
 
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 dugal O
 ñaar O
 - O
@@ -35915,14 +35913,14 @@ ay O
 bit O
 moom O
 ak O
-Aubameyang B-PER
+Aubameyang 
 . O
 
 Ca O
-Alpes B-LOC
+Alpes 
 ya O
 , O
-OL B-ORG
+OL 
 a O
 ngay O
 faju O
@@ -36057,7 +36055,7 @@ ci O
 jamono O
 ji O
 ci O
-Niseriyaa B-LOC
+Niseriyaa 
 , O
 réew O
 moomu O
@@ -36154,13 +36152,13 @@ leen O
 yàq O
 . O
 
-Ërob B-LOC
+Ërob 
 laa O
 gën O
 a O
 yàgg O
 ci O
-Senegaal B-LOC
+Senegaal 
 su O
 fekkee O
 ne O
@@ -36173,9 +36171,9 @@ ma O
 ci O
 . O
 
-Kinsey B-ORG
-and I-ORG
-Partners I-ORG
+Kinsey 
+and 
+Partners 
 dañuy O
 fàtteli O
 tolluwaayu O
@@ -36359,7 +36357,7 @@ nekk O
 ci O
 xolu O
 péyu O
-Senegaal B-LOC
+Senegaal 
 la O
 . O
 
@@ -36389,12 +36387,12 @@ nekkoon O
 xarit O
 . O
 
-Ãaselig B-PER
-M I-PER
-. I-PER
-B I-PER
-. I-PER
-Jéen I-PER
+Ãaselig 
+M 
+. 
+B 
+. 
+Jéen 
 bokk O
 na O
 ci O
@@ -36403,7 +36401,7 @@ njaatige O
 yu O
 jigéen O
 yu O
-Québec B-LOC
+Québec 
 , O
 te O
 defoon O
@@ -36412,13 +36410,13 @@ kenn O
 ku O
 fa O
 teewal O
-Senegaal B-LOC
+Senegaal 
 . O
 
 Ŋàññi O
 doxalinu O
-Asom B-PER
-Jaata I-PER
+Asom 
+Jaata 
 ci O
 fànn O
 wi O
@@ -36493,14 +36491,14 @@ gi O
 fàtteli O
 woon O
 nañu O
-atum B-DATE
-2020 I-DATE
+atum 
+2020 
 mi O
 ca O
-Abijãa B-LOC
+Abijãa 
 , O
-at B-DATE
-mi I-DATE
+at 
+mi 
 nga O
 xam O
 ne O
@@ -36529,9 +36527,9 @@ gu O
 yaram O
 bi O
 , O
-Abdulaay B-PER
-Juuf I-PER
-Saar I-PER
+Abdulaay 
+Juuf 
+Saar 
 , O
 ne O
 ko O
@@ -36580,8 +36578,8 @@ yem O
 Ci O
 li O
 Yéenekaayu O
-Libération B-ORG
-online I-ORG
+Libération 
+online 
 xamle O
 , O
 lu O
@@ -36594,8 +36592,8 @@ lëñbët O
 bi O
 mooy O
 , O
-Jeynaba B-PER
-Taraawore I-PER
+Jeynaba 
+Taraawore 
 lu O
 ñaw O
 ni O
@@ -36618,8 +36616,8 @@ mi O
 rekk O
 , O
 bi O
-Usmaan B-PER
-Sónkoo I-PER
+Usmaan 
+Sónkoo 
 waxee O
 ne O
 am O
@@ -36629,8 +36627,8 @@ firnde O
 yu O
 leer O
 ne O
-Maamur B-PER
-Jàlloo I-PER
+Maamur 
+Jàlloo 
 def O
 na O
 dara O
@@ -36647,8 +36645,8 @@ lëñbët O
 . O
 . O
 Bi O
-Maamur B-PER
-Jàllo I-PER
+Maamur 
+Jàllo 
 di O
 gën O
 a O
@@ -36693,8 +36691,8 @@ leer O
 wax O
 luy O
 wàllu O
-Maamur B-PER
-Jàllo I-PER
+Maamur 
+Jàllo 
 ( O
 am O
 na O
@@ -36715,8 +36713,8 @@ tamit O
 baay O
 - O
 faalu O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 ) O
 ci O
 mbir O
@@ -36812,7 +36810,7 @@ ak O
 . O
 
 Waa O
-Senegaal B-LOC
+Senegaal 
 yépp O
 yaakaaroon O
 nañu O
@@ -36841,11 +36839,11 @@ kenn O
 talatul O
 kenn O
 , O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 dina O
 dooleel O
-SENELEC B-ORG
+SENELEC 
 ba O
 dootuñu O
 jeexal O
@@ -36888,7 +36886,7 @@ wi O
 rafetlu O
 nañu O
 yégleb O
-CEDEAO B-ORG
+CEDEAO 
 bi O
 . O
 
@@ -36959,8 +36957,8 @@ mat O
 sëkk O
 . O
 
-Daam B-PER
-Jeŋ I-PER
+Daam 
+Jeŋ 
 bokk O
 naak O
 njaboot O
@@ -37058,29 +37056,29 @@ moom O
 ? O
 
 Waa O
-Senegaal B-LOC
+Senegaal 
 bile O
 di O
-Saajo B-PER
-Maane I-PER
+Saajo 
+Maane 
 ak O
 . O
 . O
 . O
 waa O
-Olànd B-LOC
+Olànd 
 bile O
 di O
-Vigil B-PER
-van I-PER
-Dijk I-PER
+Vigil 
+van 
+Dijk 
 . O
 
 Déedet O
 , O
 liy O
 suqali O
-Afirig B-LOC
+Afirig 
 tey O
 tax O
 ñu O
@@ -37332,46 +37330,46 @@ jile O
 nag O
 . O
 
-Tey B-DATE
-jii I-DATE
+Tey 
+jii 
 , O
 ÑU O
 NGI O
 WAX O
 fii O
 ci O
-Basiir B-LOC
+Basiir 
 , O
 ci O
-Buluf B-LOC
+Buluf 
 nga O
 xam O
 ne O
 fi O
 la O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 cosaanoo O
 , O
 te O
 bokk O
 ci O
-Kaasamaas B-LOC
+Kaasamaas 
 , O
 ne O
 moom O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 , O
 du O
-Kariim B-PER
-Wàdd I-PER
+Kariim 
+Wàdd 
 te O
 it O
 du O
 doon O
-Xalifa B-PER
-Sàll I-PER
+Xalifa 
+Sàll 
 . O
 
 Beneen O
@@ -37379,10 +37377,10 @@ coppite O
 bu O
 am O
 ci O
-at B-DATE
-yu I-DATE
-mujj I-DATE
-yii I-DATE
+at 
+yu 
+mujj 
+yii 
 : O
 Defaraat O
 li O
@@ -37395,10 +37393,10 @@ yépp O
 
 Ci O
 nettalib O
-ANSD B-ORG
+ANSD 
 bu O
-atum B-DATE
-2020 I-DATE
+atum 
+2020 
 , O
 mu O
 ngi O
@@ -37494,7 +37492,7 @@ rekk O
 ci O
 li O
 waa O
-Senegaal B-LOC
+Senegaal 
 yi O
 war O
 a O
@@ -37515,9 +37513,9 @@ leen O
 , O
 dinañu O
 jox O
-PASTEF B-ORG
+PASTEF 
 ak O
-SÓNKO B-PER
+SÓNKO 
 ay O
 jumtukaay O
 yu O
@@ -37531,22 +37529,22 @@ ci O
 wotey O
 meer O
 yu O
-2021 B-DATE
+2021 
 , O
 yu O
 deppite O
 yu O
-2022 B-DATE
+2022 
 ak O
 tamit O
 wotey O
 njiitu O
 réew O
 yu O
-2024 B-DATE
+2024 
 . O
 
-CEDEAO B-ORG
+CEDEAO 
 jël O
 na O
 turu O
@@ -37617,7 +37615,7 @@ di O
 leen O
 yóbbu O
 ca O
-Gore B-LOC
+Gore 
 . O
 
 Ak O
@@ -37649,9 +37647,9 @@ deppite O
 yi O
 . O
 
-LU B-ORG
-DEFU I-ORG
-WAXU I-ORG
+LU 
+DEFU 
+WAXU 
 nag O
 , O
 mooy O
@@ -37666,8 +37664,8 @@ a O
 taxawal O
 . O
 
-Jeynaba B-PER
-Taraawore I-PER
+Jeynaba 
+Taraawore 
 amoon O
 na O
 lu O
@@ -37685,8 +37683,8 @@ dëkkoon O
 Inite O
 11 O
 ci O
-Pàrsel B-LOC
-Aseni I-LOC
+Pàrsel 
+Aseni 
 . O
 
 Ki O
@@ -37703,7 +37701,7 @@ taax O
 etaas O
 ) O
 ci O
-Dakaar B-LOC
+Dakaar 
 . O
 
 Guddi O
@@ -37722,23 +37720,23 @@ bi O
 te O
 doxoon O
 diggante O
-Petro B-ORG
-de I-ORG
-Luanda I-ORG
+Petro 
+de 
+Luanda 
 mi O
 daan O
-Patriots B-ORG
+Patriots 
 bu O
-Rwanda B-LOC
+Rwanda 
 ( O
 97 O
 - O
 68 O
 ) O
 , O
-Monastir B-ORG
+Monastir 
 ak O
-Zamalek B-ORG
+Zamalek 
 jàmmaarloo O
 nañu O
 ñoom O
@@ -37751,9 +37749,9 @@ tàmbaliwaatee O
 futbal O
 bi O
 , O
-Gómis B-PER
+Gómis 
 ak O
-Dijon B-ORG
+Dijon 
 jiitu O
 ci O
 joŋante O
@@ -37792,7 +37790,7 @@ di O
 néewal O
 doole O
 ekibi O
-Ërob B-LOC
+Ërob 
 yi O
 ak O
 pexeem O
@@ -37803,7 +37801,7 @@ ngir O
 samp O
 fi O
 waa O
-Ibéri B-LOC
+Ibéri 
 . O
 
 Say O
@@ -37850,7 +37848,7 @@ dekereb O
 - O
 964 O
 / O
-AKILEE B-ORG
+AKILEE 
 , O
 nga O
 xam O
@@ -37861,16 +37859,16 @@ coow O
 li O
 . O
 
-Atum B-DATE
-2016 I-DATE
+Atum 
+2016 
 lañu O
 ko O
 jàppoon O
 ca O
 digu O
-Senegaal B-LOC
+Senegaal 
 ak O
-Ginne B-LOC
+Ginne 
 ginnaaw O
 bi O
 mu O
@@ -37879,7 +37877,7 @@ ba O
 def O
 juróomi O
 weer O
-Gàmbi B-LOC
+Gàmbi 
 . O
 
 Rax O
@@ -37889,7 +37887,7 @@ ci O
 dolli O
 mu O
 boole O
-Sterling B-PER
+Sterling 
 ci O
 ñi O
 tàmbali O
@@ -37945,7 +37943,7 @@ lëndëm O
 . O
 
 Wiiw O
-CNRA B-ORG
+CNRA 
 mi O
 lawal O
 ay O
@@ -37971,8 +37969,8 @@ yu O
 bare O
 . O
 
-Aram B-PER
-Faal I-PER
+Aram 
+Faal 
 dafa O
 teel O
 a O
@@ -38015,7 +38013,7 @@ rekk O
 . O
 
 Waaw O
-Pastef B-ORG
+Pastef 
 dafa O
 raglu O
 , O
@@ -38033,12 +38031,12 @@ firndeel O
 ne O
 tey O
 , O
-Apr B-ORG
+Apr 
 dafa O
 taxaw O
 taxawaayu O
 wujji O
-Pastef B-ORG
+Pastef 
 mi O
 nga O
 xam O
@@ -38130,28 +38128,28 @@ baax O
 kàngam O
 yile O
 di O
-Luka B-PER
-Modric I-PER
+Luka 
+Modric 
 ( O
-Real B-ORG
-Madrid I-ORG
+Real 
+Madrid 
 ) O
 , O
-Marcelo B-PER
-Brozovic I-PER
+Marcelo 
+Brozovic 
 ak O
-Ivan B-PER
-Perisic I-PER
+Ivan 
+Perisic 
 ( O
-Inter B-ORG
+Inter 
 ) O
 . O
 
 Ni O
 ko O
-Martial B-PER
-Ze I-PER
-Belinga I-PER
+Martial 
+Ze 
+Belinga 
 xamlee O
 , O
 ndéem O
@@ -38175,7 +38173,7 @@ yi O
 , O
 rawatina O
 nag O
-Farãas B-LOC
+Farãas 
 , O
 dañu O
 war O
@@ -38213,7 +38211,7 @@ xewe O
 woon O
 ci O
 géeju O
-Espaañ B-LOC
+Espaañ 
 , O
 Njiitu O
 réew O
@@ -38221,8 +38219,8 @@ la O
 woon O
 , O
 Meetar O
-Abdulaay B-PER
-Wàdd I-PER
+Abdulaay 
+Wàdd 
 xawoon O
 na O
 cee O
@@ -38298,12 +38296,12 @@ du O
 kenn O
 ku O
 dul O
-Mamadu B-PER
-Maamur I-PER
-Jàllo I-PER
+Mamadu 
+Maamur 
+Jàllo 
 , O
-Meysa B-PER
-Njaay I-PER
+Meysa 
+Njaay 
 mi O
 ñu O
 ci O
@@ -38326,16 +38324,16 @@ yépp O
 mu O
 ngi O
 am O
-àjjuma B-DATE
-fukki I-DATE
-fan I-DATE
-ak I-DATE
-benn I-DATE
-ci I-DATE
-weeru I-DATE
-oktoobar I-DATE
-atum I-DATE
-2019 I-DATE
+àjjuma 
+fukki 
+fan 
+ak 
+benn 
+ci 
+weeru 
+oktoobar 
+atum 
+2019 
 . O
 
 Ndaxte O
@@ -38370,8 +38368,8 @@ jant O
 bi O
 di O
 fay O
-Màlle B-PER
-Fofana I-PER
+Màlle 
+Fofana 
 PhDComUnic O
 . O
 
@@ -38505,14 +38503,14 @@ ak O
 seen O
 ci O
 màrse O
-Joor B-LOC
+Joor 
 . O
 
 Ginnaaw O
 bu O
 ko O
-Usmaan B-PER
-Sónko I-PER
+Usmaan 
+Sónko 
 weeree O
 ci O
 mbedd O
@@ -38604,7 +38602,7 @@ xaalis O
 boobu O
 , O
 dërëmu O
-PASTEF B-ORG
+PASTEF 
 ak O
 yeneen O
 làngi O
@@ -38652,8 +38650,8 @@ fay O
 lempo O
 . O
 
-Atum B-DATE
-ren I-DATE
+Atum 
+ren 
 ngir O
 def O
 lu O
@@ -38662,16 +38660,16 @@ li O
 weesu O
 ci O
 sargalug O
-Sëriñ B-PER
-Abdul I-PER
-Asiis I-PER
-Al I-PER
-Amiin I-PER
+Sëriñ 
+Abdul 
+Asiis 
+Al 
+Amiin 
 , O
 Kurélu O
 jàppalante O
 gu O
-Corée B-LOC
+Corée 
 jox O
 na O
 ñu O
@@ -38695,7 +38693,7 @@ loolu O
 nekk O
 lu O
 Doktoor O
-Wardi B-PER
+Wardi 
 rafetlu O
 lool O
 . O
@@ -38708,8 +38706,8 @@ jamonoy O
 tubaab O
 ya O
 , O
-atum B-DATE
-1960 I-DATE
+atum 
+1960 
 yépp O
 , O
 ñoo O
@@ -38806,7 +38804,7 @@ Mbir O
 mi O
 sonal O
 tamit O
-Senegaal B-LOC
+Senegaal 
 gi O
 nga O
 xam O
@@ -38823,12 +38821,12 @@ bare O
 . O
 
 Ca O
-Malaisie B-LOC
+Malaisie 
 , O
-diggante B-DATE
-1985 I-DATE
-ba I-DATE
-2000 I-DATE
+diggante 
+1985 
+ba 
+2000 
 , O
 juróom O
 - O
@@ -38860,7 +38858,7 @@ def O
 
 Tey O
 Peresidãa O
-Sàll B-PER
+Sàll 
 la O
 , O
 ëllëg O
@@ -38898,7 +38896,7 @@ simili O
 rekk O
 , O
 daamaaru O
-Ford B-ORG
+Ford 
 gi O
 yore O
 limat O
@@ -38911,21 +38909,21 @@ te O
 ku O
 ñuy O
 wax O
-Seex B-PER
-Njaay I-PER
+Seex 
+Njaay 
 doon O
 ko O
 dawal O
 , O
 àndoon O
 ak O
-Abdu B-PER
-Fay I-PER
+Abdu 
+Fay 
 , O
 dafa O
 fekki O
-Daam B-PER
-Si I-PER
+Daam 
+Si 
 mi O
 doon O
 dawal O
@@ -38942,7 +38940,7 @@ tàrde O
 . O
 
 Ca O
-Etaasini B-LOC
+Etaasini 
 , O
 Repibilikee O
 yi O
@@ -38952,7 +38950,7 @@ yi O
 juboo O
 nañu O
 ca O
-Senaa B-ORG
+Senaa 
 ba O
 , O
 ngir O
@@ -38964,7 +38962,7 @@ milyaari O
 dolaar O
 yu O
 Peresidãa O
-Trump B-PER
+Trump 
 , O
 ginnaaw O
 bu O
@@ -39019,7 +39017,7 @@ kaaraangeg O
 askan O
 wi O
 , O
-Ipres B-ORG
+Ipres 
 , O
 atu O
 àllaterete O
@@ -39143,7 +39141,7 @@ raglu O
 bu O
 mel O
 ni O
-PASTEF B-ORG
+PASTEF 
 . O
 
 Way O
@@ -39265,7 +39263,7 @@ xalaat O
 ci O
 tabb O
 meeru O
-Dakaar B-LOC
+Dakaar 
 ak O
 ab O
 dekere O
@@ -39277,14 +39275,14 @@ lay O
 doon O
 ci O
 waa O
-Dakaar B-LOC
+Dakaar 
 yépp O
 . O
 
 Gis O
 naa O
-Maki B-PER
-Sàll I-PER
+Maki 
+Sàll 
 soppi O
 tuuti O
 ci O
@@ -39304,14 +39302,14 @@ na O
 ñu O
 . O
 
-2012 B-DATE
-ba I-DATE
-tey I-DATE
+2012 
+ba 
+tey 
 , O
-Bayer B-ORG
-Liverkuzen I-ORG
+Bayer 
+Liverkuzen 
 daanul O
-Munich B-ORG
+Munich 
 dëkkam O
 . O
 
@@ -39380,7 +39378,7 @@ bay O
 futt O
 . O
 
-DELACROIX B-PER
+Dëlakurwaa
 nee O
 na O
 ñu O
@@ -39420,7 +39418,7 @@ moo O
 tax O
 sax O
 waa O
-Rooso B-LOC
+Rooso 
 ñu O
 ngi O
 naan O
