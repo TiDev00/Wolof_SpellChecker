@@ -1,26 +1,35 @@
-import re
-import enchant
+"""
+wolof lexicon processing
+-----
+Processing of several corpora and wolof dictionary to build a wolof lexicon used by the autocorrector
+Contents:
+    corpus processing,
+    dictionary processing,
+    masakhane_ner dataset processing
+"""
 
-fr_dict = enchant.Dict('fr')
-en_dict = enchant.Dict('en')
-wolof_letters = 'aàãbcdeéëfgijklmnñŋoópqrstuwxy'
+import utils.wolof_rules as wr
+from utils.spellchecker_utils import word_extraction
+
 
 print("Processing wolof text")
-with open('lexicon_building/wolof_text.txt') as f:
-    data = f.read()
-corpus_words = set([s for s in re.findall('\w+', data.lower()) if s.isalpha()
-                    and not fr_dict.check(s) and not en_dict.check(s)])
+corpus_words = set(word_extraction('wolof_texts.txt'))
+for i in corpus_words.copy():
+    if not i.isalpha() or wr.fr_en_checking(i) or not wr.rules_validator(i):
+        corpus_words.remove(i)
+
 
 print("Processing wolof dictionary")
-with open('lexicon_building/wolof_dictionary.txt') as f:
-    data = f.read()
-dico_words = set([s for s in re.findall('\w+', data.lower()) if s.isalpha()
-                    and not fr_dict.check(s) and not en_dict.check(s)])
+dico_words = set(word_extraction('wolof_dictionary.txt'))
+for j in dico_words.copy():
+    if not j.isalpha() or wr.fr_en_checking(j) or not wr.rules_validator(j):
+        dico_words.remove(j)
 
-glossary = sorted(corpus_words.union(dico_words))
+glossary = (corpus_words.union(dico_words))
 
-print("Creating glossary file")
-with open('wolof_lexicon.txt', 'w') as f:
+
+print("Creating lexicon file")
+with open('../wolof_lexicon.txt', 'w') as f:
     for word in glossary:
         if 'aaa' not in word and 'h' not in word and 'ï' not in word \
                 and 'v' not in word and 'z' not in word and 'ç' not in word:

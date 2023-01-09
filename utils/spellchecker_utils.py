@@ -1,7 +1,7 @@
 """
-utils
+spellchecker_utils
 -----
-Implementations for functions used by the main file.
+Implementations for functions used by the autocorrector main module.
 Contents:
     word_extraction,
     get_count,
@@ -19,7 +19,7 @@ Contents:
 import re
 from collections import Counter
 
-wolof_letters = 'aàãbcdeéëfgijklmnñŋoópqrstuwxy'
+WOLOF_LETTERS = 'aàãbcdeéëfgijklmnñŋoópqrstuwxy'
 
 
 def word_extraction(filename: str) -> list:
@@ -41,30 +41,6 @@ def word_extraction(filename: str) -> list:
     words = re.findall('\w+', data.lower())
 
     return sorted(words)
-
-
-def wolof_transformation(word: str) -> str:
-    """
-        Modifies writing of a word according to wolof writing rules.
-        Deletes compound sounds like ou, oi, ch, an, en, eu, au, eau, ien, ienne, ai, gn, elle, ette, tion, oin
-        ui, ill, ille, eil, eille, ouille, ail, aille, ueil, ier, ei, oeu, kh, gn, di, tch, gni, ouss
-        Parameters
-        ----------
-            word: str
-                word which will be changed
-        Returns
-        ----------
-            words: list
-                new word written in wolof by taking into account wolof rules
-    """
-    fr_wol_maps = [('ouss', 'us'), ('ouille', 'uy'), ('ou', 'u'), ('gn', 'ñ'), ('di', 'j'), ('kh', 'x'), ('tch', 'c'),
-                   ('oeu', 'ë'), ('eu', 'ë'), ('aille', 'ay'), ('eille', 'ey'), ('eau', 'óo'), ('au', 'ó'),
-                   ('ienne', 'iyen'), ('v', 'w'), ('z', 's'), ('h', '')]
-    word = word
-    for phonetics in fr_wol_maps:
-        word = re.sub(phonetics[0], phonetics[1], word.lower())
-    print(word)
-    return word
 
 
 def get_count(word_list: list) -> dict:
@@ -186,7 +162,7 @@ def replace_letter(word: str, verbose: bool = False) -> list:
 
     split_list = split_word(word)
 
-    replace_list = [a + letter + (b[1:] if len(b) > 1 else '') for a, b in split_list if b for letter in wolof_letters]
+    replace_list = [a + letter + (b[1:] if len(b) > 1 else '') for a, b in split_list if b for letter in WOLOF_LETTERS]
     replace_set = set(replace_list)
     replace_set.remove(word)
 
@@ -218,7 +194,7 @@ def insert_letter(word: str, verbose: bool = False) -> list:
 
     for c in range(len(word) + 1):
         split_list.append((word[0:c], word[c:]))
-    insert_list = [a + letter + b for a, b in split_list for letter in wolof_letters]
+    insert_list = [a + letter + b for a, b in split_list for letter in WOLOF_LETTERS]
 
     if verbose:
         print(f"insert_list = {insert_list}\n")
@@ -244,6 +220,7 @@ def edit_one_letter(word: str, verbose: bool = False, allow_switch: bool = False
     """
 
     one_edit_set = set()
+    word = word.lower()
 
     one_edit_set.update(delete_letter(word, verbose=verbose))
     if allow_switch:
@@ -259,7 +236,7 @@ def edit_one_letter(word: str, verbose: bool = False, allow_switch: bool = False
 
 def edit_n_letters(word: str, nbr_edit: int = 2, verbose: bool = False, allow_switch: bool = False) -> set:
     """
-        Gets a set of all possible edits that are n edit away from a word
+        Gets a set of all possible edits that are n > 1  edit away from a word
         Parameters
         ----------
             word: str
@@ -278,7 +255,7 @@ def edit_n_letters(word: str, nbr_edit: int = 2, verbose: bool = False, allow_sw
 
     n_edit_set = edit_one_letter(word, verbose=False, allow_switch=allow_switch)
 
-    for j in range(nbr_edit - 1):
+    for j in range(1, nbr_edit):
         for word in n_edit_set.copy():
             if word:
                 n_edit_set.update(edit_one_letter(word, verbose=False, allow_switch=allow_switch))

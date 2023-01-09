@@ -11098,7 +11098,6 @@ sosaat
 tërëfi
 teel
 bombarjée
-marseille
 àllateretee
 wéetal
 sëkkëtal
@@ -18563,8 +18562,6 @@ yàggul
 jege
 ñaseen
 defin
-corneille
-ikone
 faree
 neexee
 yow
