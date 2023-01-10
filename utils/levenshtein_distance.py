@@ -1,3 +1,16 @@
+"""
+levenshtein_distance
+-----
+Functions used to compute distance between 2 words.
+Contents:
+    naive_levenshtein,
+    dynamic_levenshtein,
+    library_levenshtein
+"""
+
+from Levenshtein import distance
+import time
+
 
 def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
     """
@@ -79,5 +92,45 @@ def dynamic_levenshtein(source: str, target: str) -> int:
                                                             computations_array[(i - 1) % 2][j - 1])))
 
     return computations_array[length_trg % 2][length_src]
+
+
+def library_levenshtein(source: str, target: str) -> int:
+    """
+        Computing edit distance using levenshtein library
+        Parameters
+        ----------
+            source: str
+                Source word to calculate minimum edit distance
+            target: str
+                Target word to calculate minimum edit distance
+        Returns
+        ----------
+            minimum_edit_distance: int
+                Distance required to convert a source string to target string
+    """
+
+    return distance(source, target)
+
+
+source = 'bjnbromv'
+target = 'boroom'
+
+s_n = time.time()
+print(naive_levenshtein(source, target, len(source), len(target)))
+e_n = time.time()
+
+s_d = time.time()
+print(dynamic_levenshtein(source, target))
+e_d = time.time()
+
+s_l = time.time()
+print(library_levenshtein(source, target))
+e_l = time.time()
+
+print(e_n-s_n)
+print(e_d-s_d)
+print(e_l-s_l)
+
+
 
 

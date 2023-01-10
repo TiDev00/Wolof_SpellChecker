@@ -32,7 +32,7 @@ class TrieNode:
 
 DICTIONARY = '../wolof_lexicon.txt'
 TARGET = 'boroom'
-MAX_COST = int(3)
+MAX_COST = int(2)
 
 
 # read dictionary file into a trie
