@@ -1,7 +1,8 @@
 """
 levenshtein_distance
 -----
-Functions used to compute distance between 2 words.
+3 Functions that can be used to compute distance between 2 words.
+Library_levenshtein fastest followed by dynamic_levenshtein.
 Contents:
     naive_levenshtein,
     dynamic_levenshtein,
@@ -14,7 +15,9 @@ import time
 
 def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
     """
-        Naive recursive function to find minimum edit distance between 2 string
+        Naive recursive function to find minimum edit distance between 2 string.
+        Time complexity O(3^m)
+        Auxiliary space O(1)
         Parameters
         ----------
             source: str
@@ -53,6 +56,8 @@ def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
 def dynamic_levenshtein(source: str, target: str) -> int:
     """
         Space efficient Dynamic Programming function to find minimum edit distance between 2 string
+        Time complexity O(mxn)
+        Auxiliary space O(m)
         Parameters
         ----------
             source: str
@@ -64,6 +69,7 @@ def dynamic_levenshtein(source: str, target: str) -> int:
             minimum_edit_distance: int
                 Distance required to convert a source string to target string
     """
+
     length_src = len(source)
     length_trg = len(target)
 
@@ -94,9 +100,11 @@ def dynamic_levenshtein(source: str, target: str) -> int:
     return computations_array[length_trg % 2][length_src]
 
 
-def library_levenshtein(source: str, target: str) -> int:
+def lib_levenshtein(source: str, target: str) -> int:
     """
         Computing edit distance using levenshtein library
+        Time complexity O(c)
+        Space complexity O(1)
         Parameters
         ----------
             source: str
@@ -110,27 +118,4 @@ def library_levenshtein(source: str, target: str) -> int:
     """
 
     return distance(source, target)
-
-
-source = 'bjnbromv'
-target = 'boroom'
-
-s_n = time.time()
-print(naive_levenshtein(source, target, len(source), len(target)))
-e_n = time.time()
-
-s_d = time.time()
-print(dynamic_levenshtein(source, target))
-e_d = time.time()
-
-s_l = time.time()
-print(library_levenshtein(source, target))
-e_l = time.time()
-
-print(e_n-s_n)
-print(e_d-s_d)
-print(e_l-s_l)
-
-
-
 

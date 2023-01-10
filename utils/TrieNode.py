@@ -1,8 +1,11 @@
 """
 Trie Node
 -----
-The Trie data structure keeps a set of words, organized with one node for each letter.
-Each node has a branch for each letter that may follow it in the set of words.
+The Trie data implementation and functions to do research in TrieNode.
+Contents:
+    TrieNode Class,
+    search_recursive,
+    search
 """
 
 import time
@@ -14,6 +17,10 @@ WordCount = 0
 
 
 class TrieNode:
+    """
+    Trie Data structure that keeps a set of words, organized with one node for each letter.
+    Each node has a branch for each letter that may follow it in the set of words.
+    """
     def __init__(self):
         self.word = None
         self.children = {}
@@ -30,40 +37,21 @@ class TrieNode:
         node.word = word
 
 
-DICTIONARY = '../wolof_lexicon.txt'
-TARGET = 'boroom'
-MAX_COST = int(2)
-
-
-# read dictionary file into a trie
-trie = TrieNode()
-for word in open(DICTIONARY, "rt").read().split():
-    WordCount += 1
-    trie.insert(word)
-
-print("Read %d words into %d nodes" % (WordCount, NodeCount))
-
-
-# The search function returns a list of all words that are less than the given
-# maximum distance from the target word
-def search(word, max_cost):
-    # build first row
-    current_row = range(len(word) + 1)
-
-    results = []
-
-    # recursively search each branch of the trie
-    for letter in trie.children:
-        search_recursive(trie.children[letter], letter, word, current_row,
-                         results, max_cost)
-
-    return results
-
-
-# This recursive helper is used by the search function above. It assumes that
-# the previous_row has been filled in already.
 def search_recursive(node, letter, word, previous_row, results, max_cost):
-
+    """
+        This recursive helper is used by the search function above. It assumes that
+        the previous_row has been filled in already.
+        Parameters
+        ----------
+            node
+            letter
+            word
+            previous_row
+            results
+            max_cost
+        Returns
+        -------
+    """
     columns = len(word) + 1
     current_row = [previous_row[0] + 1]
 
@@ -94,11 +82,26 @@ def search_recursive(node, letter, word, previous_row, results, max_cost):
                              results, max_cost)
 
 
-start = time.time()
-results = search(TARGET, MAX_COST)
-end = time.time()
+def search(trie, word, max_cost):
+    """
+        The search function returns a list of all words that are less than the given
+        maximum distance from the target word
+        Parameters
+        ----------
+            trie: TrieNode
+            word: str
+            max_cost: int
+        Returns
+        -------
+    """
+    # build first row
+    current_row = range(len(word) + 1)
 
-for result in results:
-    print(result)
+    results = []
 
-print("Search took %g s" % (end - start))
+    # recursively search each branch of the trie
+    for letter in trie.children:
+        search_recursive(trie.children[letter], letter, word, current_row,
+                         results, max_cost)
+
+    return results
