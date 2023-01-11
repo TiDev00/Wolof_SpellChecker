@@ -34,7 +34,7 @@ for exception in exceptions:
             glossary.remove(word)
 
 
-print("Creating lexicon file")
+print("Creating wolof lexicon file")
 with open('../wolof_lexicon.txt', 'w') as f:
     for word in glossary:
         f.write(word + '\n')
