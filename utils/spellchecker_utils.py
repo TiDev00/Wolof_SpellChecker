@@ -38,9 +38,9 @@ def word_extraction(filename: str) -> list:
     with open(filename) as f:
         data = f.read()
 
-    words = re.findall('\w+', data.lower())
+    words = re.findall('\w+', data)
 
-    return sorted(words)
+    return words
 
 
 def get_count(word_list: list) -> dict:
