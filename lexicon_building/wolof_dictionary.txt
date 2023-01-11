@@ -910,8 +910,7 @@ Mbool
 Mboolaan 
 Nguufaan 
 Ëpp 
-Ëppal 
-Èppal 
+Ëppal
 Ëppante 
 Ëppaate 
 Ëpple 
@@ -10509,7 +10508,6 @@ portigaal
 baalaate
 léebu
 suqi
-irène
 penaalti
 laataa
 benna
@@ -11516,7 +11514,6 @@ yégg
 pasteefam
 àndu
 sames
-nîmes
 maputo
 lëbëj
 mënin
@@ -12503,7 +12500,6 @@ féetale
 naatable
 mayense
 xarala
-dubaï
 keesug
 amiin
 méngoo
@@ -12966,7 +12962,6 @@ bàrsaa
 bisaawo
 bopp
 waññiwul
-nègre
 toontoo
 saaraya
 béey
@@ -17218,7 +17213,6 @@ jëmali
 taaxi
 tegulee
 sae
-sérère
 coskas
 isaaga
 gafaka
@@ -17519,7 +17513,6 @@ cëppe
 féete
 neexati
 bunti
-bès
 firmiñoo
 koñu
 caabalug
@@ -17534,7 +17527,7 @@ bilteŋ
 barewul
 mayãans
 seeniy
-mùcc
+mucc
 kepp
 kàttan
 jéggaani
@@ -17886,7 +17879,7 @@ ryder
 kóoku
 root
 jàmbural
-mùjj
+mujj
 yéxaayu
 fan
 yéeneem
@@ -18377,7 +18370,6 @@ sàcce
 njàngaley
 wan
 xamoo
-marçal
 màbba
 kapitaal
 balluwaayu
@@ -19035,7 +19027,6 @@ ataakãa
 tëjante
 wóoralal
 paab
-loïc
 alalu
 toogub
 weesoo
@@ -19142,7 +19133,6 @@ boddikoonte
 sàmbar
 mbindeef
 kañ
-adelaïde
 nitu
 séeréeru
 gépp
@@ -19506,7 +19496,6 @@ digle
 bilaƞ
 bànneex
 jaaxle
-suarès
 dallujee
 booleji
 somoon
@@ -19674,7 +19663,6 @@ sàmmloo
 gabëlu
 té
 wuyu
-île
 sumbu
 yéglewul
 limum
