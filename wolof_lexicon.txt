@@ -750,7 +750,6 @@ sofental
 amagutoon
 yaakaaree
 tànku
-rabbil
 locci
 jannatu
 demba
@@ -812,7 +811,6 @@ maadi
 tongoo
 degaas
 tëyéw
-rabbikum
 waajalug
 muntaqimuun
 safaanam
@@ -1608,7 +1606,6 @@ tawtewoo
 për
 tontuwuma
 séytaane
-ilaika
 njiin
 fukkéelu
 xos
@@ -3977,7 +3974,6 @@ yéneem
 informatik
 ila
 ngirug
-eurobond
 benefiis
 yonent
 làntinoor
@@ -4187,7 +4183,6 @@ jotaay
 woteb
 fara
 dooleelul
-alaika
 jiin
 làng
 nanga
@@ -4865,7 +4860,6 @@ riisu
 laaxu
 pórto
 lëng
-rabbiyal
 ndugalum
 dencoon
 xalaas
@@ -5639,7 +5633,6 @@ dañ
 cokkoor
 finaalu
 keedo
-maau
 léebuy
 kañaan
 naaxsaayaa
@@ -7513,7 +7506,6 @@ arbiit
 bidoon
 foksineer
 astemaak
-rabbika
 liddiku
 feemu
 xariiti
@@ -8197,7 +8189,6 @@ sàqum
 soccet
 jànde
 tàmmal
-saussure
 futbalee
 maanu
 duplee
@@ -8354,7 +8345,6 @@ gisuñu
 jaajëfal
 làmmiñ
 mbokk
-alaikal
 bëngéer
 tarixa
 àtte
@@ -11849,7 +11839,6 @@ manatuñu
 warugar
 ndogu
 fadla
-rabbil
 coppiteg
 buuxloo
 sëxëñug
@@ -12513,7 +12502,7 @@ ataliyee
 mayãas
 futbalkat
 suuf
-israaiila
+israaiil
 juyook
 ñoŋal
 afrigug
@@ -12726,7 +12715,6 @@ wujj
 anbar
 nottiku
 léegñàkk
-europe
 fësalub
 terewukoo
 mendi
@@ -13150,14 +13138,13 @@ mbiru
 gaanag
 jimblaŋ
 iñaanul
-rabbika
-oran
 ñaata
 bàkkan
 sàntaraal
 féetewoo
 wuur
 fayyu
+biróo
 tuumag
 dutoon
 baaxul
@@ -15365,7 +15352,6 @@ bootuwul
 bernardoo
 doyal
 jamomoy
-muqtadab
 benneel
 gajen
 ajabaaru
@@ -15689,7 +15675,6 @@ yelwaan
 gali
 fénc
 mbuñuka
-asxaabul
 nërmeelug
 alxuraanu
 ñaanlu
@@ -15750,7 +15735,6 @@ riibaa
 sëriif
 buuru
 gëstukatu
-rabbinaa
 kàkktar
 gëse
 jinjeer
@@ -16063,7 +16047,6 @@ maybàyyi
 yëgluwaat
 booleg
 rëkk
-neuer
 depitey
 foqati
 déng
@@ -16526,7 +16509,6 @@ xamatuñu
 ñanant
 feleŋ
 tàndarma
-xalaaiqa
 fàttalikuleen
 kër
 xaatami
@@ -17714,8 +17696,6 @@ suma
 werse
 musalkat
 lakal
-mébét
-roggndi
 ngomblaanu
 moomoo
 juri
@@ -20853,7 +20833,6 @@ sàmba
 piis
 juboo
 bañkat
-biróom
 muucu
 jébbaletil
 wàgg
@@ -24091,7 +24070,6 @@ yóbbooti
 ngënéel
 maax
 lér
-rabbiyal
 yérey
 namm
 luubu
@@ -24884,8 +24862,6 @@ palmaanoo
 celsi
 rékk
 fàttalee
-europa
-eni
 jàng
 toftaloo
 warugari
@@ -25041,7 +25017,6 @@ téerey
 eksperesoo
 waxaat
 mbind
-léon
 mbindéefu
 asdayta
 nopplujil
@@ -25095,7 +25070,6 @@ jànkoonteek
 tànkñaar
 wëraleel
 yeksiwaat
-wuu
 nang
 dégal
 futbalkati
@@ -25103,7 +25077,6 @@ soppeey
 langale
 ndawe
 milyaaru
-yal
 péetale
 tiyeb
 luq
@@ -25111,7 +25084,6 @@ tóoru
 làbbili
 bégee
 toxoñ
-ika
 firndeel
 yëkëtikoo
 niroole
@@ -25156,15 +25128,12 @@ kéew
 yëgug
 dakk
 faaw
-iit
-wol
 sabopp
 jubóowaat
 béemeer
 fàbbi
 neexale
 jàmmu
-ibk
 toggoo
 ojal
 nekkuñuwoon
@@ -25180,7 +25149,6 @@ riisi
 kuruus
 soŋŋoon
 tijjil
-kalimii
 danañu
 jégeñe
 belmaadi

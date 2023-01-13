@@ -38,7 +38,7 @@ def word_extraction(filename: str) -> list:
     with open(filename) as f:
         data = f.read()
 
-    words = re.findall('\w+', data)
+    words = re.findall('\w+', data.lower())
 
     return words
 
@@ -231,18 +231,16 @@ def edit_one_letter(word: str, verbose: bool = False, allow_switch: bool = False
     if verbose:
         print(f"edit_letters = {one_edit_set}\n")
 
-    return set(one_edit_set)
+    return one_edit_set
 
 
-def edit_n_letters(word: str, nbr_edit: int = 2, verbose: bool = False, allow_switch: bool = False) -> set:
+def edit_two_letters(word: str, verbose: bool = False, allow_switch: bool = False) -> set:
     """
-        Gets a set of all possible edits that are n > 1  edit away from a word
+        Gets a set of all possible edits that are n = 2  edit away from a word
         Parameters
         ----------
             word: str
                 input for which we generate all possible words n edit away
-            nbr_edit: int
-                number of edit n
             verbose: bool
                 set to true if we want to see all the process
             allow_switch: bool
@@ -250,26 +248,25 @@ def edit_n_letters(word: str, nbr_edit: int = 2, verbose: bool = False, allow_sw
         Returns
         ----------
             n_edit_list: set
-                words obtained with n edit from a given word
+                words obtained with 2 edit from a given word
     """
 
-    n_edit_set = edit_one_letter(word, verbose=False, allow_switch=allow_switch)
+    two_edit_set = edit_one_letter(word, verbose=False, allow_switch=allow_switch)
 
-    for j in range(1, nbr_edit):
-        for word in n_edit_set.copy():
-            if word:
-                n_edit_set.update(edit_one_letter(word, verbose=False, allow_switch=allow_switch))
+    for word in two_edit_set.copy():
+        if word:
+            two_edit_set.update(edit_one_letter(word, verbose=False, allow_switch=allow_switch))
 
     if verbose:
-        print(f"edit_letters = {n_edit_set}\n")
+        print(f"edit_letters = {two_edit_set}\n")
 
-    return set(n_edit_set)
+    return two_edit_set
 
 
-def get_suggestions(word: str, probs: dict, vocab: set, nbr_edit: int = 2,
+def get_suggestions(word: str, probs: dict, vocab: set,
                     verbose: bool = False, allow_switch: bool = False) -> list:
     """
-        Computes and returns a list of n possible suggestion tuple and their probabilities
+        Computes and returns a list of n possible suggestions tuple and their probabilities
         Parameters
         ----------
             word: str
@@ -278,8 +275,6 @@ def get_suggestions(word: str, probs: dict, vocab: set, nbr_edit: int = 2,
                 Maps each word to its probability in the corpus
             vocab: set
                 Vocabulary from which we will compare misspelled words
-            nbr_edit: int
-                number of edit n
             verbose: bool
                 set to true if we want to see all the process
             allow_switch: bool
@@ -294,7 +289,7 @@ def get_suggestions(word: str, probs: dict, vocab: set, nbr_edit: int = 2,
     suggestions = set(
         (word in vocab and word) or
         edit_one_letter(word, verbose=verbose, allow_switch=allow_switch).intersection(vocab) or
-        edit_n_letters(word, nbr_edit=nbr_edit, verbose=verbose, allow_switch=allow_switch).intersection(vocab)
+        edit_two_letters(word, verbose=verbose, allow_switch=allow_switch).intersection(vocab)
     )
 
     # Get the best words and return the top n_suggested words as n_best
@@ -305,4 +300,18 @@ def get_suggestions(word: str, probs: dict, vocab: set, nbr_edit: int = 2,
         print("suggestions = ", n_best)
 
     return n_best
+
+
+def add_word_to_lexc(word: str):
+    """
+        Add a given word to the wolof lexicon
+        Parameters
+        ----------
+            word: str
+                input that will be added to the wolof lexicon
+    """
+
+    with open('../wolof_lexicon.txt', 'a') as f:
+        f.write("\n{0}".format(word))
+    f.close()
 

@@ -61,7 +61,6 @@ def compound_sound_transformation(word: str) -> str:
     word = word.lower()
     for k, v in fr_wol_maps.items():
         word = re.sub(k, v, word)
-    print()
     return word
 
 

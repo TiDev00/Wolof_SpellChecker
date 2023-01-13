@@ -1,7 +1,7 @@
 """
 levenshtein_distance
 -----
-3 Functions that can be used to compute distance between 2 words.
+3 Functions that can be used to compute edit distance between 2 words.
 Library_levenshtein fastest followed by dynamic_levenshtein.
 Contents:
     naive_levenshtein,

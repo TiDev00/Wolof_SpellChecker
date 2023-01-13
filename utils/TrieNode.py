@@ -105,3 +105,26 @@ def search(trie, word, max_cost):
                          results, max_cost)
 
     return results
+
+
+# # TrieNode
+# DICTIONARY = '../wolof_lexicon.txt'
+# TARGET = 'boroom'
+# MAX_COST = int(2)
+#
+# # read dictionary file into a trie
+# trie = TrieNode()
+# for word in open(DICTIONARY, "rt").read().split():
+#     WordCount += 1
+#     trie.insert(word)
+#
+# print("Read %d words into %d nodes" % (WordCount, NodeCount))
+#
+# start = time.time()
+# results = search(trie, TARGET, MAX_COST)
+# end = time.time()
+#
+# for result in results:
+#     print(result)
+#
+# print("Search took %g s" % (end - start))
