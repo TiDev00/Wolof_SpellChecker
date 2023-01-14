@@ -11,10 +11,6 @@ Contents:
 import time
 from utils.spellchecker_utils import word_extraction
 
-# Keep some interesting statistics
-NodeCount = 0
-WordCount = 0
-
 
 class TrieNode:
     """
@@ -24,9 +20,6 @@ class TrieNode:
     def __init__(self):
         self.word = None
         self.children = {}
-
-        global NodeCount
-        NodeCount += 1
 
     def insert(self, word):
         node = self
@@ -106,25 +99,3 @@ def search(trie, word, max_cost):
 
     return results
 
-
-# # TrieNode
-# DICTIONARY = '../wolof_lexicon.txt'
-# TARGET = 'boroom'
-# MAX_COST = int(2)
-#
-# # read dictionary file into a trie
-# trie = TrieNode()
-# for word in open(DICTIONARY, "rt").read().split():
-#     WordCount += 1
-#     trie.insert(word)
-#
-# print("Read %d words into %d nodes" % (WordCount, NodeCount))
-#
-# start = time.time()
-# results = search(trie, TARGET, MAX_COST)
-# end = time.time()
-#
-# for result in results:
-#     print(result)
-#
-# print("Search took %g s" % (end - start))

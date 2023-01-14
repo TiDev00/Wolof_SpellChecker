@@ -55,12 +55,15 @@ def compound_sound_transformation(word: str) -> str:
             word: str
                 new word written in wolof by taking into account wolof rules
     """
-    fr_wol_maps = {'tion': 'siyoŋ', 'ouss': 'us', 'ouille': 'uy', 'ou': 'u', 'gn': 'ñ', 'kh': 'x', 'tch': 'c',
-                   'oeu': 'ë', 'eu': 'ë', 'aille': 'ay', 'eille': 'ey', 'eau': 'óo', 'au': 'ó', 'ienne': 'iyen',
-                   'oi': 'uwa', 'ui': 'uwi', 'gue': 'ge', 'gui': 'gi', 'gua': 'ga', 'v': 'w', 'z': 's', 'h': ''}
+    fr_wol_maps = {'tion': 'siyoŋ', 'ouss': 'us', 'ieu': 'iyë', 'ouille': 'uy', 'ou': 'u', 'gn': 'ñ', 'kh': 'x',
+                'tch': 'c', 'oeu': 'ë', 'eu': 'ë', 'aille': 'ay', 'eille': 'ey', 'eau': 'óo', 'au': 'ó',
+                'ienne': 'iyen', 'oi': 'uwa', 'ui': 'uwi', 'gue': 'ge', 'gui': 'gi', 'gua': 'ga',
+                'v': 'w', 'z': 's', 'h': ''}
+
     word = word.lower()
     for k, v in fr_wol_maps.items():
         word = re.sub(k, v, word)
+
     return word
 
 

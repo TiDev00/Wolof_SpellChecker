@@ -45,7 +45,6 @@ durunglu
 kasolol
 jébbaleg
 dëkkub
-vl
 yabaateem
 wuntam
 cago
@@ -217,7 +216,6 @@ yattal
 feg
 ñaraas
 mbaay
-aleykum
 xuduum
 kaafuur
 fekkon
@@ -278,8 +276,8 @@ moroomam
 añe
 njogonal
 daawñi
-aabiduuna
-tojraxas
+toj
+raxas
 kàŋŋ
 spërs
 bitéelu
@@ -1286,7 +1284,6 @@ sikar
 jubluwaay
 saalixu
 parewuñu
-bein
 wutaat
 nufuuran
 woroom
@@ -1326,7 +1323,6 @@ paj
 desñenti
 nuurun
 gaayam
-himma
 unsas
 njaay
 wonewu
@@ -1867,7 +1863,6 @@ diriyànke
 cin
 soriñeme
 caagé
-junuiy
 gënatee
 digëntewoon
 bantu
@@ -2036,7 +2031,6 @@ ndege
 karloo
 jomboon
 laleen
-hikaaya
 tëgglu
 edf
 wuut
@@ -2496,8 +2490,7 @@ faggandiku
 jeeg
 oorsë
 yóbbuwu
-haamidu
-misira
+misra
 añ
 delloog
 wasalaam
@@ -5221,7 +5214,6 @@ wóoruma
 jëfekaayi
 boobule
 ridwaan
-partiotes
 àjjana
 déjal
 kaafiruun
@@ -5375,7 +5367,6 @@ njëg
 ngénte
 seekeeg
 xaadam
-hilmud
 ŋereñ
 goorlu
 jàppandiku
@@ -5435,7 +5426,6 @@ wëy
 làggi
 tëleem
 nuuran
-haadii
 bala
 dox
 boroomñaar
@@ -6329,7 +6319,6 @@ ngàmb
 janeer
 dëruwaay
 dajeeb
-egybtiense
 xaadir
 mojip
 finaal
@@ -6426,7 +6415,6 @@ takku
 gaanuwaay
 weneen
 jamee
-aguerro
 xëyu
 mënoon
 kameraamaan
@@ -6666,7 +6654,6 @@ raxaasat
 ministeer
 yeek
 gëmee
-hikkam
 reso
 mbootaayu
 kursiyu
@@ -6748,7 +6735,6 @@ nasrul
 liistiqaama
 gómis
 garees
-zam
 kemb
 yéegoon
 jabtu
@@ -7572,18 +7558,15 @@ wëlbatiku
 serbi
 ràgg
 takktoo
-huudun
-ñettti
+ñetti
 falee
 yewwu
 réeroon
 ngëmñu
-majiidun
 siraamtal
 ndóolal
 moyee
 mbaabaan
-ek
 kaasamaas
 luubal
 tëbbase
@@ -7779,7 +7762,6 @@ siiwalal
 màggug
 digëlal
 masula
-zabuur
 tënkal
 nganj
 naas
@@ -7914,7 +7896,6 @@ lajji
 xëccoowulóok
 babal
 sonbol
-reimagining
 njoowaan
 yeboon
 tafu
@@ -8392,7 +8373,6 @@ galaxndikoo
 saŋe
 muuree
 muritiy
-yasifuun
 mejaa
 jeey
 woteg
@@ -8401,7 +8381,6 @@ xàllon
 delluwaat
 darooruy
 tiitaram
-hurayra
 nduluñ
 xunn
 mbëru
@@ -9688,7 +9667,6 @@ xëlbaa
 wuutey
 tëkku
 gëlëmal
-hindun
 gaatngag
 làmmñu
 ropplaan
@@ -10919,7 +10897,6 @@ akaademi
 jogewu
 koyaŋ
 ndijoor
-huwa
 fóonante
 déggooy
 ndénkaane
@@ -11107,7 +11084,6 @@ juróom
 wonees
 noote
 laalug
-buygues
 selaaw
 seenag
 njaayum
@@ -11332,7 +11308,6 @@ mayees
 saart
 rawagul
 sonaakos
-hidaaya
 wereg
 ñoru
 niseeriyaa
@@ -11489,7 +11464,7 @@ dingay
 wommate
 dañoo
 àddunaa
-goog
+googe
 garabe
 kanadaa
 wépp
@@ -11499,7 +11474,6 @@ reeyaat
 laaf
 saaniya
 négani
-eanam
 sumboon
 njekkar
 tépp
@@ -12319,7 +12293,6 @@ làmpu
 masiil
 sëgg
 yëreem
-hassaanu
 jëfandikoowul
 doomi
 ngëneeli
@@ -12487,7 +12460,6 @@ yéesal
 inda
 komisariyaa
 sinedin
-haa
 kajoor
 picci
 abii
@@ -12515,7 +12487,6 @@ nàlli
 geres
 cena
 feyal
-assyeriens
 bëtàddinam
 soqikoo
 létt
@@ -14294,9 +14265,7 @@ sàntos
 jullil
 yaroo
 jublug
-lille
 ëri
-hiisaa
 kurr
 sànjab
 ruuc
@@ -15484,7 +15453,6 @@ lenge
 wëyee
 xelñu
 jeexaati
-boer
 damaa
 ittewoo
 bilbaawo
@@ -15530,7 +15498,6 @@ yorum
 gayat
 xaliifatu
 manalagul
-yë
 seg
 bagaanug
 guwernëer
@@ -15540,8 +15507,8 @@ gaawaay
 wëñ
 fexe
 fawxa
-ngajógewoon
-duseldoef
+nga
+jógewoon
 ngoreefug
 nemmikuji
 siiwee
@@ -15623,7 +15590,6 @@ nisaab
 lewwiku
 lakkalaate
 xëccoog
-zaay
 birigaat
 màjj
 forox
@@ -15863,7 +15829,6 @@ cës
 sallim
 piriwe
 baaramam
-hujjraat
 waññ
 deel
 yenu
@@ -16500,7 +16465,6 @@ bës
 tàkkaat
 baqata
 suufeeloom
-merengue
 marwaq
 xëyub
 roti
@@ -18438,7 +18402,6 @@ taalal
 soos
 sàkkukatu
 sëqëtoowee
-haqiiqa
 tuflil
 leem
 soble
@@ -20143,7 +20106,6 @@ kaawteef
 dana
 muslaay
 fegu
-halawi
 xaarul
 bajaan
 ndeem
@@ -20356,7 +20318,6 @@ suduur
 mànkeg
 noti
 këyitug
-dien
 déedét
 dojoram
 alag
@@ -20474,7 +20435,6 @@ reefaan
 mbéefeer
 mbootaay
 géwal
-hal
 petorool
 béntéñe
 defaguñu
@@ -20675,7 +20635,6 @@ parewul
 yewweeku
 barilee
 moxamet
-origui
 ãaselig
 delloolu
 jiixa
@@ -20710,7 +20669,6 @@ ngumeen
 yégee
 liyaxbuduunii
 gëstoo
-habbasa
 noteelu
 apanews
 aajowoowul
@@ -21604,7 +21562,6 @@ kiñaan
 bàmmeel
 garabi
 tefes
-huwal
 ticc
 tasoo
 maku
@@ -22298,7 +22255,6 @@ paan
 jiggéen
 sippi
 wuyuwul
-hamsatin
 wuutewuñu
 labali
 përiye
@@ -23350,7 +23306,7 @@ yéglekaayu
 ñeexum
 jitoo
 ngoonug
-ñetteeii
+ñetteeli
 kéemaane
 xadamiku
 ixsaan
@@ -23526,7 +23482,6 @@ xees
 yitteem
 séddaleg
 bakaas
-vlle
 lëkkëloo
 mbiccum
 kàndaama
@@ -23938,7 +23893,6 @@ lawbe
 tabaxu
 xurr
 tàmbalewaat
-reims
 naafeq
 riir
 njariñ
@@ -24189,7 +24143,6 @@ amuñu
 luyaasu
 kilifaam
 caagéen
-hãa
 laaji
 méeri
 waxtaanuñu
@@ -24485,7 +24438,6 @@ nigéria
 desub
 delul
 doofloo
-habiib
 maytu
 génnaat
 geenub
@@ -24600,8 +24552,6 @@ sàjj
 baayam
 dëj
 liggéekatam
-uy
-hab
 fayam
 tëgginu
 tolof
@@ -24830,7 +24780,6 @@ ilaal
 ceetaan
 tasleen
 jëwriñu
-zaa
 pexey
 gaana
 njàmbal
@@ -24914,7 +24863,6 @@ raasi
 jàppalekat
 saytoo
 bawoon
-halan
 leemtoo
 matlewul
 makrem
@@ -24979,7 +24927,6 @@ nala
 jiitaleef
 njubub
 yéwénee
-hudaa
 xalifa
 bërit
 ndajeem

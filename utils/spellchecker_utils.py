@@ -13,7 +13,8 @@ Contents:
     insert_letter,
     edit_one_letter,
     edit_n_letters,
-    get_suggestions
+    get_suggestions,
+    add_word_to_lexicon
 """
 
 import re
@@ -302,7 +303,7 @@ def get_suggestions(word: str, probs: dict, vocab: set,
     return n_best
 
 
-def add_word_to_lexc(word: str):
+def add_word_to_lexicon(word: str):
     """
         Add a given word to the wolof lexicon
         Parameters
