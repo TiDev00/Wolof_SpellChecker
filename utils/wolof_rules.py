@@ -22,6 +22,7 @@ prenasalized_wolof_letters = {'mp', 'nt', 'nc', 'nk', 'nq', 'mb', 'nd', 'nj', 'n
 strong_wolof_consonants = gemine_wolof_letters | prenasalized_wolof_letters
 short_wolof_vowels = {'a', 'à', 'ã', 'i', 'o', 'ó', 'u', 'e', 'é', 'ë'}
 long_wolof_vowels = {'ii', 'uu', 'éé', 'óó', 'ee', 'aa'}
+wolof_vowels = short_wolof_vowels | long_wolof_vowels
 
 
 def fr_en_checking(word: str) -> bool:
@@ -55,10 +56,12 @@ def compound_sound_transformation(word: str) -> str:
             word: str
                 new word written in wolof by taking into account wolof rules
     """
-    fr_wol_maps = {'tion': 'siyoŋ', 'ouss': 'us', 'ieu': 'iyë', 'ouille': 'uy', 'ou': 'u', 'gn': 'ñ', 'kh': 'x',
-                'tch': 'c', 'oeu': 'ë', 'eu': 'ë', 'aille': 'ay', 'eille': 'ey', 'eau': 'óo', 'au': 'ó',
-                'ienne': 'iyen', 'oi': 'uwa', 'ui': 'uwi', 'gue': 'ge', 'gui': 'gi', 'gua': 'ga',
-                'v': 'w', 'z': 's', 'h': ''}
+    fr_wol_maps = {'ouille': 'uy', 'aille': 'ay', 'eille': 'ey', 'ienne': 'iyen', 'tion': 'siyoŋ', 'ouss': 'us',
+                   'tchi': 'c', 'tch': 'c', 'thi': 'c', 'cie': 'si', 'oeu': 'ë', 'eau': 'óo', 'gui': 'gi', 'guo': 'go',
+                   'gua': 'ga', 'gue': 'ge', 'diu': 'ju', 'dio': 'jo', 'dia': 'ja', 'die': 'je', 'dj': 'j',
+                   'niu': 'ñu', 'nio': 'ño', 'nia': 'ña', 'nie': 'ñe', 'iou': 'iwu', 'kh': 'x', 'gn': 'ñ', 'th': 'c',
+                   'ou': 'u', 'ch': 's', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwa', 'ph': 'f', 'ui': 'uwi',
+                   'v': 'w', 'z': 's', 'h': ''}
 
     word = word.lower()
     for k, v in fr_wol_maps.items():
