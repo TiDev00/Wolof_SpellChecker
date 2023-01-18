@@ -60,8 +60,8 @@ def compound_sound_transformation(word: str) -> str:
                    'tchi': 'c', 'tch': 'c', 'thi': 'c', 'cie': 'si', 'oeu': 'ë', 'eau': 'óo', 'gui': 'gi', 'guo': 'go',
                    'gua': 'ga', 'gue': 'ge', 'diu': 'ju', 'dio': 'jo', 'dia': 'ja', 'die': 'je', 'dj': 'j',
                    'niu': 'ñu', 'nio': 'ño', 'nia': 'ña', 'nie': 'ñe', 'iou': 'iwu', 'kh': 'x', 'gn': 'ñ', 'th': 'c',
-                   'ou': 'u', 'ch': 's', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwa', 'ph': 'f', 'ui': 'uwi',
-                   'v': 'w', 'z': 's', 'h': ''}
+                   'ou': 'u', 'ch': 's', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwaa', 'ph': 'f', 'ui': 'uwii',
+                   'ss': 's', 'v': 'w', 'z': 's', 'h': ''}
 
     word = word.lower()
     for k, v in fr_wol_maps.items():

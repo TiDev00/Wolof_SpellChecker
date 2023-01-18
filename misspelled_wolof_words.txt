@@ -1,9 +1,9 @@
 yàlla: yalla yala yàla
-xool: khool
-xol: khol
+xool: khool khoole
+xol: khol khole
 senegaal: sénégal senegal
-ndakaaru: dakar
-mbaam: mbam
+ndakaaru: dakar dakaar
+mbaam: mbam mbame
 xaar: khare
 xar: khar kharr
 ñu: gnou niou
@@ -105,7 +105,7 @@ bànneex: bannekh banekh bàneex banneekh
 baadoola: badola baadola badoola
 baadoolo: badolo baadolo badoolo
 bàmba: bamba
-bañ: bagn bagne
+bañ: bagn bagne begn
 baña: bagna
 bant: bante
 barsàq: barsakh barsàkh
@@ -130,24 +130,71 @@ bëmëx: bamakh beumeukh boumakh boumeukh bëmëkh
 bëñ: beugn begn bëgn
 bëccëg: bëcëg beuthieug beutchieug beuthieuk beutchieuk
 bëre: beure beuré
-
+bës: beus beuss
+bët: beut
+bëtt: beutt
+bijjaaw: bidiaw bédiaw bijaw bijjaw bijaaw
+billaay: bilay bilaye billaye billay bilaay
+biddanti: bidanti
+bisaab: bissap bisap bisab
+bitig: bitik
+boxom: bokhom bokhome
+boole: bole bolé boolé
+bos: boss
+bokk: bok
+boobu: bobou boobou bobu
+bóoli: boli booli
+boog: bog
+butéel: boutel bouteil butel butél
+mbugël: mbougel mbougeul mbougueul mbugeul mbugueul mbougël
+bukki: buki
+buy: bouy bouye
+buuj: boudj boudje
+buum: boum bouum boume bum
+bundxataal: boundkhatal boundkhataal boundkhatale boundkhatale
 bóom: boom bom
 buur: bur
 buux: boukh
 caga: thiaga tchiaga
 caw: thiaw
-cat: thiat thiatt
+cat: thiat thiatt tchiat tchiatt
+caat: thiaat tchiaat
 cant: thiant thiante tchiant tchiante
+caŋ: thiang tchiang tchang
 capp: thiap thiapp
 carax: thiarakh thiarakhe
+cax: thiakh tchiakh
+caax: thiaakh tchiaakh
+caaxaan: thiakhan thiakhane tchiakhan tchiakhane caxaan caaxan caxan
+càmmiñ: thiamign thiamigne tchamign tchamigne tchiamign tchiamigne
+càmmooñ: thiamogn thiamogne tchiamogn tchiamogn tchamogn tchamogne
+càngaay: thiangaay thiangay thiangaaye thiangaye tchiangay tchiangaye
+ceel: thiel thielle tchiel
+caabi: thiabi cabi
+caaf: thiaf
+caas: thiaas
+cere: thiéré thiere
+céy: thiey tchiey thieuy tchieuy
+céeli: thieli thiéli tchieli tchiéli ceeli
+cëppeelu: thieupélou thieupelou tchieupelou tchieupélou
+coggal: thiogal thioggal thioggale thiogal thiogale
+cokeer: thioker thiokker coker
+coro: thioro tchioro
+colin: thioline thiolin
+como: thiomo tchiomo
+cof: thiof tchiof
 cofeel: thiofel thioffel tchiofel
 ceeb: thiép tchiep thiep tiéb thieb tchieb
-coroxaan: thiorokhan
-coof: thiof tchiof
+coroxaan: thiorokhan thiorokhane
+coof: thioof tchioof
 coppati: thiopati thioppati tchiopati
 coow: thiow tchiow
 coqtaan: thiokotane thiokhotane tchiokotane tchiokhotane thiokotan thiokhotan tchiokotan tchiokhotan
 cuuraay: thiouray tchiouray thiouraye tchiouraye
+cuuj: thiouth tchiouth thiouch tioutch thioudj tchioudj tioudj
+cuune: tiouné thiouné tchiouné
+cumb: thioumb tchioumb
+cunwaar: tchinoir thinoir tchinoire thinoire
 jaay: diay
 dajale: dadiale
 dellusi: delousi
@@ -205,152 +252,3 @@ gàllaaj: galadj galladj gàladj gàlladj
 gàddaay: gaday gadday gadaay
 gàmmu: gamou gamu gammou
 gàddu: gaddou gadou
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
