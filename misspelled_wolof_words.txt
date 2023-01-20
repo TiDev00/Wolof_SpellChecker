@@ -197,10 +197,42 @@ cumb: thioumb tchioumb
 cunwaar: tchinoir thinoir tchinoire thinoire
 jaay: diay
 dajale: dadiale
-dellusi: delousi
+dajaloo: dadialoo
+daje: dadie dadié
+damu: damou
+daraja: daradia daradja
+ditax: ditakh
+datax: datax
+dàmp: damp
+dàjji: dadji
+dellusi: delousi dellousi delusi
 dégg: deg degg
 dëpp: deup deupp
-doxantu: dokhantou
+daagu: daagou dagou
+daaj: daadj
+daanu: daanou danou
+doxantu: dokhantou dokhanetou
+des: dess
+dem: demm
+denc: dintchieu dinthieu dintch
+dénk: denk
+dékk: dekk
+démb: demb
+dëgg: deug dëg
+dëggaate: deuguaate deugaate deugguaate deuggaate
+dër: deur
+dënn: deun dën
+dërkiis: deurkis deurkiis dërkis
+digal: digual
+dijj: didj
+dippite: dipite
+direeku: direekou direkou direku
+diriku: dirikou
+diiwan: diwan
+doj: dodj
+domodaa: domoda
+dox: dokh
+dooleel: dolel doleel doleel
 doxaan: dokhane
 dukkat: dukat
 duruus: drouss
@@ -237,13 +269,18 @@ féey: féy fey
 fobeere: fobere
 fuuta: fouta
 cees: thies thiès
-fuqle: fokhale foukhale fokale foukale
+faxaj: fakhaj fakhadj
 fóon: fone fon foon
 fukk: fouk foukk
 fulla: foula foulla
 futti: fouti foutti
 fuddën: foudeun fouddeun
 futbal: football futball
+fàcc: fatchieu fathieu
+fekk: fek
+faayda: fayda
+fecc: fethieu fetchieu fetch
+feneen: fenene fenen
 gajj: gadj gadji
 galaxndiku: galakhndikou galakhndiku
 gàcce: gacce gace gathié gatchié
@@ -251,4 +288,4 @@ gàllankoor: gallankoor gallankor galankor galankoor gàlankoor gàlankor
 gàllaaj: galadj galladj gàladj gàlladj
 gàddaay: gaday gadday gadaay
 gàmmu: gamou gamu gammou
-gàddu: gaddou gadou
+gàddu: gaddou

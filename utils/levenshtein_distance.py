@@ -10,7 +10,6 @@ Contents:
 """
 
 from Levenshtein import distance
-import time
 
 
 def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
@@ -117,5 +116,4 @@ def lib_levenshtein(source: str, target: str) -> int:
                 Distance required to convert a source string to target string
     """
 
-    return distance(source, target)
-
+    return distance(source, target, weights=(1, 1, 2))
