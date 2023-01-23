@@ -2,7 +2,6 @@ yàlla: yalla yala yàla
 xool: khool khoole
 xol: khol khole
 senegaal: sénégal senegal
-ndakaaru: dakar dakaar
 mbaam: mbam mbame
 xaar: khare
 xar: khar kharr
@@ -13,7 +12,7 @@ beneen: benene
 yoonu: yonou yoonou
 ndeysaan: ndeyssane ndeysan ndeysane ndeyssan
 ñi: gni
-yërmande: yeurmandè yeurmande
+yërmande: yeurmandè yeurmande yeurmandé
 gëj: guedj gueudj geudj
 dëkk: deuk deukk
 dama: deuma dam
@@ -22,7 +21,7 @@ xadiis: khadis khadiis qadiis xadis
 réew: réw rew
 dañu: deniou daniou
 génn: guene guen genn
-mbedd: med mbed mbéd
+mbedd: mbed mbéd
 forox: forokh
 caaya: thiaya
 bëgg: beug beugg beugue
@@ -32,7 +31,7 @@ kër: keur keurr kërr
 bu: bou
 xale: khale khalé xalé
 lépp: lepp lep lép
-xaalis: khalis khaalis xaliis xalis
+xaalis: khalis khaalis xalis
 seriñ: serign serigne
 bari: bary
 bes: bess
@@ -68,7 +67,7 @@ aréen: arene
 asaka: azaka
 aspirin: aspirine
 asamaan: asamaane asamane asaman
-àggale: aggale
+àggale: aggale aggalé
 àbb: abb
 àll: ale
 àddu: addou àdu
@@ -76,17 +75,17 @@ asamaan: asamaane asamane asaman
 àllarba: allarba alarba àlarba
 àlluwa: àllouwa àlouwa alouwa allouwa
 ànd: and
-àllaaxira: alaxira alakhira àllaxira àllaakhira àlaaxira allakhira àlakhira àlaakhira
+àllaaxira: alaaxira alaakhira àllaxira àllaakhira àlaaxira allakhira àlakhira àlaakhira
 àjjuma: adiouma ajuma àjuma
-àjjana: adiana aljana ajana àjana ajjana
+àjjana: aljana àjana ajjana
 alxemes: alkhames alkhemes alxames
 alxuraan: alkhourane alkhouran alxuraane alxuran alxurane
 alamaan: alamaane
 àndadoo: andado andadoo àndado
 àntu: antou antu
 àppal: appal
-àtte: até atté atte ate àte
-àttaaya: ataya attaya ataaya attaaya àtaya àttaya
+àtte: atté atte ate àte
+àttaaya: ataya attaaya àttaya
 amal: amale
 añ: agn agne
 ameel: amél amel
@@ -110,24 +109,24 @@ baña: bagna
 bant: bante
 barsàq: barsakh barsàkh
 baram: barame
-batañse: batagnse batagnsa
+batañse: batagnse batagnsa batagnsé
 baxal: bakhal
-bàjjan: badiane badian badjane badjan bajjan
-bàjjen: badiene badien badjene badjen bajjen
+bàjjan: badiane badjane badjan bajjan
+bàjjen: badiene badjene badjen bajjen
 baxaw: bakhaw
-bàcc: bathie bathieu batchie batchieu batch bath
-bàmmeel: bamel bameel bammel bammeel bàmel bàmeel bàmmel
+bàcc: bathie bathieu batchie batchieu
+bàmmeel: bamel bameel bammel bammeel bàmeel bàmmel
 bàyyima: bayyima bayima bàyima
 bàyyi: bayi bayyi bàyi
 baamtu: bamtu
 baamu: bamu
 baax: bakh
-baaraam: baram baaram baraam barame baarame baraame
+baaraam: baram baaram baraam baarame baraame
 bég: beg begg
-béjjén: bedieun bedjen bedjen bédjen bédjeun béjén
+béjjén: bédieun bédjen bédjeun béjén
 bépp: bepp bep
 bëmëx: bamakh beumeukh boumakh boumeukh bëmëkh
-bëñ: beugn begn bëgn
+bëñ: beugn bëgn
 bëccëg: bëcëg beuthieug beutchieug beuthieuk beutchieuk
 bëre: beure beuré
 bës: beus beuss
@@ -157,7 +156,7 @@ buur: bur
 buux: boukh
 caga: thiaga tchiaga
 caw: thiaw
-cat: thiat thiatt tchiat tchiatt
+cat: thiat thiatt tchiat
 caat: thiaat tchiaat
 cant: thiant thiante tchiant tchiante
 caŋ: thiang tchiang tchang
@@ -165,10 +164,10 @@ capp: thiap thiapp
 carax: thiarakh thiarakhe
 cax: thiakh tchiakh
 caax: thiaakh tchiaakh
-caaxaan: thiakhan thiakhane tchiakhan tchiakhane caxaan caaxan caxan
-càmmiñ: thiamign thiamigne tchamign tchamigne tchiamign tchiamigne
-càmmooñ: thiamogn thiamogne tchiamogn tchiamogn tchamogn tchamogne
-càngaay: thiangaay thiangay thiangaaye thiangaye tchiangay tchiangaye
+caaxaan: thiakhan thiakhane caxaan caaxan caxan
+càmmiñ: thiamign thiamigne tchamign tchamigne tchiamign
+càmmooñ: thiamogn thiamogne
+càngaay: thiangaay thiangay thiangaaye thiangaye
 ceel: thiel thielle tchiel
 caabi: thiabi cabi
 caaf: thiaf
@@ -176,7 +175,7 @@ caas: thiaas
 cere: thiéré thiere
 céy: thiey tchiey thieuy tchieuy
 céeli: thieli thiéli tchieli tchiéli ceeli
-cëppeelu: thieupélou thieupelou tchieupelou tchieupélou
+cëppeelu: thieupelou thieuppelou tchieupelou tchieuppelou thieupeelou tchieupeelou cëpeelu cëppelu
 coggal: thiogal thioggal thioggale thiogal thiogale
 cokeer: thioker thiokker coker
 coro: thioro tchioro
@@ -184,21 +183,21 @@ colin: thioline thiolin
 como: thiomo tchiomo
 cof: thiof tchiof
 cofeel: thiofel thioffel tchiofel
-ceeb: thiép tchiep thiep tiéb thieb tchieb
+ceeb: thiép tchiep thiep thieb tchieb
+cees: thies
 coroxaan: thiorokhan thiorokhane
 coof: thioof tchioof
 coppati: thiopati thioppati tchiopati
 coow: thiow tchiow
-coqtaan: thiokotane thiokhotane tchiokotane tchiokhotane thiokotan thiokhotan tchiokotan tchiokhotan
-cuuraay: thiouray tchiouray thiouraye tchiouraye
-cuuj: thiouth tchiouth thiouch tioutch thioudj tchioudj tioudj
-cuune: tiouné thiouné tchiouné
+cuuraay: thiouray tchiouray curay cuuray curaay
+cuuj: thioutch thioudj tchioudj cuj
+cuune: thiouné tchiouné cune
 cumb: thioumb tchioumb
 cunwaar: tchinoir thinoir tchinoire thinoire
 jaay: diay
-dajale: dadiale
+dajale: dadiale dadialé dadjalé
 dajaloo: dadialoo
-daje: dadie dadié
+daje: dadie dadié dadjé
 damu: damou
 daraja: daradia daradja
 ditax: ditakh
@@ -219,14 +218,14 @@ dénk: denk
 dékk: dekk
 démb: demb
 dëgg: deug dëg
-dëggaate: deuguaate deugaate deugguaate deuggaate
+dëggaate: deuguaate deugaate deugguaate deuggaate deuggaaté deugaaté
 dër: deur
 dënn: deun dën
 dërkiis: deurkis deurkiis dërkis
 digal: digual
 dijj: didj
-dippite: dipite
-direeku: direekou direkou direku
+dippite: dipite dipité
+direeku: direekou direkou
 diriku: dirikou
 diiwan: diwan
 doj: dodj
@@ -235,13 +234,12 @@ dox: dokh
 dooleel: dolel doleel doleel
 doxaan: dokhane
 dukkat: dukat
-duruus: drouss
+duruus: dourous dourouss durus
 doxat: dokhat dokhate
 doxal: dokhale dokhal
 doom: dom
-door: dor
 dund: dound
-dunde: dounde
+dunde: dounde doundé
 dundal: doundal doundale
 dunq: dounkh
 ëf: euf euff
@@ -258,34 +256,471 @@ farmasi: pharmacie
 cosaan: thiossan thiossane
 cokk: thiokh
 faxas: fakhas fakhass
-faale: fale
+faale: fale falé faalé
 fàttaliku: fattéliku fatteliku
 fettax: fettakh fetakh
-fexe: fekhe
+fexe: fekhe fekhé
 feyyu: fayu fayyu
 feebar: fébar febar
+feeñ: fegn feign
+feeñal: fegnal feignal
 fëgg: feug feugg
+féex: fekh feekh fex
+feesal: fesal
+féexlu: fekhlou fékhlou
 féey: féy fey
-fobeere: fobere
+fépp: fepp fep
+fobeere: fobere foberé
 fuuta: fouta
-cees: thies thiès
 faxaj: fakhaj fakhadj
 fóon: fone fon foon
 fukk: fouk foukk
 fulla: foula foulla
 futti: fouti foutti
 fuddën: foudeun fouddeun
-futbal: football futball
+fuddu: foudou fouddou
+futbal: futball fubal
 fàcc: fatchieu fathieu
 fekk: fek
 faayda: fayda
 fecc: fethieu fetchieu fetch
 feneen: fenene fenen
+fenn: fen
+fëll: feul
+fënëx: feuneukh fënex
 gajj: gadj gadji
 galaxndiku: galakhndikou galakhndiku
 gàcce: gacce gace gathié gatchié
 gàllankoor: gallankoor gallankor galankor galankoor gàlankoor gàlankor
 gàllaaj: galadj galladj gàladj gàlladj
 gàddaay: gaday gadday gadaay
-gàmmu: gamou gamu gammou
+gàmmu: gamou gàmu gàmmou
 gàddu: gaddou
+ganaar: ganar guanar guanaar
+ginaar: ginar guinar guinaar
+gannaaw: gannaw
+ginnaaw: ginaw ginaaw ginnaw guinaw guinaaw guinnaw
+gànnaay: gannaay ganay
+gàncax: gànthiakh gàntchiakh ganthiakh gantchiakh
+gaal: guale gual
+gaañ: gagn gagne
+gaawantu: gawantou gaawantou gawantu
+geen: guen guene
+gémmiñ: guemign guémign guémigne
+gétt: guett guétt
+géwal: guéwal
+géwél: guéwél
+géej: guedj guédj
+géex: guékh
+gëdd: gueudd
+gërëm: gueureum gueureume
+gëléem: gueulem gueulém
+giléem: guilem guilém
+gis: guiss
+gisaane: guissane guissaane guissané guisané
+gone: guone goné guoné
+góor: goor
+gudd: goudd goud
+guddaay: goudday gouddaay gouday goudaay
+guro: gouro
+guddi: goudi gouddi
+guy: gouy
+guux: goukh
+ibliis: iblis
+iñaan: ignane ignaan ignaane
+jabar: diabar diabare
+jaboot: diaboot diabot
+jafandiku: diafandikou djafandikou
+jafandu: diafandou djafandou
+jafe: diafe djafe diafé djafé
+jafte: diafte djafte diafté djafté
+jag: djag diag
+jamono: diamono djamono
+jal: dial
+jaloore: dialore djalore dialoré djaloré
+jam: diam
+jamaale: diamale djamale diamalé djamalé
+jamu: diamu djamu
+jamp: diamp djamp
+jamb: diamb djamb
+jaraaf: diaraf djaraf diaraaf djaraaf
+janax: dianakh djanakh
+jinax: djinakh
+jank: diank djank
+jant: diant
+jarbaat: diarbaat djarbaat
+jataay: diataay
+jaxatu: diakhatou djakhatou
+jàdd: diadd
+jàkka: diakka
+jàkkaarloo: diakarlo jàkaarlo
+jàll: dialeu
+jàllaabi: djallabi jallaabi
+jàllaaba: djallaba jallaaba
+jàng: diang
+jàngale: diangale djangale diangalé djangalé
+jàngal: diangal djangal
+jàmm: jamm diam
+jàngu: jangu djangu djangou diangou
+jàpp: diapp djapp
+jànni: djanni dianni
+jàppante: diapante diappante djappante diapanté djapanté
+jàppoo: diappo djappo
+jaam: diaam
+jaambur: diambour djambour
+jaan: diaan
+jaadu: diaadou djaadou
+jaal: diaal
+jaar: djaar diaar
+jaaxle: diakhle djakhle diakhlé djakhlé
+jaaraama: diaarama djaarama
+jaaro: diaaro
+jege: diegue diegué djegué
+jaawale: diawale djawale diawalé djawalé
+jaaxal: diaakhal djaakhal
+jekku: djekkou diekkou
+jaaxaan: diakhaan djakhaan
+jékki: diekki djekki
+jébbal: diebbal djebbal
+jéppi: dieppi djeppi
+jéggi: diégui djégui djéggi
+jéggal: diégual djéggal
+jëkkante: dieukkante dieukante djeukkante djeukante dieukanté djeukanté
+jëm: dieum
+jën: dieun
+jënd: dieund
+jinne: djinne djiné djinné
+jiba: djiba
+jigéen: djiguen djigen djiguén
+jiiñ: djign djiign
+jiitu: djitou
+jikko: djikko
+joggi: djogi
+jomb: diomb djomb
+jolof: djolof
+jommal: diommal djommal
+jongama: diongama djongama dionguama djonguama
+jommi: djommi diommi
+jot: diot
+joolaa: diola djola diolaa djolaa dioola djoola
+joxoñ: diokhogn djokhogn
+jooy: diooy djooy
+juddu: djoudou dioudou
+jukk: dioukk djoukk
+jubal: dioubal djoubal
+jukki: dioukki
+juboo: djouboo diouboo
+jubb: dioub djoubb
+jur: diour djour
+juróom: diourom djourom juroom
+jumaa: jumah jumaah dioumaa djumaa
+kaña: kagna
+kañ: kagn
+kañaan: kagnan kagnaan
+kàllaama: kallaama kalaama
+kàddu: kaddou kaddu
+kàttan: kattan kattane
+kaarite: karité kaarité
+keccax: kethiakh ketchiakh
+keneen: kenene kenen
+këddë: keudd
+këf: keuf
+këmëx: keumeukh
+këriñ: keurign
+kolooj: kolodj
+kontaan: contane contaan
+kooku: kokou kookou
+kóllëre: kolleuré koleuré
+kubéer: koubeer kouber
+kóom: koom
+kurél: kourel kurel
+kurfeñ: kourfegn
+kurpeñ: kourpegn
+kurus: kourouss kourous
+lafañ: lafagn lafagne
+langaamu: langaamou langamou
+lañset: lagnset
+lawbe: laobé
+lax: lakh
+laxas: lakhas lakhass
+làmmiñ: lammign lammigne
+lànk: lank
+laabiir: laabir
+laabaan: laabaane laabane
+laax: laakh
+laajte: ladjté laadjté
+lex: lekh
+lébu: lébou
+leeral: leral
+létt: lett
+léeb: léb
+lëf: leuf
+lëmës: leumeus leumeuss
+lëjal: leudjal
+lëndëm: leundeum
+lëkkale: leukkalé leukalé
+lënbët: leugnbeutt leugnbeut
+limoŋ: limon
+lingeer: linguere linguère
+luxus: loukhous loukhouss lukhus lukhuss lukhous lukhouss
+luxuskat: loukhouskat loukhousskat lukhuskat lukhusskat lukhouskat lukhousskat
+luye: luwe luwé
+lunét: lunet lunette
+macc: mathie matchie
+maraakiis: marakis maraakis marakiis maraakiss
+maxtume: makhtoum makhtoume
+maslaa: masla
+mayonees: mayones
+màbb: mabb
+màgg: magg
+màggal: magal maggal
+màggat: maguat
+màgget: maguet
+màkk: mak makk
+màndarin: mandarine mandarin
+màndi: mandi
+màngo: mango
+màrsandiis: marsandis marsandiis
+màrse: marse marsé
+màrto: marto
+màqaama: maqama maqaama
+màndarga: mandarga
+màndal: mandal mandale
+màtt: matt
+màmm: mamm
+mànkoo: manko mankoo
+maandu: mandu
+màttatu: mattatu
+maandute: mandute manduté
+màttu: mattu
+maafe: mafé maafé
+maasale: maasalé
+maaxàllaa: makhala maakhalla maakhallah
+melax: melakh
+melokaan: melokane melokaane
+mees: messe
+meew: méw
+misaal: misal
+miskin: miskine
+miskit: miskite
+mottali: motali
+moomeel: moomel
+mooñ: moogne moogn
+muj: mudj
+muñ: mugn
+muslaay: mouslaay mouslay mouslaye
+muslu: mouslou
+muraake: muraaké muraké
+muucu: mouthiou moutchiou
+musóor: moussor mousor moussore mousore musoor
+musiba: moussiba mousiba
+muskàllaf: mouskalaf muskalaf muskàlaf
+muuñ: mougn muugn
+muus: mouss mous
+mbàpp: mbapp
+mbas: mbass
+mbaal: mbale mbaale
+mbellax: mbelakh mbellakh
+mbetteel: mbettel
+mbégte: mbegte mbegté
+mbej: mbedj
+mbege: mbégué
+mbëggeel: mbeuguél mbeuguel mbeugueel
+mbër: mbeur
+mbonaat: mbonat mbonate
+mbote: mboté
+mbëw: mbeuw
+mbëtt: mbeutt
+mbooloo: mbolo
+mbootaay: mbotaye mbootay mbootaye mbootaaye
+mbindaan: mbindane mbindaane mbindan
+mbindeef: mbindéf mbindéef
+mbóot: mboot
+mbuur: mbour
+mburaake: mbouraké mbouraaké
+mburu: mbourou
+mbuus: mbouss mbous
+nangu: nangou
+nataal: natal
+naxante: nakhanté
+naxasaxandaŋ: nakhasakhadaŋ
+nattu: nattou
+nàcc: natch
+ñàkk: niakk gnakk gnak
+nàmp: namp
+nàmpal: nampal
+nàmptal: namptal
+naagu: naagou
+nàndal: nandal
+nàngam: nangam
+nàññ: nagn naññ
+naaj: naadj
+naaje: naadjé nadjé
+naan: nane
+naax: naakh
+naataange: naatangé naataangé
+néew: néw
+nijaay: nidiay nidiaye nidjay nidjaye
+nëxit: neukhit neukhite
+nëb: neub neup
+nëbb: neubb
+nëgëni: neugeuni
+nërméelu: neurmeelou neurmelou neurmélou
+niru: nirou
+nuru: nourou
+nëx: neukh
+nokkos: nokos
+noppalu: nopalou nopalu
+noppi: nopi
+noggatu: nogatou nogatu
+noflaay: noflay noflaye
+nuroo: nouro
+nuroole: niroole nirole nourole nouroole nirolé nouroolé
+noonu: nonou noonou nonu
+nuyoo: nouyo nouyoo
+nuyu: nouyou
+ndaje: ndadié ndadjé
+ndaxam: ndakham
+ndaxte: ndakhté ndakhte
+ndànk: ndank nank
+ndékki: ndekki ndéki
+ndeyjoor: ndeydior ndeydjor
+ndejoor: ndedior ndedjor
+ndënd: ndeund
+ndëpp: ndeup ndeupp
+ndobin: ndobine
+ndigal: ndigale
+ndokeel: ndokél
+ndóol: ndol ndole
+ndongo: nongo
+ngande: ngandé
+ngëm: ngeum
+ngërëm: ngeureum
+ngànt: ngant
+ngénte: ngente
+ngooñ: ngogn ngoogn
+ngurbaan: ngourban ngourbane
+njaboot: ndiabot ndjabot ndiaboot ndjaboot
+njariñ: ndiarign ndjarign
+njaxas: ndiakhas ndjakhas niakhas njakhas
+njaago: ndiago ndjago
+njaxlaf: ndiakhlaf ndjakhlaf
+njaaloo: ndialo ndjalo
+njaambur: ndiambour ndjambour
+njàmpe: njampe ndiampé ndjampé
+njàpp: njapp
+njaaréem: ndiarem
+njaaxum: ndiakhoum ndjakhoum njaxum
+njiit: njit
+njoganal: ndioganal ndjoganal
+njool: ndiol ndjol
+njomboor: ndiombor ndjombor
+njëlbéen: ndieulben ndieulbeen
+njulli: ndjuli
+njoowaan: ndiowaan ndioowan
+njuumte: ndioumté ndjoumté
+ñand: niand gnand
+ñagas: niagas gnagas
+ñandaxit: niandakhit gnandakhit
+ñandaxiit: niandakhiit gnandakhiit
+ñàkkante: niakkanté niakanté gnakanté gnakkanté
+ñàng: niang gnàng
+ñaw: gnaw niaw
+ñànkatan: gnankatane niankatane
+ñànkataŋ: gnankataŋ niankataŋ
+ñatt: gnatt niatt
+ñett: gnett niett
+ñàmbi: gnambi niambi
+ñatteel: gnatteel niatteel ñattél niattél
+ñetteel: gnetteel nietteel ñettéel niettéel
+ñax: niakh gnakh
+ñàdd: gnàdd niadd
+ñaan: niaane gnaane
+ñaareel: niarel gnarel
+ñebbe: niébé gnébbé
+ñaas: niaas gnaas
+ñeme: niémé gnémé
+ñaata: niaata gnaata
+ñaaw: niaaw gnaaw
+ñeneen: nieneen gneneen gnenene nienene
+ñaawal: niawal gnawal
+ñaay: niaye niaaye
+ñetti: nietti gnetti
+ñeex: nieekh gneekh
+ñëw: nieuw
+ñeent: nieent gneent
+ñeenteel: nieentéel gneentéel nieentel gneentel
+ñibbi: gnibbi gnibi
+ñiimantu: gnimantou gniimantou
+ñooñu: gnognou nioniou
+ñoppati: gnopati niopati nioppati gnoppati
+ñoreeku: niorekou gnorekou
+ñoriku: niorikou gnorikou
+ñulug: niouloug gnouloug nioulouk gnoulouk
+ñuul: nioul gnoul
+ñori: gnori niori
+ommat: ommate omate
+omb: ombe
+óom: oom
+óbbëli: obeuli obbeuli
+paj: padj
+pajaas: padjas padjaas
+pañe: pagné
+parasool: parasole
+parax: parakh
+pare: paré
+palaas: palas
+palaat: palat palate
+pastéef: pasteef pastef
+pàdd: padd
+pataas: patas
+pàllax: pallakh
+pànk: pank
+pax: pakh
+pàcc: pàtch
+pàppa: pappa
+pàppaayo: papaayo
+pecc: petch
+peccargo: pethiargo petchiargo
+peccorgo: pethiorgo petchiorgo
+pegg: peg
+paaka: paka
+penku: penkou
+pentuur: peintur
+peñe: peigné
+petaar: petard
+pettaaw: petaw pettaw pétaw pétaaw
+pittaaw: pitaw pittaw pitaaw
+perkaal: perkal perkale
+pexe: pékhé pekhé
+peroŋ: peron
+pert: perte
+petax: petakh
+pitax: pitakh
+pénc: penc
+përëm: peureum peureume pereum
+péex: peekh péekh
+përngal: peurngal
+pël: peul
+picc: pitch pith
+pikin: pikine
+pënd: peund
+pëndax: peundakh
+pomaat: pomat
+pombiteer: pombiter
+pomp: pompe
+pompiye: pompier
+poñ: pogn
+poñe: pogné
+poñse: pognsé
+poroxndoll: porokhndoll porokhndol
+poobar: pobar
+pooj: poodj
+pukkuus: poukkous
+pullóox: poullokh
+puso: pouso pousso
+puudar: poudar
+puukare: poukaré
+puune: pouné
+puus: pouss pous
+rabax: rabakh

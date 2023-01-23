@@ -7,8 +7,8 @@ from utils.wolof_rules import *
 
 
 
-my_word = 'borvorm'
-probs = get_probs(get_count(word_extraction('wol_corpus.txt')))
-vocab = word_extraction('dico_wol.txt')
+my_word = 'ganay'
+probs = get_probs(get_count(word_extraction('lexicon2.txt')))
+vocab = word_extraction('lexicon2.txt')
 tmp_corrections = get_suggestions(my_word, probs, vocab, verbose=True)
 

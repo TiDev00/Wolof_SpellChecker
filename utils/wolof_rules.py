@@ -58,12 +58,20 @@ def compound_sound_transformation(word: str) -> str:
     """
     fr_wol_maps = {'ouille': 'uy', 'aille': 'ay', 'eille': 'ey', 'ienne': 'iyen', 'tion': 'siyoŋ', 'ouss': 'us',
                    'tchi': 'c', 'tch': 'c', 'thi': 'c', 'cie': 'si', 'oeu': 'ë', 'eau': 'óo', 'gui': 'gi', 'guo': 'go',
-                   'gua': 'ga', 'gue': 'ge', 'diu': 'ju', 'dio': 'jo', 'dia': 'ja', 'die': 'je', 'dj': 'j',
-                   'niu': 'ñu', 'nio': 'ño', 'nia': 'ña', 'nie': 'ñe', 'iou': 'iwu', 'kh': 'x', 'gn': 'ñ', 'th': 'c',
-                   'ou': 'u', 'ch': 's', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwaa', 'ph': 'f', 'ui': 'uwii',
-                   'ss': 's', 'v': 'w', 'z': 's', 'h': ''}
+                   'gua': 'ga', 'gue': 'ge', 'gué': 'gé', 'guè': 'gee', 'diu': 'ju', 'dio': 'jo', 'dia': 'ja',
+                   'die': 'je', 'ein': 'en', 'dj': 'j', 'niu': 'ñu', 'nio': 'ño', 'nia': 'ña', 'nie': 'ñe',
+                   'oix': 'uwaa', 'iou': 'iwu', 'ier': 'iye', 'kh': 'x', 'gn': 'ñ', 'th': 'c', 'ou': 'u',
+                   'ch': 's', 'ck': 'k', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwaa', 'ao': 'aw',
+                   'ph': 'f', 'ui': 'uwii', 'ss': 's', 'v': 'w', 'z': 's', 'h': ''}
 
     word = word.lower()
+
+    if word.endswith('ie'):
+        word = re.sub('ie', 'i', word)
+
+    if word.endswith('é'):
+        word = re.sub('é', 'e', word)
+
     for k, v in fr_wol_maps.items():
         word = re.sub(k, v, word)
 
