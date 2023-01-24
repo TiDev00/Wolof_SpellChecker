@@ -37,7 +37,7 @@ for exception in exceptions:
             lexicon.remove(word)
 
 print("Creating wolof lexicon file")
-with open('../wolof_lexicon.txt', 'w') as f:
+with open('../lexicon1.txt', 'w') as f:
     for word in lexicon:
         f.write(word.lower() + '\n')
 

@@ -312,7 +312,7 @@ def add_word_to_lexicon(word: str):
                 input that will be added to the wolof lexicon
     """
 
-    with open('../wolof_lexicon.txt', 'a') as f:
+    with open('../lexicon1.txt', 'a') as f:
         f.write("\n{0}".format(word))
     f.close()
 

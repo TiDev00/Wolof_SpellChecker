@@ -62,15 +62,13 @@ def compound_sound_transformation(word: str) -> str:
                    'die': 'je', 'ein': 'en', 'dj': 'j', 'niu': 'ñu', 'nio': 'ño', 'nia': 'ña', 'nie': 'ñe',
                    'oix': 'uwaa', 'iou': 'iwu', 'ier': 'iye', 'kh': 'x', 'gn': 'ñ', 'th': 'c', 'ou': 'u',
                    'ch': 's', 'ck': 'k', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwaa', 'ao': 'aw',
-                   'ph': 'f', 'ui': 'uwii', 'ss': 's', 'v': 'w', 'z': 's', 'h': ''}
+                   'ph': 'f', 'ui': 'uwii', 'ss': 's', 'è': 'ee', 'v': 'w', 'z': 's', 'h': ''}
 
     word = word.lower()
 
-    if word.endswith('ie'):
-        word = re.sub('ie', 'i', word)
+    word = re.sub('ie$', 'i', word)
 
-    if word.endswith('é'):
-        word = re.sub('é', 'e', word)
+    word = re.sub('é$', 'e', word)
 
     for k, v in fr_wol_maps.items():
         word = re.sub(k, v, word)
