@@ -1,7 +1,8 @@
 """
-spellchecker_utils
+naive_spellchecking
 -----
-Implementations for functions used by the autocorrector main module.
+A naive implementation of spellchecker generating every combination of letters for a given word and
+relying on frequency of words in given a text to sort suggestions.
 Contents:
     word_extraction,
     get_count,
@@ -12,9 +13,8 @@ Contents:
     replace_letter,
     insert_letter,
     edit_one_letter,
-    edit_n_letters,
-    get_suggestions,
-    add_word_to_lexicon
+    edit_two_letters,
+    get_suggestions
 """
 
 import re
@@ -95,6 +95,7 @@ def split_word(word: str) -> list:
             split_list: list
                 all possible strings obtained by splitting a given word
         """
+
     return [(word[:i], word[i:]) for i in range(len(word) + 1)]
 
 
@@ -303,16 +304,8 @@ def get_suggestions(word: str, probs: dict, vocab: set,
     return n_best
 
 
-def add_word_to_lexicon(word: str):
-    """
-        Add a given word to the wolof lexicon
-        Parameters
-        ----------
-            word: str
-                input that will be added to the wolof lexicon
-    """
-
-    with open('../lexicon1.txt', 'a') as f:
-        f.write("\n{0}".format(word))
-    f.close()
-
+if __name__ == '__main__':
+    my_word = str(input("Give a word to correct: "))
+    probs = get_probs(get_count(word_extraction('utils/lexicon.txt')))
+    vocab = word_extraction('utils/lexicon.txt')
+    print(get_suggestions(my_word, probs, vocab, verbose=False))

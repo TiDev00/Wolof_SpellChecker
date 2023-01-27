@@ -1004,7 +1004,6 @@ toogu: tooguou
 toxal: tokhal
 toxoñ: tokhogn
 tooñ: toogn
-tóol: tól
 tubaab: toubab toubaab tubab
 tudd: toudd
 tukki: toukki

@@ -1,15 +1,78 @@
 """
-levenshtein_distance
+levenshtein
 -----
-3 Functions that can be used to compute edit distance between 2 words.
-Library_levenshtein fastest followed by dynamic_levenshtein.
+The corrector class for suggesting words based on  weighted levenshtein edit distance and
+2 other functions that can be used to compute edit distance between 2 words.
 Contents:
+    Corrector class,
     naive_levenshtein,
     dynamic_levenshtein,
-    library_levenshtein
 """
 
-from Levenshtein import distance
+from utils.helper import *
+from utils.dictionary import Dictionary
+from utils.base import Base
+
+
+class Corrector(Base):
+
+    def __init__(self) -> None:
+        super(Corrector, self).__init__()
+
+    def get_suggestions(self, word: str, max_distance: int = 5) -> List[tuple]:
+        """
+            Get suggestions based on the edit-distance using the under dynamic programming approach
+            Parameters
+            ----------
+                word: str
+                    The given source word for suggesting indexed words
+                max_distance: int
+                    The maximum distance between the words indexed and the source word
+            Returns
+            ----------
+                suggestions: List[tuple]
+                    The word suggestions with their corresponding distances
+        """
+
+        processed_word = pre_process(word)
+
+        def search(dictionary_node: Dictionary, previous_row: list):
+            """
+                Search for the candidates in the given dictionary node's children
+            Parameters
+            ----------
+                dictionary_node: Dictionary
+                    The node in the Trie dictionary
+                previous_row: list
+                    The previous row in the dynamic-programming approach
+            """
+
+            for current_source_letter in dictionary_node.children:
+                current_row = [previous_row[0] + 1]
+
+                for i in range(1, len(processed_word) + 1):
+                    value = min(previous_row[i] + 1, current_row[i - 1] + 1, previous_row[i - 1] +
+                                replace_cost(current_source_letter, processed_word[i - 1]))
+                    current_row.append(value)
+
+                if (current_row[-1] <= max_distance and
+                        dictionary_node.children[current_source_letter].words_at_node is not None):
+
+                    for words in dictionary_node.children[current_source_letter].words_at_node:
+                        # noinspection PyTypeChecker
+                        suggestions.append((words, current_row[-1]))
+
+                if min(current_row) <= max_distance:
+                    search(dictionary_node.children[current_source_letter], current_row)
+
+        suggestions = []
+
+        first_row = range(0, len(processed_word) + 1)
+
+        # noinspection PyTypeChecker
+        search(self.dictionary, first_row)
+
+        return sort_list(suggestions)
 
 
 def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
@@ -72,7 +135,7 @@ def dynamic_levenshtein(source: str, target: str) -> int:
     length_src = len(source)
     length_trg = len(target)
 
-    # Create a computations_array array to memorize result of previous computations
+    # Create an array to memorize result of previous computations
     computations_array = [[0 for i in range(length_src + 1)] for j in range(2)]
 
     # Base condition when second String is empty then we remove all characters
@@ -97,23 +160,3 @@ def dynamic_levenshtein(source: str, target: str) -> int:
                                                             computations_array[(i - 1) % 2][j - 1])))
 
     return computations_array[length_trg % 2][length_src]
-
-
-def lib_levenshtein(source: str, target: str) -> int:
-    """
-        Computing edit distance using levenshtein library
-        Time complexity O(c)
-        Space complexity O(1)
-        Parameters
-        ----------
-            source: str
-                Source word to calculate minimum edit distance
-            target: str
-                Target word to calculate minimum edit distance
-        Returns
-        ----------
-            minimum_edit_distance: int
-                Distance required to convert a source string to target string
-    """
-
-    return distance(source, target, weights=(1, 1, 2))

@@ -37,7 +37,7 @@ def fr_en_checking(word: str) -> bool:
             checking_answer: bool
                 True if a word is in French or English dictionary
     """
-    if fr_lex.check(word.lower()) or en_lex.check(word.lower()):
+    if fr_lex.check(word) or en_lex.check(word):
         return True
     return False
 
@@ -66,7 +66,9 @@ def compound_sound_transformation(word: str) -> str:
 
     word = word.lower()
 
-    word = re.sub('ie$', 'i', word)
+    # if word do not end with cie replace ending ie by i
+    if not word.endswith('cie'):
+        word = re.sub('ie$', 'i', word)
 
     word = re.sub('é$', 'e', word)
 
@@ -88,6 +90,12 @@ def rules_validator(word: str) -> bool:
         correct_word: bool
             boolean which is True if the given word respects wolof writing rules
     """
+
+    word = word.lower()
+
+    if fr_en_checking(word):
+        return False
+
     # word cannot end with long consonants and long vowels at same time
     for gl in gemine_wolof_letters:
         for lv in long_wolof_vowels:
@@ -106,5 +114,3 @@ def rules_validator(word: str) -> bool:
             return False
 
     return True
-
-
