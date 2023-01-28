@@ -136,20 +136,8 @@ def suggestion_adequacy_wl(test_set: str, verbose: bool = True):
 
 
 if __name__ == '__main__':
-    # list_mots = []
-    # rep = []
-    # data = open('misspelled_wolof_words.txt', 'r')
-    # for item in data:
-    #     print(item.split(':')[0])
-    #     if item.split(':')[0] not in list_mots:
-    #         list_mots.append(item.split(':')[0])
-    #     else:
-    #         rep.append(item.split(':')[0])
-    # print(len(list_mots))
-    # print(rep)
 
+    suggestion_adequacy_wl('misspelled_wolof_words.txt')
 
-    # suggestion_adequacy_wl('misspelled_wolof_words.txt')
-
-    suggestion_adequacy_ns('misspelled_wolof_words.txt')
+    # suggestion_adequacy_ns('misspelled_wolof_words.txt')
 
