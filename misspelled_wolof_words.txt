@@ -1,5 +1,4 @@
 yàlla: yalla yala yàla
-xool: khool khoole
 xol: khol khole
 senegaal: sénégal senegal
 mbaam: mbam mbame
@@ -46,7 +45,6 @@ xamul: khamoul khamoule xamoul xamoule
 neex: nekh neekh neikh
 gën: gueune gueun
 dóor: dore door
-xorom: khorom khorome
 benn: ben bene
 yépp: yeup yepp yeupp yep yepp
 nekk: nek
@@ -276,6 +274,7 @@ fulla: foula foulla
 futti: fouti foutti
 fuddën: foudeun fouddeun
 fuddu: foudou fouddou
+fuqle: foukhalé foukhlé
 futbal: futball
 fàcc: fatchieu fathieu
 fekk: fek
@@ -1032,3 +1031,45 @@ umpaañ: oumpañ oumpaañ
 unk: ounk
 upp: oupp
 uppukaay: ouppoukay ouppoukaay ouppoukay
+waajur: wadjour waadjour wadiour waadiour
+waxambaane: wakhambané wakhambaané
+waxin: wakhine
+wextan: wekhtan wekhtane
+wisit: visite
+wujj: woudj
+wujje: woudié woudjé
+wurus: wourous wourouss
+wàkkirlu: wakkirlou wakirlou
+wéddi: weddi wédi
+wàcce: wathié watchié
+wéttali: wettali
+wërsëg: weurseug
+xabaar: xabar
+xaaxam: khaakham khakham
+xalima: khalima
+xarala: kharala
+xaritoo: kharitoo kharito
+xawaare: khawaré khawaaré xaware
+xataraayu: khatarayou khataraayou xatarayu xatarayou
+xollit: kholite kholit
+xorom: khorom khorome
+xormbet: khormbet
+xutba: khoutba
+xàjjale: khajalé khajjalé xajjale xajale
+xàmp: khamp
+xàndoor: khandoor khandor khandore
+xóoñ: khogn khoogn
+yaraax: yarakh yaraakh
+yendu: yendou
+yewwiku: yéwikou yewikou
+yokkute: yokouté yokkouté yokuté yokkuté
+yoxos: yokhos yokhoss
+yuuxu: youkhou
+yàkkamti: yakamti yakkamti
+yàmbaa: yamba yambaa
+yëkkëti: yeukeuti
+yërëm: yeureum
+yobbu: yobou
+yónni: yoni yonni
+yërndu: yeurndou
+yuqamtalu: youkhamtalou yukhamtalu

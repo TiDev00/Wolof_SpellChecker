@@ -13,7 +13,8 @@ from typing import List
 
 COST_MATRIX = {('a', 'à'): 1, ('o', 'ó'): 1,
                ('a', 'ã'): 1, ('e', 'é'): 1,
-               ('e', 'ë'): 1, ('e', 'è'): 1}
+               ('e', 'ë'): 1, ('é', 'ë'): 1,
+               ('x', 'q'): 1}
 
 
 def pre_process(word: str) -> str:

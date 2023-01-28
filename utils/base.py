@@ -23,7 +23,7 @@ class Base(object):
         self.vowels = WOLOF_VOWELS
         self.dictionary = Dictionary()
 
-        vocab_file = open('utils/lexicon.txt', "r").read().split()
+        vocab_file = open('utils/wolof_lexicon.txt', 'r').read().split()
 
         for word in vocab_file:
             self.add_words([pre_process(word).strip()])

@@ -12,6 +12,7 @@ Contents:
 from utils.helper import *
 from utils.dictionary import Dictionary
 from utils.base import Base
+from utils.wolof_rules import compound_sound_transformation
 
 
 class Corrector(Base):
@@ -34,7 +35,7 @@ class Corrector(Base):
                     The word suggestions with their corresponding distances
         """
 
-        processed_word = pre_process(word)
+        processed_word = compound_sound_transformation(pre_process(word))
 
         def search(dictionary_node: Dictionary, previous_row: list):
             """

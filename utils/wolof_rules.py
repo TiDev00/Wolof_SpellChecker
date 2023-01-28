@@ -64,8 +64,6 @@ def compound_sound_transformation(word: str) -> str:
                    'ch': 's', 'ck': 'k', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwaa', 'ao': 'aw',
                    'ph': 'f', 'ui': 'uwii', 'ss': 's', 'è': 'ee', 'v': 'w', 'z': 's', 'h': ''}
 
-    word = word.lower()
-
     # if word do not end with cie replace ending ie by i
     if not word.endswith('cie'):
         word = re.sub('ie$', 'i', word)
@@ -91,26 +89,24 @@ def rules_validator(word: str) -> bool:
             boolean which is True if the given word respects wolof writing rules
     """
 
-    word = word.lower()
-
     if fr_en_checking(word):
         return False
 
     # word cannot end with long consonants and long vowels at same time
     for gl in gemine_wolof_letters:
         for lv in long_wolof_vowels:
-            if word.lower().endswith(gl+lv):
+            if word.endswith(gl+lv):
                 return False
 
     # strong consonant never follow long vowel
     for sc in strong_wolof_consonants:
         for lv in long_wolof_vowels:
-            if lv+sc in word.lower():
+            if lv+sc in word:
                 return False
 
     # strong consonant never start word except prenasalized letter
     for gl in gemine_wolof_letters:
-        if word.lower().startswith(gl):
+        if word.startswith(gl):
             return False
 
     return True

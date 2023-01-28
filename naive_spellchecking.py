@@ -19,6 +19,7 @@ Contents:
 
 import re
 from collections import Counter
+from utils.wolof_rules import compound_sound_transformation
 
 WOLOF_LETTERS = 'aàãbcdeéëfgijklmnñŋoópqrstuwxy'
 
@@ -95,6 +96,8 @@ def split_word(word: str) -> list:
             split_list: list
                 all possible strings obtained by splitting a given word
         """
+
+    word = word.lower()
 
     return [(word[:i], word[i:]) for i in range(len(word) + 1)]
 
@@ -287,6 +290,8 @@ def get_suggestions(word: str, probs: dict, vocab: set,
                 Tuples with most probable n corrected words and their probabilities
     """
 
+    word = compound_sound_transformation(word)
+
     # Creates suggestions
     suggestions = set(
         (word in vocab and word) or
@@ -298,14 +303,11 @@ def get_suggestions(word: str, probs: dict, vocab: set,
     n_best = [(str(s), float(probs[s])) for s in list(suggestions) if s in probs]
     n_best.sort(key=lambda item: item[1], reverse=True)
 
+    # return same word if set is empty
+    if not n_best:
+        n_best = [(word, 0)]
+
     if verbose:
         print("suggestions = ", n_best)
 
     return n_best
-
-
-if __name__ == '__main__':
-    my_word = str(input("Give a word to correct: "))
-    probs = get_probs(get_count(word_extraction('utils/lexicon.txt')))
-    vocab = word_extraction('utils/lexicon.txt')
-    print(get_suggestions(my_word, probs, vocab, verbose=False))
