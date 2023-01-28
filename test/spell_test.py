@@ -1,6 +1,6 @@
 import time
-from utils.levenshtein import Corrector
-from naive_spellchecking import get_probs, get_count, get_suggestions, word_extraction
+from utils.weighted_levenshtein import Corrector
+from utils.naive_levenshtein import get_probs, get_count, get_suggestions
 
 
 def pairing(lines) -> list[tuple]:
@@ -54,8 +54,7 @@ def suggestion_adequacy_ns(test_set: str, verbose: bool = True):
     for w in open('utils/wolof_lexicon.txt', 'r').read().split():
         vocab.append(w)
 
-    # noinspection PyTypeChecker
-    probs = get_probs(get_count(word_extraction('utils/wolof_lexicon.txt')))
+    probs = get_probs(get_count(vocab))
 
     good, unknown = 0, 0
 
@@ -64,7 +63,6 @@ def suggestion_adequacy_ns(test_set: str, verbose: bool = True):
     start = time.process_time()
 
     for right, wrong in dataset:
-        # noinspection PyTypeChecker
         suggestion = (get_suggestions(wrong, probs, vocab))[0][0]
 
         good += (suggestion == right)

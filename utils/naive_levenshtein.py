@@ -4,7 +4,6 @@ naive_spellchecking
 A naive implementation of spellchecker generating every combination of letters for a given word and
 relying on frequency of words in given a text to sort suggestions.
 Contents:
-    word_extraction,
     get_count,
     get_probs,
     split_word,
@@ -22,27 +21,6 @@ from collections import Counter
 from utils.wolof_rules import compound_sound_transformation
 
 WOLOF_LETTERS = 'aàãbcdeéëfgijklmnñŋoópqrstuwxy'
-
-
-def word_extraction(filename: str) -> list:
-    """
-        Processes file and return a list of all words in lowercase.
-        Parameters
-        ----------
-            filename: str
-                File from which words will be extracted
-        Returns
-        ----------
-            words_list: list
-                all words extracted from given file and sorted
-    """
-
-    with open(filename) as f:
-        data = f.read()
-
-    words = re.findall('\w+', data.lower())
-
-    return words
 
 
 def get_count(word_list: list) -> dict:
@@ -268,7 +246,7 @@ def edit_two_letters(word: str, verbose: bool = False, allow_switch: bool = Fals
     return two_edit_set
 
 
-def get_suggestions(word: str, probs: dict, vocab: set,
+def get_suggestions(word: str, probs: dict, vocab: list[str],
                     verbose: bool = False, allow_switch: bool = False) -> list:
     """
         Computes and returns a list of n possible suggestions tuple and their probabilities
@@ -278,7 +256,7 @@ def get_suggestions(word: str, probs: dict, vocab: set,
                 input to check for suggestion
             probs: dict
                 Maps each word to its probability in the corpus
-            vocab: set
+            vocab: list[str]
                 Vocabulary from which we will compare misspelled words
             verbose: bool
                 set to true if we want to see all the process
