@@ -1,3 +1,15 @@
+"""
+spell_test
+-----
+This is a test file for the implemented models in utils
+Contents:
+    pairing,
+    lexical_recall,
+    error_recall,
+    precision,
+    suggestion_adequacy
+"""
+
 import time
 from utils.weighted_levenshtein import Corrector
 from utils.naive_levenshtein import get_probs, get_count, get_suggestions
