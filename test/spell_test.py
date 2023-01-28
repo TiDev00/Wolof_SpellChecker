@@ -13,6 +13,7 @@ Contents:
 import time
 from utils.weighted_levenshtein import Corrector
 from utils.naive_levenshtein import get_probs, get_count, get_suggestions
+from utils.helper import dynamic_levenshtein, naive_levenshtein
 
 
 def pairing(lines) -> list[tuple]:
@@ -139,5 +140,4 @@ if __name__ == '__main__':
 
     suggestion_adequacy_wl('misspelled_wolof_words.txt')
 
-    # suggestion_adequacy_ns('misspelled_wolof_words.txt')
-
+    suggestion_adequacy_ns('misspelled_wolof_words.txt')
