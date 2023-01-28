@@ -4,7 +4,7 @@ dictionary
 A dictionary class to allow indexing words from lexicon file
 Contents:
     constructor,
-    add_words
+    insert_word
 """
 
 from typing import List, Tuple
@@ -16,7 +16,7 @@ class Dictionary(object):
         self.words_at_node = None
         self.children = {}
 
-    def add_words(self, words: List[Tuple[str, str]]) -> None:
+    def insert_word(self, words: List[Tuple[str, str]]) -> None:
         """
             Add words to index to the Trie dictionary
         Parameters

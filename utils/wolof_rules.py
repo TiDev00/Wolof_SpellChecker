@@ -3,7 +3,7 @@ wolof_rules
 -----
 Functions used to verify wolof word in accordance to the writing rules established.
 Contents:
-    fr_en_checking,
+    fr_en_word,
     compound_sound_transformation,
     rules_validator
 """
@@ -25,7 +25,7 @@ long_wolof_vowels = {'ii', 'uu', 'éé', 'óó', 'ee', 'aa'}
 wolof_vowels = short_wolof_vowels | long_wolof_vowels
 
 
-def fr_en_checking(word: str) -> bool:
+def fr_en_word(word: str) -> bool:
     """
         Check if a word is either an English or French word and returns True or False
         Parameters
@@ -89,7 +89,7 @@ def rules_validator(word: str) -> bool:
             boolean which is True if the given word respects wolof writing rules
     """
 
-    if fr_en_checking(word):
+    if fr_en_word(word):
         return False
 
     # word cannot end with long consonants and long vowels at same time

@@ -11,6 +11,7 @@ Contents:
 """
 
 import time
+from utils.detection import Detector
 from utils.weighted_levenshtein import Corrector
 from utils.naive_levenshtein import get_probs, get_count, get_suggestions
 from utils.helper import dynamic_levenshtein
@@ -31,6 +32,9 @@ def pairing(lines) -> list[tuple]:
     return [(right, wrong)
             for (right, wrongs) in (line.split(':') for line in lines)
             for wrong in wrongs.split()]
+
+
+
 
 
 def lexical_recall():
@@ -138,8 +142,9 @@ def suggestion_adequacy_wl(test_set: str, verbose: bool = False):
 
 if __name__ == '__main__':
 
+    det = Detector()
+    print(det.checker('France'))
 
-
-    suggestion_adequacy_ns('misspelled_wolof_words.txt')
-
-    suggestion_adequacy_wl('misspelled_wolof_words.txt')
+    # suggestion_adequacy_ns('misspelled_wolof_words.txt')
+    #
+    # suggestion_adequacy_wl('misspelled_wolof_words.txt')
