@@ -13,7 +13,7 @@ Contents:
 import time
 from utils.weighted_levenshtein import Corrector
 from utils.naive_levenshtein import get_probs, get_count, get_suggestions
-from utils.helper import dynamic_levenshtein, naive_levenshtein
+from utils.helper import dynamic_levenshtein
 
 
 def pairing(lines) -> list[tuple]:
@@ -45,7 +45,7 @@ def precision():
     NotImplemented
 
 
-def suggestion_adequacy_ns(test_set: str, verbose: bool = True):
+def suggestion_adequacy_ns(test_set: str, verbose: bool = False):
     """
         For the naive levenshtein model
         Number of correct suggestions for invalid words for all the invalid words
@@ -87,11 +87,11 @@ def suggestion_adequacy_ns(test_set: str, verbose: bool = True):
 
     dt = time.process_time() - start
 
-    print('{:.0%} of {} correct ({:.0%} unknown valid words) at {:.0f} words per second '
+    print('Naive Levenshtein : {:.0%} of {} correct ({:.0%} unknown valid words) in {:.0f} seconds'
           .format(good / n, n, unknown / n, n / dt))
 
 
-def suggestion_adequacy_wl(test_set: str, verbose: bool = True):
+def suggestion_adequacy_wl(test_set: str, verbose: bool = False):
     """
         For the weighted levenshtein model with Trie Structure
         Number of correct suggestions for invalid words for all the invalid words
@@ -132,12 +132,14 @@ def suggestion_adequacy_wl(test_set: str, verbose: bool = True):
 
     dt = time.process_time() - start
 
-    print('{:.0%} of {} correct ({:.0%} unknown valid words) at {:.0f} words per second '
+    print('Weighted Levenshtein : {:.0%} of {} correct ({:.0%} unknown valid words) in {:.0f} second'
           .format(good/n, n, unknown/n, n/dt))
 
 
 if __name__ == '__main__':
 
-    suggestion_adequacy_wl('misspelled_wolof_words.txt')
+
 
     suggestion_adequacy_ns('misspelled_wolof_words.txt')
+
+    suggestion_adequacy_wl('misspelled_wolof_words.txt')

@@ -7,7 +7,7 @@ Contents:
     pre_process,
     replace_cost,
     sort_list,
-    naive_levenshtein,
+    recursive_levenshtein,
     dynamic_levenshtein
 """
 
@@ -78,7 +78,7 @@ def rank_filter(data: List[tuple], descending: bool = False) -> List[tuple]:
     return sorted(data, key=lambda a: a[1], reverse=descending)
 
 
-def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
+def recursive_levenshtein(source: str, target: str, m: int, n: int) -> int:
     """
         Naive recursive function to find minimum edit distance between 2 string.
         Time complexity O(3^m)
@@ -109,13 +109,13 @@ def naive_levenshtein(source: str, target: str, m: int, n: int) -> int:
 
     # If last characters of two strings are same, ignore last characters and get count for remaining strings.
     if source[m - 1] == target[n - 1]:
-        return naive_levenshtein(source, target, m - 1, n - 1)
+        return recursive_levenshtein(source, target, m - 1, n - 1)
 
     # If last characters are not same, consider all three
     # operations on last character of first string, recursively
     # compute minimum cost for all operations and take minimum of three values.
-    return 1 + min(naive_levenshtein(source, target, m, n - 1), naive_levenshtein(source, target, m - 1, n),
-                   (naive_levenshtein(source, target, m - 1, n - 1)+1))
+    return 1 + min(recursive_levenshtein(source, target, m, n - 1), recursive_levenshtein(source, target, m - 1, n),
+                   (recursive_levenshtein(source, target, m - 1, n - 1) + 1))
 
 
 def dynamic_levenshtein(source: str, target: str) -> int:
