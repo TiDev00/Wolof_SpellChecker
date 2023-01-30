@@ -11,10 +11,8 @@ Contents:
 """
 
 import time
-from typing import List, Tuple
 from utils.detection import Detector
 from utils.weighted_levenshtein import Corrector
-from bisect import bisect_left
 from utils.naive_levenshtein import get_probs, get_count, get_suggestions
 from utils.helper import dynamic_levenshtein
 
