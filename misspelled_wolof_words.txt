@@ -10,7 +10,7 @@ miskit: miskite
 fekk: fek
 tefes: tefess
 ñaawal: niawal gnawal
-gëj: guedj gueudj geudj
+gëj: gueudj geudj
 ngànt: ngant
 summi: soumi
 cosaan: thiossan thiossane
@@ -175,7 +175,7 @@ teeru: teerou
 pecc: petch
 yaraax: yarakh yaraakh
 jamono: diamono djamono
-yobbu: yobou
+yóbbu: yobou yobbou yobu yóbu
 saxar: sakhar sakhare
 sëcc: seutch
 daanu: daanou
@@ -192,7 +192,7 @@ yëkkëti: yeukeuti
 tàrde: tardé
 lébu: lébou
 ñànkatan: gnankatane niankatane
-tàgge: tagué tagge
+tàgge: tagué
 fexe: fekhe fekhé
 jàllaaba: djallaba jallaaba
 bisaab: bissap bisap bisab
@@ -262,7 +262,7 @@ sëqat: seukhat
 laax: laakh
 rëpptal: reuptal reupptal
 tamndareet: tamndaret
-dooleel: dolel doleel doleel
+dooleel: dolel doleel doolel
 suppome: soupome soupomé
 nuyu: nouyou
 ñoriku: niorikou gnorikou
@@ -311,7 +311,7 @@ béjjén: bédieun bédjen bédjeun béjén
 sero: zéro séro
 nataal: natal
 àttaaya: ataya attaaya àttaya
-coggal: thiogal thioggal thioggale thiogal thiogale
+coggal: thiogal thioggal thioggale thiogale tchogal tchoggal tchogale tchoggale
 njiit: njit
 àgg: agg
 mbëggeel: mbeuguél mbeuguel mbeugueel
@@ -383,7 +383,7 @@ fóon: fone fon foon
 ruuj: roudj
 ndigal: ndigale
 raxasu: rakhasou rakhassou
-geen: guen guene
+geen: guen gueen
 péex: peekh péekh
 saraxulle: sarakhoulé sarakhoullé
 pàllax: pallakh
@@ -562,7 +562,7 @@ bég: beg begg
 xale: khale khalé xalé
 gannaaw: gannaw
 ganaar: ganar guanar guanaar
-datax: datax
+datax: datakh
 jéppi: dieppi djeppi
 rafle: raflé rafflé
 përëm: peureum peureume pereum
@@ -593,7 +593,7 @@ jàngu: jangu djangu djangou diangou
 mbëtt: mbeutt
 ràkkal: rakal rakkal
 waajur: wadjour waadjour wadiour waadiour
-génn: guene guen genn
+génn: guene genn
 pukkuus: poukkous
 pompiye: pompier
 jéggal: diégual djéggal
@@ -629,7 +629,7 @@ tungune: toungouné
 jàkkaarloo: diakarlo jàkaarlo
 repp: rep
 baram: barame
-uppukaay: ouppoukay ouppoukaay ouppoukay
+uppukaay: ouppoukay ouppoukaay oupoukay oupoukaay uppukay
 ñaan: niaane gnaane
 màngo: mango
 cunwaar: tchinoir thinoir tchinoire thinoire
@@ -637,7 +637,7 @@ pullóox: poullokh
 samp: sampe
 réer: rer reer
 ànd: and
-baaraam: baram baaram baraam baarame baraame
+baaraam: baaram baraam baarame baraame
 faayda: fayda
 bóoli: boli booli
 kóom: koom
@@ -652,9 +652,9 @@ taaxirlu: takhirlou taakhirlou taxirlu
 naagu: naagou
 tàndarma: tandarma
 fajar: fadiar fadiare
-pàppaayo: papaayo
+pàppaayo: papaayo papayo
 lënbët: leugnbeutt leugnbeut
-sàkket: sakket
+sàkket: sakket saket
 rañaan: ragnane ragnan rañan
 tarbiyu: tarbiyou
 sutura: soutoura
@@ -692,7 +692,7 @@ faale: falé faalé
 feyyu: fayu fayyu
 ñëw: nieuw
 caas: thiaas
-caw: thiaw
+caw: thiaw tchaw
 bes: bess
 jàdd: diadd
 gisaane: guissane guissaane guissané guisané
@@ -726,7 +726,7 @@ keneen: kenene kenen
 dox: dokh
 càmmooñ: thiamoogn tchamoogn tchiamoogn
 màkk: mak makk
-bundxataal: boundkhatal boundkhataal boundkhatale boundkhatale
+bundxataal: boundkhatal boundkhataal boundkhatale
 ëmb: eumb
 màgg: magg
 séy: sey
@@ -756,7 +756,7 @@ njoowaan: ndiowaan ndioowan
 sànke: sanke
 sës: seuss
 riixle: rikhlé riikhlé
-yépp: yeup yepp yeupp yep yepp
+yépp: yeup yepp yeupp yep
 coppati: thiopati thioppati tchiopati
 sàppi: sappi sapi
 mbote: mboté
@@ -894,17 +894,17 @@ sukkuraat: sukuraat soukkourat sukurat soukourat
 féexlu: fekhlou fékhlou
 seppali: sepali sépali
 jàppoo: diappo djappo
-sunna: sounna
+sunna: sounna souna
 suur: sour
 fulla: foula foulla
-wéddi: weddi wédi
+weddi: wédi
 óom: oom
 kubéer: koubeer kouber
 boog: bog
 rukkoo: rouko roukko rukko
 njàpp: njapp
 ràpp: rapp
-xaaxam: khaakham khakham
+xaaxaam: khaakham khakham xaxam xaxaam xaaxam
 wurus: wourous wourouss
 màggat: maguat
 waxambaane: wakhambané wakhambaané
@@ -1048,7 +1048,7 @@ tamxarit: tamkharit tamkharite tamxarite
 tëccu: teuthiou teutchiou
 gàllankoor: gallankoor gallankor galankoor gàlankoor gàlankor
 seral: séral
-jàmm: jamm diam
+jàmm: jamm diamm
 jaaxal: diaakhal djaakhal
 jinax: djinakh
 rees: res ress

@@ -504,6 +504,7 @@ ndeysaan
 ndigal
 ndobin
 ndokeel
+ndollent
 ndongo
 ndànk
 ndékki
@@ -1045,7 +1046,6 @@ wànte
 wànteer
 wàqi
 wàññi
-wéddi
 wéer
 wékk
 wéqu
