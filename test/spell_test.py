@@ -79,7 +79,7 @@ def lexical_recall_wl(test_set, verbose: bool = False) -> int:
 
     n = len(real_valid)
     print('Weighted Levenshtein Lexical recall : {:.2%} ({}) of {} valid words successfully detected '
-          'in {:.0f} seconds'.format(len(flagged_valid) / n, len(flagged_valid), n, n / dt))
+          'in {:.0f} milliseconds'.format(len(flagged_valid) / n, len(flagged_valid), n, n / dt))
 
     return len(flagged_valid.intersection(real_valid))
 
@@ -123,7 +123,7 @@ def error_recall_wl(test_set, verbose: bool = False) -> int:
 
     n = len(real_invalid)
     print('Weighted Levenshtein error recall : {:.2%} ({}) of {} invalid words successfully detected '
-          'in {:.0f} seconds'.format(len(flagged_invalid) / n, len(flagged_invalid), n, n / dt))
+          'in {:.0f} milliseconds'.format(len(flagged_invalid) / n, len(flagged_invalid), n, n / dt))
 
     return len(flagged_invalid.intersection(real_invalid))
 
@@ -251,7 +251,7 @@ def mean_reciprocal_rank_wl(test_set):
         total_reciprocal_rank += 1 / rank
 
     # Print the mean reciprocal rank
-    print('Weighted Levenshtein MRR : {.2f}'.format(total_reciprocal_rank / len(correct_suggestions)))
+    print('Weighted Levenshtein MRR : {:.2f}'.format(total_reciprocal_rank / len(correct_suggestions)))
 
 
 # def suggestion_adequacy_ns(test_set: str, verbose: bool = False):
