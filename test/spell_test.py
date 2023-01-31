@@ -14,8 +14,6 @@ Contents:
 import time
 from utils.detection import Detector
 from utils.weighted_levenshtein import Corrector
-from utils.naive_levenshtein import get_probs, get_count, get_suggestions
-from utils.helper import dynamic_levenshtein
 
 vocab = []
 for w in open('utils/wolof_lexicon.txt', 'r').read().split():
@@ -39,7 +37,7 @@ def pairing(lines) -> list[tuple]:
             for wrong in wrongs.split()]
 
 
-def lexical_recall_wl(test_set, verbose: bool = False) -> int:
+def lexical_recall(test_set, verbose: bool = False) -> tuple[int, int, float]:
     """
         For the weighted levenshtein model with Trie Structure
         # words flagged valid / # valid words
@@ -51,7 +49,10 @@ def lexical_recall_wl(test_set, verbose: bool = False) -> int:
                 Display or not correction for each word
         Returns
         ----------
-            # word flagged valid by system that are real valid words
+            couple: tuple[int, int, float]
+                # real valid words flagged valid by system
+                # real valid words flagged invalid by system
+                Lexical Recall of system
     """
 
     data = pairing(test_set)
@@ -77,13 +78,17 @@ def lexical_recall_wl(test_set, verbose: bool = False) -> int:
     dt = time.time() - start
 
     n = len(real_valid)
-    print('Weighted Levenshtein Lexical recall : {:.2%} ({}) of {} valid words successfully detected '
-          'in {:.0f} milliseconds'.format(len(flagged_valid) / n, len(flagged_valid), n, n / dt))
+    nv = len(flagged_valid)
 
-    return len(flagged_valid.intersection(real_valid))
+    lr = nv / n
+
+    print('Weighted Levenshtein Lexical Recall : {:.2%} ({}) of {} valid words in the text successfully detected '
+          'in {:.0f} milliseconds'.format(lr, nv, n, n / dt))
+
+    return nv, (n - nv), lr
 
 
-def error_recall_wl(test_set, verbose: bool = False) -> int:
+def error_recall(test_set, verbose: bool = False) -> tuple[int, int, float]:
     """
         For the weighted levenshtein model with Trie Structure
         # words flagged invalid / # invalid words
@@ -95,7 +100,10 @@ def error_recall_wl(test_set, verbose: bool = False) -> int:
                 Display or not correction for each word
         Returns
         ----------
-            # word flagged invalid by system that are real invalid words
+            couple: tuple[int, int]
+                # real invalid words flagged invalid by system
+                # real invalid words flagged valid by system
+                Error recall of system
     """
 
     data = pairing(test_set)
@@ -121,46 +129,136 @@ def error_recall_wl(test_set, verbose: bool = False) -> int:
     dt = time.time() - start
 
     n = len(real_invalid)
-    print('Weighted Levenshtein error recall : {:.2%} ({}) of {} invalid words successfully detected '
-          'in {:.0f} milliseconds'.format(len(flagged_invalid) / n, len(flagged_invalid), n, n / dt))
+    ni = len(flagged_invalid)
 
-    return len(flagged_invalid.intersection(real_invalid))
+    er = ni / n
+
+    print('Weighted Levenshtein Error Recall : {:.2%} ({}) of {} invalid words in the text successfully detected '
+          'in {:.0f} milliseconds'.format(er, ni, n, n / dt))
+
+    return ni, n - ni, er
 
 
-def precision_wl(test_set, lex_rec: int, err_rec: int):
+def lexical_precision(tp: int, fp: int) -> float:
     """
         For the weighted levenshtein model with Trie Structure
-        # words flagged invalid / # invalid words
+        # real valid words flagged valid / (# real valid words flagged valid + # real invalid words flagged valid)
         Parameters
         ----------
-            test_set: TextIO
-                File used to test systems
-            lex_rec: int
-                # word flagged valid by system that are real valid words
-            err_rec: int
-                # word flagged invalid by system that are real invalid words
+            tp: int
+                # real valid words flagged valid by system
+            fp: int
+                # real invalid words flagged valid by system
         Returns
         ----------
-            Print a report
+            Pc: float
+                Lexical Precision of the system
     """
 
-    data = pairing(test_set)
+    size = tp + fp
 
-    real_valid = set()
-    real_invalid = set()
+    lp = tp / size
 
-    for w1, w2 in data:
-        real_valid.add(w1)
-        real_invalid.add(w2)
+    print('Weighted Levenshtein Lexical Precision : {:.2%} ({}) words of {} flagged valid '
+          'are real valid words'
+          .format(lp, tp, size))
 
-    n = len(real_valid) + len(real_invalid)
-    le = lex_rec + err_rec
-
-    print('Weighted Levenshtein Precision : {:.2%} ({}) of {} words correctly flagged valid or invalid'
-          .format(le / n, le, n))
+    return lp
 
 
-def suggestion_adequacy_wl(test_set, verbose: bool = False):
+def error_precision(tn: int, fn: int) -> float:
+    """
+        For the weighted levenshtein model with Trie Structure
+        # real invalid words flagged invalid / (# real invalid words flagged invalid + # real valid words flagged invalid)
+        Parameters
+        ----------
+            tn: int
+                # real invalid words flagged invalid by system
+            fn: int
+                # real valid words flagged invalid by system
+        Returns
+        ----------
+            Rc: float
+                Error Precision of the system
+    """
+
+    size = tn + fn
+
+    ep = tn / size
+
+    print('Weighted Levenshtein Error Precision : {:.2%} ({}) of {} words flagged invalid '
+          'are real invalid words'
+          .format(ep, tn, size))
+
+    return ep
+
+
+def lexical_f_score(lr: float, lp: float):
+    """
+        For the weighted levenshtein model with Trie Structure
+        Harmonic mean of models' lexical precision and recall
+        Parameters
+        ----------
+        lr: float
+            lexical recall of the model
+        lp: float
+            lexical precision of the model
+        Returns
+        -------
+            Print report
+    """
+
+    print('Weighted Levenshtein lexical F-score : {:.2%}'.format(2*((lp * lr) / (lp + lr))))
+
+
+def error_f_score(er: float, ep: float):
+    """
+        For the weighted levenshtein model with Trie Structure
+        Harmonic mean of models' error precision and recall
+        Parameters
+        ----------
+        er: float
+            Error recall of the model
+        ep: float
+            Error precision of the model
+        Returns
+        -------
+            Print report
+    """
+
+    print('Weighted Levenshtein Error F-score : {:.2%}'.format(2*((ep * er) / (ep + er))))
+
+
+def predictive_accuracy(tp: int, tn: int, fp: int, fn: int):
+    """
+        For the weighted levenshtein model with Trie Structure
+        Overall precision of the model
+        Parameters
+        ----------
+            tp: int
+                # real valid words flagged valid by system
+            tn: int
+                # real invalid words flagged invalid by system
+            fp: int
+                # real invalid words flagged valid by system
+            fn: int
+                # real valid words flagged invalid by system
+        Returns
+        ----------
+            Prints a report
+    """
+
+    size = tp + tn + fp + fn
+
+    total_correct = tp + tn
+
+    pa = total_correct / size
+
+    print('Weighted Levenshtein Predictive Accuracy : {:.2%} ({}) of {} words correctly flagged valid or invalid'
+          .format(pa, total_correct, size))
+
+
+def suggestion_adequacy(test_set, verbose: bool = False):
     """
         For the weighted levenshtein model with Trie Structure
         # correct suggestions for invalid words / # invalid words
@@ -205,7 +303,7 @@ def suggestion_adequacy_wl(test_set, verbose: bool = False):
         print('List of valid words not in the lexicon: ', unknown_words)
 
 
-def mean_reciprocal_rank_wl(test_set):
+def mean_reciprocal_rank(test_set):
     """
         For the weighted levenshtein model with Trie Structure
         Mean reciprocal rank (MRR) for a list of correct answers and suggestions.
@@ -253,54 +351,13 @@ def mean_reciprocal_rank_wl(test_set):
     print('Weighted Levenshtein MRR : {:.2f}'.format(total_reciprocal_rank / len(correct_suggestions)))
 
 
-# def suggestion_adequacy_ns(test_set: str, verbose: bool = False):
-#     """
-#         For the naive levenshtein model
-#         Number of correct suggestions for invalid words for all the invalid words
-#         Also print the speed to do all the suggestions
-#         Parameters
-#         ----------
-#             test_set: List[str]
-#                 File used to test systems
-#             verbose: bool
-#                 Display or not correction for each word
-#         Returns
-#         ----------
-#             Prints reports
-#         """
-#
-#     dataset = pairing(test_set)
-#
-#     probs = get_probs(get_count(vocab))
-#
-#     good, unknown = 0, 0
-#     unknown_words = set()
-#
-#     n = len(dataset)
-#
-#     start = time.time()
-#
-#     for right, wrong in dataset:
-#         suggestion = (get_suggestions(wrong, probs, vocab))[0][0]
-#         good += (suggestion == right)
-#         if suggestion != right:
-#             if right not in vocab:
-#                 unknown_words.add(right)
-#                 unknown += 1
-#             if verbose:
-#                 print('autocorrection({}) => {}; expected {}'.format(wrong, suggestion, right))
-#
-#     dt = time.time() - start
-#
-#     print('Naive Levenshtein Suggestion Adequacy: {:.2%} ({}) of {} invalid words successfully corrected '
-#           '({:.2%} unknown valid words) in {:.0f} second'.format(good / n, good, n, unknown / n, n / dt))
-#     if unknown_words:
-#         print('List of valid words not in the lexicon: ', unknown_words)
-
-
 if __name__ == '__main__':
-    lr = lexical_recall_wl(open('misspelled_wolof_words.txt'))
-    er = error_recall_wl(open('misspelled_wolof_words.txt'))
-    precision_wl(open('misspelled_wolof_words.txt'), lr, er)
-    suggestion_adequacy_wl(open('misspelled_wolof_words.txt'))
-    mean_reciprocal_rank_wl(open('misspelled_wolof_words.txt'))
+    Tp, Fn, Lr = lexical_recall(open('misspelled_wolof_words.txt'))
+    Tn, Fp, Er = error_recall(open('misspelled_wolof_words.txt'))
+    Lp = lexical_precision(Tp, Fp)
+    Ep = error_precision(Tn, Fn)
+    lexical_f_score(Lp, Lr)
+    error_f_score(Ep, Er)
+    predictive_accuracy(Tp, Tn, Fp, Fn)
+    suggestion_adequacy(open('misspelled_wolof_words.txt'))
+    mean_reciprocal_rank(open('misspelled_wolof_words.txt'))
