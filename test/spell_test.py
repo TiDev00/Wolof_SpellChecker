@@ -348,7 +348,7 @@ def mean_reciprocal_rank(test_set):
         total_reciprocal_rank += 1 / rank
 
     # Print the mean reciprocal rank
-    print('Weighted Levenshtein MRR : {:.2f}'.format(total_reciprocal_rank / len(correct_suggestions)))
+    print('Weighted Levenshtein Mean Reciprocal Rank : {:.2f}'.format(total_reciprocal_rank / len(correct_suggestions)))
 
 
 if __name__ == '__main__':
