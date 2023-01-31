@@ -159,7 +159,7 @@ def lexical_precision(tp: int, fp: int) -> float:
 
     lp = tp / size
 
-    print('Weighted Levenshtein Lexical Precision : {:.2%} ({}) words of {} flagged valid '
+    print('Weighted Levenshtein Lexical Precision : {:.2%} ({}) of {} words flagged valid '
           'are real valid words'
           .format(lp, tp, size))
 
