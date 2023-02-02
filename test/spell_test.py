@@ -4,11 +4,15 @@ spell_test
 This is a test file to evaluate the implemented models in utils
 Contents:
     pairing,
-    lexical_recall_wl,
-    error_recall_wl,
-    precision_wl,
-    suggestion_adequacy_wl,
-    mean_reciprocal_rank_wl
+    lexical_recall,
+    error_recall,
+    lexical_precision,
+    error_precision,
+    lexical_f_score,
+    error_f_score,
+    predictive_accuracy,
+    suggestion_adequacy,
+    mean_reciprocal_rank
 """
 
 import time
