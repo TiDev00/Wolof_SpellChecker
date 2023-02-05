@@ -4,6 +4,7 @@ helper
 Helper functions that are used by algorithms
 Also contains 2 implementations to compute edit distance between 2 strings
 Contents:
+    fr_en_word,
     pre_process,
     replace_cost,
     sort_list,
@@ -12,12 +13,33 @@ Contents:
 """
 
 from typing import List
+import enchant
 
+
+fr_lex = enchant.Dict('fr')
+en_lex = enchant.Dict('en')
 
 COST_MATRIX = {('a', 'à'): 1, ('o', 'ó'): 1,
                ('a', 'ã'): 1, ('e', 'é'): 1,
                ('e', 'ë'): 1, ('é', 'ë'): 1,
                ('x', 'q'): 1}
+
+
+def fr_en_word(word: str) -> bool:
+    """
+        Check if a word is either an English or French word and returns True or False
+        Parameters
+        ----------
+            word: str
+                word which will be checked
+        Returns
+        ----------
+            checking_answer: bool
+                True if a word is in French or English dictionary
+    """
+    if fr_lex.check(word) or en_lex.check(word):
+        return True
+    return False
 
 
 def pre_process(word: str) -> str:

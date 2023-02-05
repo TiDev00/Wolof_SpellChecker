@@ -53,6 +53,6 @@ class Detector(Base):
                 is_valid_word: bool
                     True if the given word is a valid word
         """
-        if not fr_en_word(word) and rules_validator(word) and self.is_word(word):
+        if rules_validator(word) and self.is_word(word):
             return True
         return False

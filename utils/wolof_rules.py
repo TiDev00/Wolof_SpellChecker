@@ -3,16 +3,11 @@ wolof_rules
 -----
 Functions used to verify wolof word in accordance to the writing rules established.
 Contents:
-    fr_en_word,
     compound_sound_transformation,
     rules_validator
 """
 
 import re
-import enchant
-
-fr_lex = enchant.Dict('fr')
-en_lex = enchant.Dict('en')
 
 weak_wolof_consonants = {'p', 't', 'c', 'k', 'q', 'b', 'd', 'j', 'g', 'm', 'n', 'ñ', 'ŋ', 'f', 'r',
                          's', 'x', 'w', 'l', 'y'}
@@ -23,23 +18,6 @@ strong_wolof_consonants = gemine_wolof_letters | prenasalized_wolof_letters
 short_wolof_vowels = {'a', 'à', 'ã', 'i', 'o', 'ó', 'u', 'e', 'é', 'ë'}
 long_wolof_vowels = {'ii', 'uu', 'éé', 'óó', 'ee', 'aa'}
 wolof_vowels = short_wolof_vowels | long_wolof_vowels
-
-
-def fr_en_word(word: str) -> bool:
-    """
-        Check if a word is either an English or French word and returns True or False
-        Parameters
-        ----------
-            word: str
-                word which will be checked
-        Returns
-        ----------
-            checking_answer: bool
-                True if a word is in French or English dictionary
-    """
-    if fr_lex.check(word) or en_lex.check(word):
-        return True
-    return False
 
 
 def compound_sound_transformation(word: str) -> str:
@@ -88,9 +66,6 @@ def rules_validator(word: str) -> bool:
         correct_word: bool
             boolean which is True if the given word respects wolof writing rules
     """
-
-    if fr_en_word(word):
-        return False
 
     # word cannot end with long consonants and long vowels at same time
     for gl in gemine_wolof_letters:
