@@ -7,7 +7,7 @@ Contents:
 """
 
 from utils.base import Base
-from utils.wolof_rules import fr_en_word, rules_validator
+from utils.wolof_rules import rules_validator
 
 
 class Detector(Base):

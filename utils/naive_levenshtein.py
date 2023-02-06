@@ -16,7 +16,6 @@ Contents:
     get_suggestions
 """
 
-import re
 from collections import Counter
 from utils.wolof_rules import compound_sound_transformation
 
