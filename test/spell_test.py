@@ -18,6 +18,8 @@ Contents:
 import time
 from utils.detection import Detector
 from utils.weighted_levenshtein import Corrector
+from collections import Counter
+from utils.helper import dynamic_levenshtein
 
 vocab = []
 for w in open('utils/wolof_lexicon.txt', 'r').read().split():
@@ -355,6 +357,33 @@ def mean_reciprocal_rank(test_set):
     print('Weighted Levenshtein Mean Reciprocal Rank : {:.2f}'.format(total_reciprocal_rank / len(correct_suggestions)))
 
 
+def edit_distance_stats(test_set):
+
+    data = pairing(test_set)
+
+    word_cost = {}
+
+    for right, wrong in data:
+        word_cost[wrong] = dynamic_levenshtein(wrong, right)
+
+    print(Counter(word_cost.values()))
+
+
+def error_stats(test_set):
+
+    data = pairing(test_set)
+
+    error = {}
+
+    corrector = Corrector()
+
+    for right, wrong in data:
+        if corrector.get_suggestions(wrong)[0][0] != right:
+            error[wrong] = dynamic_levenshtein(wrong, right)
+
+    print(Counter(error.values()))
+
+
 if __name__ == '__main__':
     Tp, Fn, Lr = lexical_recall(open('misspelled_wolof_words.txt'))
     Tn, Fp, Er = error_recall(open('misspelled_wolof_words.txt'))
@@ -365,3 +394,6 @@ if __name__ == '__main__':
     predictive_accuracy(Tp, Tn, Fp, Fn)
     suggestion_adequacy(open('misspelled_wolof_words.txt'))
     mean_reciprocal_rank(open('misspelled_wolof_words.txt'))
+    # edit_distance_stats(open('misspelled_wolof_words.txt'))
+    # error_stats(open('misspelled_wolof_words.txt'))
+
