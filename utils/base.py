@@ -9,7 +9,7 @@ Contents:
 
 from typing import List
 from utils.dictionary import Dictionary
-from utils.helper import pre_process
+from utils.helper import word_preprocessing
 
 WOLOF_LETTERS = 'aàãbcdeéëfgijklmnñŋoópqrstuwxy'
 WOLOF_VOWELS = 'aàãioóueéë'
@@ -27,7 +27,7 @@ class Base(object):
         vocab_file = open(lex_filepath, 'r').read().split()
 
         for word in vocab_file:
-            self.insert_word([pre_process(word).strip()])
+            self.insert_word([word_preprocessing(word).strip()])
 
     def insert_word(self, words: List[str]) -> None:
         """
@@ -38,6 +38,6 @@ class Base(object):
                     The list of words to be indexed
         """
 
-        processed_actual_words = [(pre_process(word), word) for word in words]
+        processed_actual_words = [(word_preprocessing(word), word) for word in words]
 
         self.dictionary.insert_word(processed_actual_words)

@@ -5,7 +5,7 @@ Helper functions that are used by algorithms
 Also contains 2 implementations to compute edit distance between 2 strings
 Contents:
     fr_en_word,
-    pre_process,
+    word_preprocessing,
     replace_cost,
     sort_list,
     recursive_levenshtein,
@@ -42,7 +42,7 @@ def fr_en_word(word: str) -> bool:
     return False
 
 
-def pre_process(word: str) -> str:
+def word_preprocessing(word: str) -> str:
     """
         Convert to lower every word that will be indexed
         Parameters

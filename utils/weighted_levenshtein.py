@@ -6,7 +6,7 @@ Contents:
     Corrector class
 """
 
-from utils.helper import List, pre_process, replace_cost, rank_filter
+from utils.helper import List, word_preprocessing, replace_cost, rank_filter
 from utils.dictionary import Dictionary
 from utils.base import Base
 from utils.wolof_rules import compound_sound_transformation
@@ -32,7 +32,7 @@ class Corrector(Base):
                     The word suggestions with their corresponding distances
         """
 
-        processed_word = compound_sound_transformation(pre_process(word))
+        preprocessed_word = compound_sound_transformation(word_preprocessing(word))
 
         def search(dictionary_node: Dictionary, previous_row: list):
             """
@@ -48,9 +48,9 @@ class Corrector(Base):
             for current_source_letter in dictionary_node.children:
                 current_row = [previous_row[0] + 1]
 
-                for i in range(1, len(processed_word) + 1):
+                for i in range(1, len(preprocessed_word) + 1):
                     value = min(previous_row[i] + 1, current_row[i - 1] + 1, previous_row[i - 1] +
-                                replace_cost(current_source_letter, processed_word[i - 1]))
+                                replace_cost(current_source_letter, preprocessed_word[i - 1]))
                     current_row.append(value)
 
                 if (current_row[-1] <= max_distance and
@@ -65,7 +65,7 @@ class Corrector(Base):
 
         suggestions = []
 
-        first_row = range(0, len(processed_word) + 1)
+        first_row = range(0, len(preprocessed_word) + 1)
 
         # noinspection PyTypeChecker
         search(self.dictionary, first_row)
