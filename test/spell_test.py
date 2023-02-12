@@ -1,7 +1,7 @@
 """
 spell_test
 -----
-This is a test file to evaluate the implemented models in utils
+This is a test file to evaluate the weighted_levenshtein model implemented in utils
 Contents:
     pairing,
     lexical_recall,
@@ -12,7 +12,9 @@ Contents:
     error_f_score,
     predictive_accuracy,
     suggestion_adequacy,
-    mean_reciprocal_rank
+    mean_reciprocal_rank,
+    edit_distance_stats,
+    error_stats
 """
 
 import time
@@ -316,6 +318,7 @@ def mean_reciprocal_rank(test_set):
         Parameters
         ----------
             test_set: TextIO
+                File used to test systems
         Returns
         ----------
             Prints reports
@@ -358,6 +361,17 @@ def mean_reciprocal_rank(test_set):
 
 
 def edit_distance_stats(test_set):
+    """
+        For the weighted levenshtein model with Trie Structure
+        Compute and print a report of the edit distance for misspelled words in test set and their number
+        Parameters
+        ----------
+            test_set: TextIO
+                    File used to test systems
+        Returns
+        -------
+            Print report
+    """
 
     data = pairing(test_set)
 
@@ -370,6 +384,18 @@ def edit_distance_stats(test_set):
 
 
 def error_stats(test_set):
+    """
+        For the weighted levenshtein model with Trie Structure
+        Compute and print a report of the edit distance of misspelled words with a wrong suggestion and their
+        number
+        Parameters
+        ----------
+            test_set: TextIO
+                    File used to test systems
+        Returns
+        -------
+            Print report
+    """
 
     data = pairing(test_set)
 
@@ -396,4 +422,3 @@ if __name__ == '__main__':
     mean_reciprocal_rank(open('misspelled_wolof_words.txt'))
     # edit_distance_stats(open('misspelled_wolof_words.txt'))
     # error_stats(open('misspelled_wolof_words.txt'))
-
