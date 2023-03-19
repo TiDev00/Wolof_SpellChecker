@@ -411,14 +411,14 @@ def error_stats(test_set):
 
 
 if __name__ == '__main__':
-    Tp, Fn, Lr = lexical_recall(open('misspelled_wolof_words.txt'))
-    Tn, Fp, Er = error_recall(open('misspelled_wolof_words.txt'))
+    Tp, Fn, Lr = lexical_recall(open('test/misspelled_wolof_words.txt'))
+    Tn, Fp, Er = error_recall(open('test/misspelled_wolof_words.txt'))
     Lp = lexical_precision(Tp, Fp)
     Ep = error_precision(Tn, Fn)
     lexical_f_score(Lp, Lr)
     error_f_score(Ep, Er)
     predictive_accuracy(Tp, Tn, Fp, Fn)
-    suggestion_adequacy(open('misspelled_wolof_words.txt'))
-    mean_reciprocal_rank(open('misspelled_wolof_words.txt'))
-    # edit_distance_stats(open('misspelled_wolof_words.txt'))
-    # error_stats(open('misspelled_wolof_words.txt'))
+    suggestion_adequacy(open('test/misspelled_wolof_words.txt'))
+    mean_reciprocal_rank(open('test/misspelled_wolof_words.txt'))
+    # edit_distance_stats(open('test/misspelled_wolof_words.txt'))
+    # error_stats(open('test/misspelled_wolof_words.txt'))
