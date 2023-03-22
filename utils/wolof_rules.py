@@ -38,7 +38,7 @@ def compound_sound_transformation(word: str) -> str:
                    'tchi': 'c', 'tch': 'c', 'thi': 'c', 'cie': 'si', 'oeu': 'ë', 'eau': 'óo', 'gui': 'gi', 'guo': 'go',
                    'gua': 'ga', 'gue': 'ge', 'gué': 'gé', 'guè': 'gee', 'diu': 'ju', 'dio': 'jo', 'dia': 'ja',
                    'die': 'je', 'ein': 'en', 'dj': 'j', 'niu': 'ñu', 'nio': 'ño', 'nia': 'ña', 'nie': 'ñe',
-                   'oix': 'uwaa', 'iou': 'iwu', 'ier': 'iye', 'kh': 'x', 'gn': 'ñ', 'th': 'c', 'ou': 'u',
+                   'que': 'k', 'oix': 'uwaa', 'iou': 'iwu', 'ier': 'iye', 'kh': 'x', 'gn': 'ñ', 'th': 'c', 'ou': 'u',
                    'ch': 's', 'ck': 'k', 'eu': 'ë', 'ei': 'ee', 'au': 'ó', 'oi': 'uwaa', 'ao': 'aw',
                    'ph': 'f', 'ui': 'uwii', 'ss': 's', 'è': 'ee', 'v': 'w', 'z': 's', 'h': ''}
 
