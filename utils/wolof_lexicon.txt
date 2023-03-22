@@ -18,6 +18,8 @@ abal
 af
 afal
 ag
+aggali
+agsi
 aj
 aju
 akara
@@ -55,6 +57,7 @@ astafurlaa
 at
 aw
 awante
+awra
 awu
 ax
 ay
@@ -85,12 +88,14 @@ badd
 bafngu
 bagaas
 bajantu
+bajenn
 bajj
 bajo
 bakkan
 balaa
 balama
 balbalal
+bale
 balgànd
 balgànde
 ballarci
@@ -115,6 +120,7 @@ barsàq
 basasu
 basaŋ
 baset
+batanse
 batañse
 battaa
 batu
@@ -137,8 +143,11 @@ beref
 bes
 beteex
 betti
+bidaa
 biddanti
+biddiiw
 bif
+biir
 bijj
 bijjaaw
 bijjanti
@@ -155,6 +164,7 @@ bokk
 bokkeef
 bolog
 bom
+bon
 bonqoos
 boobu
 boog
@@ -198,6 +208,7 @@ bàjjan
 bàjjen
 bàjjo
 bàkk
+bàkkan
 bàkkel
 bàkku
 bàmba
@@ -228,6 +239,7 @@ bémeer
 bépp
 bérki
 bérëŋ
+béy
 bëccëg
 bëgg
 bëkknéeg
@@ -266,6 +278,7 @@ cadd
 cafaay
 cafka
 caga
+cakkeef
 cakkutéef
 cal
 calaw
@@ -280,6 +293,7 @@ caq
 car
 carax
 cat
+catu
 caw
 cax
 caxat
@@ -440,15 +454,20 @@ dayyarlu
 dañu
 daŋ
 daŋar
+dee
 deg
 dege
 delloo
 dellusi
 dem
+demb
+demode
 denc
 dengoo
+deret
 des
 dewnde
+dex
 deŋŋleer
 dibi
 dibéer
@@ -460,13 +479,17 @@ digóor
 diib
 diig
 diile
+diine
 diir
 diis
+diiwaan
 diiwan
 dijj
 diju
 dikk
 dimb
+dimbale
+dindi
 dippite
 direeku
 diri
@@ -478,8 +501,10 @@ dog
 dogat
 doj
 dokk
+dolli
 domodaa
 donk
+doole
 dooleel
 doom
 door
@@ -490,8 +515,11 @@ dotti
 dox
 doxaan
 doxal
+doxaliin
 doxantu
 doxat
+doxe
+doxot
 doyadi
 droit
 dugub
@@ -521,11 +549,15 @@ dàkk
 dàll
 dàllg
 dàmbal
+dàmm
 dàmp
 dànna
 dàq
 dàtt
+dèggo
+dèllu
 déeg
+déegéej
 déele
 déem
 déet
@@ -540,10 +572,13 @@ déjj
 dékk
 démb
 démocratie
+dénc
 déngare
 dénk
 dénkatit
 déqi
+déwen
+dëbb
 dëbës
 dëfal
 dëgg
@@ -554,6 +589,7 @@ dëj
 dëjja
 dëjjërle
 dëkk
+dëkkuwaay
 dëll
 dëmm
 dënn
@@ -567,6 +603,7 @@ dëruwaay
 dësu
 dëtt
 dëtti
+dëñ
 dóobaale
 dóobu
 dóor
@@ -591,6 +628,7 @@ fagaru
 faj
 fajar
 fajariin
+fajkat
 fakkastalu
 falaŋ
 falet
@@ -602,6 +640,7 @@ fande
 fanqat
 fara
 farale
+faramfacce
 faraxañ
 faraxlàññ
 farlu
@@ -625,6 +664,7 @@ feebar
 feem
 fees
 feesal
+feex
 feeñ
 feeñal
 feg
@@ -645,11 +685,13 @@ feneen
 fenn
 fent
 fepp
+fer
 fere
 fes
 fettax
 fexe
 feyyu
+feñ
 fiddi
 fiddwel
 fidwel
@@ -661,6 +703,7 @@ filli
 fippu
 firi
 firib
+firnde
 fit
 fitaangoor
 fitna
@@ -684,6 +727,7 @@ foox
 fooyooy
 foq
 for
+foraas
 forox
 foset
 foy
@@ -732,6 +776,8 @@ fàndang
 fàng
 fànq
 fàttaliku
+fàtte
+fàtteliku
 fàww
 fàŋŋ
 fàŋŋaañu
@@ -776,6 +822,7 @@ gaawantu
 gaawu
 gaax
 gaañ
+gaañu
 gacc
 gadd
 gafuñ
@@ -853,6 +900,7 @@ gilaado
 gilin
 gilli
 giléem
+gimmi
 ginaar
 gindi
 ginnaaw
@@ -890,6 +938,7 @@ gott
 gouvernance
 gouvernement
 gowe
+gox
 goŋŋ
 gucc
 guccuur
@@ -948,6 +997,7 @@ gàpp
 gàtt
 gàññ
 gàŋŋ
+gènn
 géej
 géeju
 géer
@@ -985,6 +1035,7 @@ gërëm
 gëróo
 gëstu
 gëtt
+gònt
 góndi
 góom
 góor
@@ -1019,6 +1070,7 @@ jaay
 jaayu
 jab
 jabar
+jabet
 jaboot
 jadd
 jaddiiral
@@ -1042,6 +1094,8 @@ jam
 jamaa
 jamaale
 jamb
+jambaar
+jambataan
 jamjamóor
 jamono
 jamoo
@@ -1049,6 +1103,7 @@ jamp
 jamu
 janax
 janeer
+jangu
 jank
 jant
 jar
@@ -1056,6 +1111,7 @@ jaraaf
 jarajëf
 jarawlakk
 jarbaat
+jariñoo
 jas
 jasig
 jastandiku
@@ -1066,19 +1122,23 @@ jatu
 jaw
 jaww
 jaxaluur
+jaxaso
 jaxatu
 jaxañ
+jaxle
 jaxooy
 jay
 jayaxu
 jayu
 jañ
 jebbi
+jeexal
 jeeñ
 jege
 jekk
 jekki
 jekku
+jemukaay
 jenj
 jeqi
 jiba
@@ -1086,6 +1146,7 @@ jigéen
 jiif
 jiin
 jiit
+jiite
 jiitu
 jiixijaaxa
 jiiñ
@@ -1095,11 +1156,13 @@ jimblaŋ
 jimbraay
 jinax
 jinne
+jirim
 jobb
 jofal
 joggi
 jojj
 jokk
+jokko
 jol
 jollasu
 jolli
@@ -1124,6 +1187,7 @@ jooñ
 joq
 joqarbi
 jot
+jottali
 jotu
 jotéef
 joxoñ
@@ -1180,17 +1244,23 @@ jàndi
 jàng
 jàngal
 jàngale
+jàngkat
 jàngu
 jànklaar
 jànnaxe
 jànni
+jànt
 jàpp
+jàppale
 jàppante
 jàppet
 jàppoo
 jàq
 jàqar
 jàtti
+jèggal
+jèggalu
+jèggi
 jébb
 jébbal
 jébbeer
@@ -1216,8 +1286,11 @@ jéri
 jétti
 jë
 jëf
+jëfandiko
+jëflante
 jëgg
 jëkkante
+jëkkër
 jël
 jëli
 jëm
@@ -1232,6 +1305,8 @@ jëwdi
 jëwrin
 jëya
 jëñ
+jòg
+jòge
 jóg
 jóng
 jóo
@@ -1265,7 +1340,9 @@ kalamba
 kalpe
 kamas
 kan
+kanam
 kangetloo
+kapoot
 kar
 karabaane
 karante
@@ -1328,10 +1405,12 @@ koddal
 koj
 kojbéer
 kokk
+koli
 kollati
 koloj
 kolooj
 kon
+kondom
 kontaan
 kooba
 kooj
@@ -1363,6 +1442,7 @@ kummal
 kumte
 kung
 kur
+kuraang
 kuraay
 kurfeñ
 kurpeñ
@@ -1452,6 +1532,7 @@ laaxan
 laaxoy
 laaxu
 lab
+lacc
 laccax
 laf
 lafañ
@@ -1490,9 +1571,12 @@ lañar
 lañset
 laŋ
 leb
+lebal
+leel
 leele
 leem
 leen
+leer
 leeral
 leere
 leewu
@@ -1517,6 +1601,7 @@ lex
 libidoor
 liccin
 liddiku
+liggéey
 liggéeyukaay
 liggéeyuwaay
 liis
@@ -1533,6 +1618,7 @@ limb
 limoŋ
 lingeer
 lippi
+liw
 lnd
 lobb
 log
@@ -1608,6 +1694,7 @@ làŋŋale
 lébu
 léeb
 léebu
+léegi
 léegu
 léej
 léemtu
@@ -1646,6 +1733,7 @@ maafe
 maafu
 maaka
 maal
+maanaam
 maandu
 maandute
 maar
@@ -1662,6 +1750,8 @@ maccaat
 maf
 mafñàndu
 mala
+mandarga
+maniyu
 manoore
 maraakiis
 marax
@@ -1671,10 +1761,12 @@ maroo
 maslaa
 massa
 mat
+matadi
 matt
 matu
 mawwu
 maxtume
+may
 maye
 mayonees
 mbaabaan
@@ -1687,6 +1779,7 @@ mbaaru
 mbaax
 mbag
 mbal
+mbalit
 mballu
 mban
 mband
@@ -1749,6 +1842,7 @@ mbuus
 mbuxri
 mbuxum
 mbuñuka
+mbàgg
 mbàjj
 mbànd
 mbànjaxaan
@@ -1771,6 +1865,7 @@ mbëstën
 mbëtt
 mbëw
 mbóot
+mebet
 meccitu
 meeb
 mees
@@ -1783,6 +1878,7 @@ meret
 met
 metiit
 metti
+mettit
 miig
 miir
 miix
@@ -1812,6 +1908,7 @@ muraake
 muraax
 musal
 musiba
+muskallaf
 muskàllaf
 muslaay
 muslu
@@ -1832,6 +1929,7 @@ màggat
 màgget
 màggiit
 màjj
+màjjaal
 màkk
 màll
 màlle
@@ -1842,6 +1940,7 @@ màndal
 màndarga
 màndarin
 màndi
+màndikat
 màndiŋ
 màng
 màngo
@@ -1859,6 +1958,7 @@ màttu
 mébet
 mëll
 mërr
+mës
 mëtta
 naaf
 naagu
@@ -1882,6 +1982,7 @@ nafar
 naj
 nakk
 nakknakal
+nal
 namadal
 nandalu
 nangifaawo
@@ -1940,6 +2041,7 @@ ndiig
 ndiigu
 ndiir
 ndikkaan
+ndimbal
 ndimo
 nding
 ndobin
@@ -1954,6 +2056,7 @@ ndong
 ndongo
 ndonkañe
 ndono
+ndorte
 ndox
 ndoxteef
 ndull
@@ -1997,10 +2100,12 @@ nebbon
 neer
 neewo
 neex
+neexal
 nefare
 nefere
 nekk
 nelaw
+nelu
 nenn
 nepp
 nettali
@@ -2010,6 +2115,7 @@ neŋŋ
 ngaadew
 ngaadiw
 ngaaka
+ngaam
 ngaana
 ngaare
 ngaañ
@@ -2023,8 +2129,10 @@ ngande
 nganj
 ngara
 ngardàjjoo
+ngas
 ngaska
 ngeen
+ngeer
 ngelaw
 ngex
 ngiig
@@ -2033,10 +2141,12 @@ ngirje
 ngise
 ngiska
 ngistal
+ngistalu
 ngisteef
 ngisu
 ngont
 ngoolool
+ngoon
 ngooñ
 nguléer
 ngurbaan
@@ -2075,6 +2185,7 @@ ninki
 niral
 niru
 nis
+nisër
 njaab
 njaabal
 njaago
@@ -2094,6 +2205,7 @@ njafaan
 njamb
 njambaan
 njambiit
+njampe
 njanq
 njaq
 njara
@@ -2137,6 +2249,7 @@ njukki
 njulli
 njuqi
 njur
+njureel
 njuréef
 njuuli
 njuuma
@@ -2145,11 +2258,13 @@ njuupa
 njàccaar
 njàmbal
 njàmpe
+njàng
 njàngaan
 njànkaan
 njàpp
 njàqare
 njéefo
+njég
 njélloo
 njéndi
 një
@@ -2181,6 +2296,7 @@ noonu
 noor
 noos
 nooy
+nopp
 noppalu
 noppi
 noq
@@ -2215,6 +2331,8 @@ nàmptal
 nànd
 nàndal
 nàngam
+nàpp
+nàq
 nàtt
 nàttangoo
 nàyyi
@@ -2242,6 +2360,7 @@ omb
 ommat
 onk
 onkal
+oom
 oos
 paacoo
 paaj
@@ -2257,6 +2376,7 @@ paañ
 pacal
 pacax
 pacc
+paftan
 paj
 pajaas
 pakk
@@ -2287,6 +2407,7 @@ pasantikoo
 pasar
 pasin
 pastéef
+pataa
 pataas
 patam
 patamtiku
@@ -2299,6 +2420,7 @@ paxta
 paxum
 pay
 payaŋ
+payiis
 pañe
 paŋŋ
 paŋŋet
@@ -2324,6 +2446,7 @@ perngal
 peroŋ
 pert
 pes
+pese
 petaar
 petax
 pettaaw
@@ -2332,6 +2455,7 @@ peñe
 picc
 picctu
 piis
+pikiir
 pikin
 pikk
 pind
@@ -2357,6 +2481,7 @@ pool
 poosa
 poqe
 poqet
+poqotaan
 por
 porlu
 poroxaan
@@ -2378,6 +2503,7 @@ puqati
 puqe
 purux
 puso
+put
 puub
 puudar
 puugiit
@@ -2425,6 +2551,7 @@ pëŋŋ
 póll
 póom
 póoni
+póot
 qélléer
 qëqante
 raaf
@@ -2441,6 +2568,7 @@ raf
 rafet
 rafle
 ragal
+rage
 raglu
 rajab
 rajo
@@ -2466,14 +2594,18 @@ raxla
 rayenoor
 raytal
 rañaan
+ree
 reefaan
 reelo
 reen
 reer
 rees
 reesal
+reetaan
+reetaanlu
 reeteet
 reew
+reewu
 regeju
 regg
 regle
@@ -2498,6 +2630,7 @@ rikk
 rimb
 rinki
 ritax
+robine
 rocci
 rog
 roggànti
@@ -2509,6 +2642,7 @@ rongooñ
 roof
 roofale
 roofaloo
+root
 roppi
 roppëlaan
 roq
@@ -2524,6 +2658,7 @@ rung
 runge
 ruq
 rus
+ruslu
 ruube
 ruuj
 ruum
@@ -2582,6 +2717,7 @@ rëpëtal
 rës
 rët
 rëw
+ròmb
 róofoo
 róogoo
 sa
@@ -2591,6 +2727,7 @@ saabal
 saabu
 saaf
 saafaandu
+saafara
 saafoonte
 saafun
 saag
@@ -2640,6 +2777,7 @@ sajjaada
 sakk
 sakkan
 sakki
+sakku
 salaam
 salaan
 salaat
@@ -2677,6 +2815,7 @@ saqaat
 sar
 saraax
 sarax
+saraxe
 saraxndiku
 saraxulle
 sare
@@ -2690,6 +2829,7 @@ satala
 satamànna
 sattamànna
 saw
+sawar
 sawara
 sawat
 sawta
@@ -2710,6 +2850,7 @@ sebbet
 sebbetiit
 sebre
 sedd
+seddo
 seede
 seekeeg
 seekkiit
@@ -2719,8 +2860,11 @@ seen
 seere
 seereer
 seereet
+seet
 seetaan
+seeti
 seetlu
+seetsi
 seetu
 seex
 seexlu
@@ -2749,8 +2893,10 @@ seral
 serlu
 sero
 set
+setal
 sette
 setu
+sew
 sewnde
 sex
 sexaw
@@ -2759,9 +2905,11 @@ seŋoor
 sib
 sibir
 sibooru
+siburu
 siddeem
 siddi
 siddiit
+siddit
 siddéem
 sidéem
 sif
@@ -2800,6 +2948,7 @@ sipp
 sippax
 sippi
 siraamtal
+siro
 siti
 sitti
 siyaare
@@ -2820,6 +2969,7 @@ sonn
 soob
 soobare
 soof
+sooga
 sooke
 sool
 soon
@@ -2838,6 +2988,7 @@ soq
 soqi
 sor
 sori
+soril
 sos
 sotti
 sow
@@ -2847,7 +2998,9 @@ soxmaat
 soxna
 soxor
 soy
+soñ
 soññ
+suba
 subbante
 suddi
 sujjóot
@@ -2900,6 +3053,7 @@ sàggan
 sàgganu
 sàjj
 sàkk
+sàkkanal
 sàkkara
 sàkket
 sàkketu
@@ -2915,6 +3069,7 @@ sàng
 sàngalaan
 sàngara
 sàngiraan
+sàngu
 sànk
 sànkar
 sànke
@@ -2973,6 +3128,7 @@ sëlamu
 sëleŋlu
 sëll
 sëlmal
+sëlmu
 sëlëm
 sëmb
 sëmm
@@ -3021,6 +3177,7 @@ tabas
 tabaski
 tabax
 tabb
+tabe
 taccuur
 taftu
 tagge
@@ -3034,6 +3191,7 @@ takku
 tal
 talaata
 talañ
+tali
 tamarax
 tambaambaalu
 tamblaay
@@ -3073,16 +3231,20 @@ taxaw
 taxawaal
 taxawaalu
 taxawaay
+taxawal
 taxawu
 taxañ
 tay
 taybaas
+tayel
 tayle
 tayóor
 tañeel
 teccli
+teen
 teeru
 teesal
+teey
 teeylu
 tef
 tefes
@@ -3092,6 +3254,7 @@ teggi
 teggiin
 teggin
 tegle
+tegtal
 tegu
 tembare
 tembe
@@ -3103,12 +3266,17 @@ teppax
 teppiku
 teraanga
 teraas
+tere
+tey
 tibb
 tibbaale
 tigadege
 tiil
 tiir
+tiis
 tiitaange
+tiitange
+tijji
 til
 tilim
 timis
@@ -3117,6 +3285,7 @@ tipoo
 tipprip
 tir
 tisbaar
+tisooli
 tobarke
 tobbi
 tobordo
@@ -3205,6 +3374,7 @@ tuubiruubi
 tuuma
 tuun
 tuur
+tuuti
 tuux
 tux
 tuyaaba
@@ -3226,6 +3396,8 @@ tàkkusaan
 tàllal
 tàllar
 tàmb
+tàmbale
+tàmm
 tàmpe
 tànc
 tàndarma
@@ -3248,11 +3420,14 @@ tàrde
 tàtt
 tàwwi
 tàwwiku
+tàyyel
 tàyyi
 téeg
 téegal
 téeméer
 téere
+téew
+téewlu
 téget
 tépp
 tépparle
@@ -3264,8 +3439,12 @@ tëbb
 tëbbase
 tëbu
 tëccu
+tëdd
+tëddi
 tëfli
+tëflit
 tëgg
+tëj
 tëjfal
 tëju
 tëkku
@@ -3321,6 +3500,7 @@ wallaay
 wallax
 waloor
 wann
+war
 warang
 warax
 wareef
@@ -3333,6 +3513,8 @@ wattu
 wax
 waxaale
 waxambaane
+waxando
+waxante
 waxin
 waxset
 waxtaan
@@ -3363,6 +3545,7 @@ werante
 wert
 wesar
 wesëm
+wet
 weteñaamu
 wetu
 wewu
@@ -3375,15 +3558,20 @@ wiir
 wiiri
 wiis
 wisit
+woccu
 wodd
 wogg
+wokkatu
 wollamiku
 wollet
 wolli
 wolof
 wommat
 wommiku
+wonale
+wone
 wonni
+woo
 wookaa
 woor
 woorug
@@ -3408,6 +3596,7 @@ wunni
 wuruj
 wurus
 wut
+wutale
 wuttumi
 wuude
 wuul
@@ -3424,6 +3613,7 @@ wàjj
 wàkkirlu
 wàll
 wàllaa
+wàlle
 wàlliyaan
 wànq
 wànte
@@ -3433,11 +3623,13 @@ wàññi
 wàññiku
 wàññu
 wéer
+wéet
 wékk
 wéq
 wéqu
 wér
 wéren
+wérgi
 wéttal
 wéttali
 wéxeñ
@@ -3488,6 +3680,7 @@ xal
 xala
 xalaas
 xalaat
+xalaat 
 xalab
 xalam
 xalangu
@@ -3530,6 +3723,7 @@ xarñéññ
 xas
 xasab
 xasan
+xasanu
 xasar
 xasaw
 xat
@@ -3540,6 +3734,7 @@ xaw
 xawaare
 xaxar
 xay
+xayadi
 xayliit
 xayma
 xayra
@@ -3689,6 +3884,7 @@ xàpp
 xàppaar
 xàppati
 xàqtaay
+xàr
 xàtt
 xàttar
 xàttarbi
@@ -3697,6 +3893,7 @@ xàttër
 xàwwi
 xàyy
 xàñc
+xéet
 xéew
 xéewal
 xéewlu
@@ -3726,6 +3923,7 @@ yaafus
 yaakaar
 yaaram
 yaasa
+yaatu
 yaay
 yagg
 yakkal
@@ -3738,6 +3936,7 @@ yapar
 yaraale
 yaraax
 yaram
+yaru
 yasara
 yatt
 yaxan
@@ -3746,11 +3945,14 @@ yaŋŋas
 yebal
 yebbi
 yedd
+yee
 yeel
 yeer
 yeew
 yeewu
+yelleefu
 yello
+yelwaan
 yemale
 yemb
 yendeer
@@ -3767,7 +3969,8 @@ yolom
 yolomal
 yolos
 yomb
-yool
+yonne
+yooyool
 yoole
 yoonu
 yooru
@@ -3777,9 +3980,11 @@ yoxos
 yulli
 yumpaañ
 yumpum
+yuq
 yuqamtalu
 yuqamtiku
 yuqóol
+yuur
 yuut
 yuuxu
 yàbbi
@@ -3790,6 +3995,7 @@ yàkkamti
 yàlla
 yàmbaa
 yàmbalaŋ
+yàmbar
 yàndoor
 yànj
 yàpp
@@ -3802,6 +4008,7 @@ yéex
 yéexal
 yépp
 yére
+yéwen
 yéwén
 yéwénal
 yëf
@@ -3906,7 +4113,6 @@ yóx
 ñaax
 ñaay
 ñab
-ñab-ñabal
 ñabb
 ñadd
 ñaddu
@@ -3921,6 +4127,7 @@ yóx
 ñall
 ñam
 ñamasle
+ñambi
 ñamble
 ñammle
 ñamusle
@@ -3947,7 +4154,6 @@ yóx
 ñaxnaat
 ñaxtu
 ñayu
-ñebb-ñebbal
 ñebbe
 ñeent
 ñeenteel
@@ -3962,7 +4168,9 @@ yóx
 ñetti
 ñi
 ñibbi
+ñibbisi
 ñiimantu
+ñiir
 ñiit
 ñiitaatu
 ñiutaatu
@@ -3977,6 +4185,7 @@ yóx
 ñoreeku
 ñori
 ñoriku
+ñow
 ñox
 ñoxor
 ñu
@@ -4009,7 +4218,6 @@ yóx
 ñàpp
 ñàppentaan
 ñéer
-ñëgg-ñëgg
 ñëw
 ñóox
 ñóoxit
@@ -4020,29 +4228,21 @@ yóx
 ŋaam
 ŋaamaan
 ŋaas
-ŋaas-ŋaas
-ŋaat-ŋaat
 ŋaaw
 ŋaawaaw
 ŋaax
 ŋaayoo
 ŋabarŋàbb
 ŋacc
-ŋaf-ŋaf
 ŋalaab
-ŋalañ-ŋalañi
 ŋampat
 ŋapp
-ŋapp-ŋappal
 ŋappuj
 ŋar
 ŋara
 ŋas
 ŋat
-ŋat-ŋat
-ŋat-ŋati
 ŋawu
-ŋañ-ŋañi
 ŋaññ
 ŋeet
 ŋeeñ
@@ -4052,12 +4252,10 @@ yóx
 ŋiim
 ŋiis
 ŋippi
-ŋof-ŋofi
 ŋolli
 ŋoob
 ŋoobu
 ŋoor
-ŋoos-ŋoos
 ŋootoot
 ŋott
 ŋoy
