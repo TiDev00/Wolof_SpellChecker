@@ -17,11 +17,14 @@ Contents:
     error_stats
 """
 
+import time
 from utils.detection import Detector
 from utils.weighted_levenshtein import Corrector
 from collections import Counter
 from utils.helper import dynamic_levenshtein
 
+
+# Vocab to verify if right word from test corpus is or isn't in the lexicon
 vocab = []
 for w in open('utils/wolof_lexicon.txt', 'r').read().split():
     vocab.append(w)
