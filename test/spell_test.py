@@ -17,7 +17,6 @@ Contents:
     error_stats
 """
 
-import time
 from utils.detection import Detector
 from utils.weighted_levenshtein import Corrector
 from collections import Counter
