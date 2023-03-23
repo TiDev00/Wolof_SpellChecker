@@ -1,0 +1,5 @@
+wheel==0.36.2
+setuptools==57.0.0
+pyenchant==3.2.2
+numpy==1.24.1
+pip==21.1.2
