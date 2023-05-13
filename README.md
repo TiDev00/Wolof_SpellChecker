@@ -71,7 +71,7 @@ dynamic programming.
 
 ## Citation
 
-If you use this spell checker tool in your research or project, please cite the paper :
+If you use these resources in your research or project, please cite the paper :
 ```
 
 ```
