@@ -43,7 +43,7 @@ class Detector(Base):
 
     def checker(self, word: str) -> bool:
         """
-            Helper method that check if a given word is not french, respects wolof writing rules
+            Helper method that check if a given word respects wolof writing rules
             and is in the wolof lexicon
             Parameters
             ----------
