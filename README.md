@@ -61,7 +61,7 @@ please create an issue or submit a pull request on the GitHub repository.
 
 ## License
 
-This project is licensed under the [https://github.com/TiDev00/Wolof_SpellChecker/blob/master/LICENSE](LICENSE).
+This project is licensed under the [MIT License](https://github.com/TiDev00/Wolof_SpellChecker/blob/master/LICENSE).
 
 ## Acknowledgments
 
