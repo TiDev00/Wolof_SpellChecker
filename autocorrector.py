@@ -31,7 +31,7 @@ lines = text.split("\n")
 # correct the text line by line
 corrected_lines = []
 for line in lines:
-    # use regular expression to split the line into words and punctuation
+    # split the line into words and punctuation
     words = re.findall(r"[\w']+|[^\w\s]", line)
     corrected_words = []
     for word in words:
