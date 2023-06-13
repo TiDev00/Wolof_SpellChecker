@@ -73,5 +73,17 @@ dynamic programming.
 
 If you use these resources in your research or project, please cite the paper :
 ```
-
+@inproceedings{cisse-sadat-2023-automatic,
+    title = "Automatic Spell Checker and Correction for Under-represented Spoken Languages: Case Study on {W}olof",
+    author = "Ciss{\'e}, Thierno Ibrahima  and
+      Sadat, Fatiha",
+    booktitle = "Proceedings of the Fourth workshop on Resources for African Indigenous Languages (RAIL 2023)",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.rail-1.1",
+    pages = "1--10",
+    abstract = "This paper presents a spell checker and correction tool specifically designed for Wolof, an under-represented spoken language in Africa. The proposed spell checker leverages a combination of a trie data structure, dynamic programming, and the weighted Levenshtein distance to generate suggestions for misspelled words. We created novel linguistic resources for Wolof, such as a lexicon and a corpus of misspelled words, using a semi-automatic approach that combines manual and automatic annotation methods. Despite the limited data available for the Wolof language, the spell checker{'}s performance showed a predictive accuracy of 98.31{\%} and a suggestion accuracy of 93.33{\%}.Our primary focus remains the revitalization and preservation of Wolof as an Indigenous and spoken language in Africa, providing our efforts to develop novel linguistic resources. This work represents a valuable contribution to the growth of computational tools and resources for the Wolof language and provides a strong foundation for future studies in the automatic spell checking and correction field.",
+}
 ```
