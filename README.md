@@ -1,5 +1,7 @@
 # Automatic SpellChecking and Correction for Wolof Language
 
+![Wolof Language](https://img.shields.io/badge/language-Wolof-red)
+
 This is a fast spell checker tool implemented in Python that uses a trie node data structure 
 and weighted Levenshtein distance algorithm for efficient and accurate spelling correction. 
 The tool takes a text file as input, identifies misspelled words, and generates a new file with corrected text.
