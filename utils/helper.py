@@ -13,11 +13,8 @@ Contents:
 """
 
 from typing import List
-import enchant
+from polyglot.detect import Detector
 
-
-fr_lex = enchant.Dict('fr')
-en_lex = enchant.Dict('en')
 
 COST_MATRIX = {('a', 'à'): 1, ('o', 'ó'): 1,
                ('a', 'ã'): 1, ('e', 'é'): 1,
@@ -37,9 +34,8 @@ def fr_en_word(word: str) -> bool:
             checking_answer: bool
                 True if a word is in French or English dictionary
     """
-    if fr_lex.check(word) or en_lex.check(word):
-        return True
-    return False
+    detector = Detector(word)
+    return detector.language.code in {'fr', 'en'}
 
 
 def word_preprocessing(word: str) -> str:
