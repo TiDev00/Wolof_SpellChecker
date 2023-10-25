@@ -2,3 +2,5 @@ wheel==0.41.2
 setuptools==68.2.2
 polyglot==16.7.4
 pycld2==0.41
+numpy==1.26.1
+six==1.16.0
