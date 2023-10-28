@@ -296,9 +296,11 @@ def suggestion_adequacy(test_set, verbose: bool = False):
     start = time.time()
 
     for right, wrong in dataset:
-        suggestion = suggester.get_suggestions(wrong)[0][0]
-        good += (suggestion == right)
-        if suggestion != right:
+        suggestions = suggester.get_suggestions(wrong)
+        if suggestions:
+            suggestion = suggestions[0][0]
+            good += (suggestion == right)
+        else:
             if right not in vocab:
                 unknown_words.add(right)
                 unknown += 1

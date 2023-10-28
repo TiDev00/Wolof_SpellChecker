@@ -4,3 +4,4 @@ polyglot==16.7.4
 pycld2==0.41
 numpy==1.26.1
 six==1.16.0
+PyICU==2.11

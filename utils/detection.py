@@ -8,7 +8,6 @@ Contents:
 
 from utils.base import Base
 from utils.wolof_rules import rules_validator
-from utils.helper import fr_en_word
 
 
 class Detector(Base):

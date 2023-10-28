@@ -50,7 +50,9 @@ The tool takes a text file as input, identifies misspelled words, and generates 
 
 1. Ensure that you have activated the virtual environment (if created).
 
-2. Run the spell checker tool with the following command:
+2. Make sure in the input file each sentence is on a separate line
+
+3. Run the spell checker tool with the following command:
 
     ```
    python autocorrector.py /path/to/input_file.txt

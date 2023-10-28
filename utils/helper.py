@@ -44,7 +44,7 @@ def word_preprocessing(word: str) -> str:
         Parameters
         ----------
             word: str
-                word that will converted
+                word that will be converted
         Returns
         ----------
             processed_word: str

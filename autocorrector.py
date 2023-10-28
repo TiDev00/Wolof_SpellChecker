@@ -22,7 +22,7 @@ directory = os.path.dirname(filepath)
 filename = os.path.splitext(os.path.basename(filepath))[0]
 
 # read the text from the input file
-with open(filepath, "r") as f:
+with open(filepath, "r", encoding="utf-8") as f:
     text = f.read()
 
 # split the text into lines
