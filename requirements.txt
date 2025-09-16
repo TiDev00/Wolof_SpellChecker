@@ -1,5 +1,5 @@
 wheel==0.41.2
-setuptools==68.2.2
+setuptools==70.0.0
 polyglot==16.7.4
 pycld2==0.41
 numpy==1.26.1
